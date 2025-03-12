@@ -1,0 +1,228 @@
+"switch_account" = "Cambiar cuenta";
+"continue_as" = "Continuar como";
+"new_password" = "Nueva Contraseña";
+"confirm_password" = "Confirmar Contraseña";
+"password_confirm_password_no_match" = "Por favor, asegúrese de que los campos de Contraseña y Confirmar Contraseña coincidan exactamente.";
+
+//Home
+"club_electric" = "Club Eléctrico";
+"club_electric_desc" = "Comparte tu experiencia, haz preguntas sobre vehículos eléctricos, cargadores y todo lo relacionado con lo eléctrico.";
+"refer_and_earn" = "Referir y Ganar";
+"refer_earn_desc" = "Invita a tus amigos a unirse a Powerly y obtén una recompensa en efectivo de hasta $75.";
+"buy_ev_charger" = "Comprar un Cargador de VE";
+"buy_ev_charger_desc" = "Experimenta la conveniencia de tener tu propio punto de carga para vehículos eléctricos en casa.";
+"join_now" = "Únete Ahora";
+"refer_now" = "Referir Ahora";
+"buy_now" = "Comprar Ahora";
+"nearest" = "Más Cercano";
+"Parking Area" = "Zona de estacionamiento";
+"Shopping Mall" = "Centro comercial";
+"Park" = "Parque";
+"Restaurant" = "Restaurante";
+"Apartment" = "Apartamento";
+"Other" = "Otro";
+"refer_and_earn_guest" = "Compartir la aplicación ahora";
+"refer_earn_desc_guest" = "Ahora puedes invitar a tus amigos a usar nuestra aplicación";
+"refer_now_guest" = "Compartir ahora";
+
+//mapview
+"open" = "Abierto";
+"closed" = "Cerrado";
+"busy" = "Ocupado";
+"available" = "Disponible";
+
+//Charging point detail
+"station" = "Estación";
+"away" = "a";
+"max" = "Máx.";
+"kw" = "kW";
+"kwh" = "kWh";
+"wh" = "wh";
+"minute" = "minuto";
+"minutes" = "minutos";
+"per" = "por";
+"FULL" = "COMPLETO";
+"stop_charging" = "Detener Carga";
+"stop_charging_note" = "Asegúrate de desconectar el enchufe de tu vehículo eléctrico antes de detener la carga.";
+"sure_stop_charging" = "¿Estás seguro/a de que deseas detener la carga?";
+"cancel_booking" = "Cancelar Reserva";
+"sure_cancel_booking" = "¿Estás seguro/a de que deseas cancelar esta reserva?";
+"start_charging_note_above_100" = "Antes de comenzar la carga, ten en cuenta lo siguiente:
+Si no estás cerca de la estación de carga en este momento, la sesión de carga comenzará de todas formas si decides continuar.
+Si ya te encuentras en la estación de carga y estás listo para activar el cargador, selecciona la duración de la carga y pulsa 'Iniciar Carga' para comenzar.";
+"start_charging_note_below_100" = "Estás listo para activar el cargador. Selecciona el tiempo de carga y pulsa 'Iniciar Carga' para comenzar.";
+"open_24_hours" = "Abierto las 24 horas";
+"h" = "h";
+"min" = "min";
+"external_notice" = "Este servicio no está gestionado ni verificado por Powerly. Asegure su seguridad y siempre sea cauteloso.";
+"notice" = "Aviso: ";
+"booking_message" = "¡Genial! Has reservado tu punto de carga. Conduce con seguridad, identifícalo por su nombre y ID, escanea su código QR y ¡disfruta de la carga!";
+"got_it" = "Entendido";
+"offline" = "Desconectado";
+"Unavailable" = "No disponible";
+"busy" = "Ocupado";
+"booked" = "Reservado";
+"booked_by_you" = "Reservado por ti";
+"used_by_you" = "Ocupado contigo";
+"select_plug"="Por favor, seleccione los enchufes antes de comenzar a cargar";
+
+//Add charging station
+"Location" = "Ubicación";
+"Address" = "Dirección";
+"Description" = "Descripción";
+"Stations" = "Estaciones";
+"Hours" = "Horas";
+"Amenities" = "Servicios";
+"Price" = "Precio";
+"Types" = "Tipos";
+"Media" = "Multimedia";
+"limit_per_kWh" = "Límite por kWh";
+"limit_per_kWh" = "Límite por kWh";
+"limit_per_minutes" = "Límite por minuto";
+"price_per_kWh" = "Precio por kWh";
+"price_per_minute" = "Precio por minuto";
+"ev_charger" = "Cargador de vehículos eléctricos";
+"power_meter" = "Medidor de potencia";
+"smart_plug" = "Enchufe inteligente";
+"add_ev_charger" = "Agregar Cargador de Vehículo Eléctrico";
+"add_smart_meter" = "Agregar Medidor Inteligente";
+"my_power_source" = "Mi Fuente de Energía";
+"configuration_failed" = "Configuración fallida";
+"my_ev_charger" = "Mi cargador de coche eléctrico 1";
+"my_smart_meter" = "Mi medidor inteligente 1";
+"my_smart_plug" = "Mi enchufe inteligente 1";
+"select_working_time" = "Por favor, seleccione un horario de trabajo.";
+
+
+//my order
+"active_session" = "Sesión Activa";
+"scheduled" = "Programado";
+"history" = "Historial";
+"order_id" = "ID del Pedido";
+"charging" = "Cargando";
+"recharge" = "Recarga";
+"total" = "Total";
+"scheduled" = "Programado";
+"cancel_booking" = "Cancelar Reserva";
+"booking_id" = "ID de Reserva";
+"total_fees" = "Tarifas Totales";
+"no_active_order" = "Sin pedido activo";
+"no_scheduled_order" = "Sin pedido programado";
+"no_completed_order" = "Sin pedido completado";
+"app_fees" = "Tarifa de la aplicación";
+"reservation_fees" = "Tarifas de reserva";
+"booked_slot" = "Ranura reservada";
+"station_id" = "ID de estación";
+"Configurations" = "Configuraciones";
+
+//Side menu
+"my_power_sources" = "Centro de Energía";
+"my_vehicles" = "Vehículos";
+
+//Balance
+"withdraw" = "Retirar";
+"withdraw_to" = "Retirar a:";
+"withdraw_from" = "Retirar de:";
+"withdraw_policy_desc" = "Lee nuestra Política de Retiros. Toca \"Aceptar y Retirar\" para aceptar los Términos de Servicio.";
+"withdraw_policy" = "Política de Retiros";
+"terms_of_service" = "Términos de Servicio";
+"agree_withdraw" = "Aceptar y Retirar";
+
+//feedback
+"all_reviews" = "Todas las Reseñas";
+"how_was_experience" = "¿Cómo fue tu experiencia?";
+
+//my powersources
+"list_device" = "Listar Dispositivo";
+"unlist_device" = "Quitar de la Lista";
+"list_device_note" = "¿Estás seguro de que deseas listar este dispositivo?\n\nNota: Una vez que lo listes, será visible para el público.";
+"unlist_device_note" = "¿Estás seguro de que deseas quitar este dispositivo de la lista?\n\nNota: Una vez que lo quites de la lista, no será visible para el público.";
+"add_description" = "Agregar descripción aquí...";
+"add_plug" = "Agregar Enchufe";
+"added_to_stations" = "Añadido a las estaciones";
+"camera" = "Cámara";
+"gallery" = "Galería";
+"cancel" = "Cancelar";
+"delete_media" = "¿Eliminar multimedia?";
+"delete_media_note" = "¿Estás seguro de que deseas eliminar esta imagen?";
+"scan_1" = "Si lo compartes con alguien, podrán escanearlo con su ";
+"scan_2" = "cámara para iniciar la carga.";
+"remove_device" = "Quitar dispositivo";
+"remove_device_note" = "¿Estás seguro de que deseas quitar el dispositivo?\n\n Nota: Después de quitar el dispositivo, se borrarán/restablecerán todos tus historiales.";
+"Update" = "Actualizar";
+"before_apping" = "Antes de agregar tu medidor inteligente a tu cuenta, asegúrate de una configuración adecuada:";
+"before_adding_ev" = "Antes de agregar su cargador de vehículo eléctrico a su cuenta, asegúrese de una configuración adecuada:";
+"server" = "Servidor:";
+"username" = "Nombre de usuario:";
+"password" = "Contraseña:";
+"confirm_correctly" = "Confirma cuando esté configurado correctamente.";
+"configuration" = "Configurando";
+"Pending" = "Pendiente";
+"Total Time" = "Tiempo total";
+"share_message_ev" = "¡Hola! He listado mi cargador de vehículos eléctricos en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_message_plug" = "¡Hola! He listado mi enchufe inteligente en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_message_meter" = "¡Hola! He listado mi medidor inteligente en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_earn" = "¡Hola! He estado usando la aplicación Powerly para cargar mi vehículo eléctrico y es increíble. ¡Deberías probarlo! Al unirte a través de mi referencia, ¡podrías ganar hasta $75 en recompensas! Aquí está el enlace para unirte: [Referral Link]
+Aplican términos y condiciones.";
+
+
+//Add vehicle
+"manufacturer" = "Fabricante";
+"model" = "Modelo";
+"details" = "Detalles";
+"delete_vehicle" = "¿Eliminar vehículo?";
+"delete_vehicle_note" = "¿Estás seguro de que deseas eliminar este vehículo?";
+"edit" = "Editar";
+"delete" = "Eliminar";
+"Fuel" = "Combustible";
+"Hybrid" = "Híbrido";
+"Plug-In Hybrid" = "Híbrido enchufable";
+"Electric" = "Eléctrico";
+"Other" = "Otro";
+
+"make_public" = "Hacer Público";
+"make_private" = "Hacer Privado";
+
+"Total re-active power" = "Potencia reactiva total";
+"Total apparent power" = "Potencia aparente total";
+"Total power factor" = "Factor de potencia total";
+"Time Stamp" = "Marca de tiempo";
+
+//Authentication
+"Strong" = "Fuerte";
+"Weak" = "Débil";
+"Medium" = "Medio";
+"Enter your password" = "Introduce tu contraseña";
+"Please enter a email address" = "Por favor, introduce una dirección de correo electrónico";
+"Please enter valid email address" = "Por favor, introduce una dirección de correo electrónico válida";
+"Please enter password" = "Por favor, introduce una contraseña";
+"The password must be at least 8 characters." = "La contraseña debe tener al menos 8 caracteres.";
+"Password and confirm password should be same" = "La contraseña y la confirmación de la contraseña deben ser iguales";
+"Enter your powerly registered password for " = "Introduce tu contraseña registrada en Powerly para ";
+"Select country" = "Seleccionar país";
+"Sign in with Apple" = "Iniciar sesión con Apple";
+"Explore other Sign-in options" = "Explora otras opciones de inicio de sesión";
+"Completed" = "Completado";
+"Open" = "Abierto";
+
+
+"AM" = "Mañana";
+"PM" = "Noche";
+
+"Safely" = "Con Seguridad";
+"Drive to Station" = "Conduce a la Estación";
+"Locate your charger with the app and head to its location. The map will guide you for easy navigation." = "Localiza tu cargador con nuestra aplicación y dirígete a su ubicación. El mapa te guiará para una navegación fácil.";
+"Identify the Charger" = "Identifica el Cargador";
+"In areas with multiple chargers, identify your charger using its unique ID or name, especially helpful if you have" = "En áreas con múltiples cargadores, identifica tu cargador usando su ID único o nombre, especialmente útil si has";
+"booked in advance." = "reservado con antelación.";
+"Start Charger" = "Iniciar Cargador";
+"First, connect your vehicle to the charger. Then, scan the QR code on the charger to" = "Primero, conecta tu vehículo al cargador. Luego, escanea el código QR en el cargador para";
+"start the charging" = "iniciar la carga";
+"process." = "del proceso.";
+"Wait" = "Espera";
+"for Charging" = "para Cargar";
+"Setup complete! A countdown timer will show how long until your vehicle is fully charged. Relax or take a moment for yourself in the meantime." = "¡Configuración completa! Un temporizador de cuenta regresiva mostrará cuánto tiempo falta para que su vehículo esté completamente cargado. Relájese o tómese un momento para usted mientras tanto.";
+
+"no_problem_forgot_password" = "¡No hay problema! Enviaremos una contraseña de un solo uso (OTP) a \(email). Una vez que la recibas, puedes usar la OTP para iniciar sesión y restablecer tu contraseña.";
+
+"New" = "Nuevo";

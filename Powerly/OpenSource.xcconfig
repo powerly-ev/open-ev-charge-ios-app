@@ -1,0 +1,27 @@
+// Test.xcconfig
+// Server URL
+BASE_URL = https:/$()/api.powerly.app/api/v1/
+VERSION_LABEL = TEST
+
+//STRIPE
+STRIPE_PUBLISHED_KEY = //STRIPE PUBLISHED KEY
+
+//APIKEY
+//Replace your map api key here
+GMS_API_KEY = //GMS API KEY
+//Find your api key from powerly dashboard
+OPEN_API_KEY = //OPEN SOURCE API KEY
+GIDClientID =
+GIDReverseClientID =
+
+// App Settings
+APP_NAME = Powerly-Opensource
+APP_BUNDLE_ID = com.powerly.opensource
+PRODUCT_BUNDLE_IDENTIFIER=com.powerly.opensource
+URL_SCHEMA = powerlytest
+
+BUNDLE_VERSION = 0.1
+BUILD_NUMBER = 63
+
+
+

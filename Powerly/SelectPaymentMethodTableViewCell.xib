@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="SelectPaymentMethodTableViewCell" rowHeight="80" id="GzX-8x-LVd" customClass="SelectPaymentMethodTableViewCell" customModule="PowerShare" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="80"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="GzX-8x-LVd" id="zK6-se-QkV">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="80"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qI8-w8-57E">
+                        <rect key="frame" x="16" y="16" width="48" height="48"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cash_icon" translatesAutoresizingMaskIntoConstraints="NO" id="WMz-dx-gaz">
+                                <rect key="frame" x="8" y="8" width="32" height="32"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="32" id="XYU-85-Rfb"/>
+                                    <constraint firstAttribute="height" constant="32" id="z4I-lf-YGT"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" name="F3F3F3"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="48" id="Ypv-cM-S2C"/>
+                            <constraint firstItem="WMz-dx-gaz" firstAttribute="centerX" secondItem="qI8-w8-57E" secondAttribute="centerX" id="eYV-7N-MOG"/>
+                            <constraint firstAttribute="height" constant="48" id="qd6-wl-YWb"/>
+                            <constraint firstItem="WMz-dx-gaz" firstAttribute="centerY" secondItem="qI8-w8-57E" secondAttribute="centerY" id="ymq-3f-dM1"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="TeU-AR-ax0">
+                        <rect key="frame" x="80" y="20.5" width="270" height="39"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cash on Delivery" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="dd0-Yn-6tN">
+                                <rect key="frame" x="0.0" y="0.0" width="270" height="21.5"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="16"/>
+                                <color key="textColor" name="222222"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cash on Delivery" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Oeo-xH-UyH">
+                                <rect key="frame" x="0.0" y="21.5" width="270" height="17.5"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="13"/>
+                                <color key="textColor" name="BEBEBE"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                    </stackView>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="radio_fill_big" translatesAutoresizingMaskIntoConstraints="NO" id="Ndi-fX-dBn">
+                        <rect key="frame" x="366" y="28" width="24" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="24" id="by0-N4-Pln"/>
+                            <constraint firstAttribute="height" constant="24" id="qP7-7N-4GH"/>
+                        </constraints>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="f3V-dv-2P7">
+                        <rect key="frame" x="285.5" y="19" width="68.5" height="42.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="+ Add" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AAs-aw-ENa">
+                                <rect key="frame" x="16" y="12" width="36.5" height="18.5"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="14"/>
+                                <color key="textColor" name="222222"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O73-Zm-pla">
+                                <rect key="frame" x="0.0" y="0.0" width="68.5" height="42.5"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" name="F8F8F8"/>
+                        <constraints>
+                            <constraint firstItem="O73-Zm-pla" firstAttribute="leading" secondItem="f3V-dv-2P7" secondAttribute="leading" id="1UL-Za-TxG"/>
+                            <constraint firstAttribute="trailing" secondItem="AAs-aw-ENa" secondAttribute="trailing" constant="16" id="D0Z-M5-CeL"/>
+                            <constraint firstAttribute="trailing" secondItem="O73-Zm-pla" secondAttribute="trailing" id="UvB-pG-Eg7"/>
+                            <constraint firstItem="AAs-aw-ENa" firstAttribute="top" secondItem="f3V-dv-2P7" secondAttribute="top" constant="12" id="WVq-fO-Ydf"/>
+                            <constraint firstItem="O73-Zm-pla" firstAttribute="top" secondItem="f3V-dv-2P7" secondAttribute="top" id="Zw0-Qr-Fvb"/>
+                            <constraint firstAttribute="bottom" secondItem="O73-Zm-pla" secondAttribute="bottom" id="eGd-Tt-Qe5"/>
+                            <constraint firstAttribute="bottom" secondItem="AAs-aw-ENa" secondAttribute="bottom" constant="12" id="kWT-kO-cpq"/>
+                            <constraint firstItem="AAs-aw-ENa" firstAttribute="leading" secondItem="f3V-dv-2P7" secondAttribute="leading" constant="16" id="rWE-n1-G37"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="16"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="f3V-dv-2P7" firstAttribute="centerY" secondItem="zK6-se-QkV" secondAttribute="centerY" id="55Y-Fm-a9b"/>
+                    <constraint firstItem="TeU-AR-ax0" firstAttribute="leading" secondItem="qI8-w8-57E" secondAttribute="trailing" constant="16" id="8ou-9s-kTm"/>
+                    <constraint firstItem="Ndi-fX-dBn" firstAttribute="leading" secondItem="f3V-dv-2P7" secondAttribute="trailing" constant="12" id="9hY-L1-A7G"/>
+                    <constraint firstAttribute="trailing" secondItem="Ndi-fX-dBn" secondAttribute="trailing" constant="24" id="Gib-lz-vDf"/>
+                    <constraint firstItem="Ndi-fX-dBn" firstAttribute="leading" secondItem="TeU-AR-ax0" secondAttribute="trailing" constant="16" id="Jk4-Yc-5ri"/>
+                    <constraint firstItem="qI8-w8-57E" firstAttribute="centerY" secondItem="zK6-se-QkV" secondAttribute="centerY" id="PRo-6M-QL0"/>
+                    <constraint firstItem="qI8-w8-57E" firstAttribute="leading" secondItem="zK6-se-QkV" secondAttribute="leading" constant="16" id="XxB-tK-hkO"/>
+                    <constraint firstItem="Ndi-fX-dBn" firstAttribute="centerY" secondItem="zK6-se-QkV" secondAttribute="centerY" id="gfv-5B-0o8"/>
+                    <constraint firstItem="TeU-AR-ax0" firstAttribute="centerY" secondItem="zK6-se-QkV" secondAttribute="centerY" id="sal-CF-igi"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="addButton" destination="O73-Zm-pla" id="Irh-1l-gLq"/>
+                <outlet property="addLabel" destination="AAs-aw-ENa" id="p1D-qn-bL8"/>
+                <outlet property="addView" destination="f3V-dv-2P7" id="c1L-91-9yc"/>
+                <outlet property="methodImageView" destination="WMz-dx-gaz" id="UHi-Sh-BlQ"/>
+                <outlet property="paymentMethodLabel" destination="dd0-Yn-6tN" id="QFO-sN-6lm"/>
+                <outlet property="radioImageView" destination="Ndi-fX-dBn" id="X1C-ni-d59"/>
+                <outlet property="subTitleLabel" destination="Oeo-xH-UyH" id="7VX-pw-BFe"/>
+                <outlet property="titleStackView" destination="TeU-AR-ax0" id="Z9S-ce-aMO"/>
+            </connections>
+            <point key="canvasLocation" x="974.39999999999998" y="199.50738916256159"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="cash_icon" width="32" height="32"/>
+        <image name="radio_fill_big" width="24" height="24"/>
+        <namedColor name="222222">
+            <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="BEBEBE">
+            <color red="0.74500000476837158" green="0.74500000476837158" blue="0.74500000476837158" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="F3F3F3">
+            <color red="0.95300000905990601" green="0.95300000905990601" blue="0.95300000905990601" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="F8F8F8">
+            <color red="0.97299998998641968" green="0.97299998998641968" blue="0.97299998998641968" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,62 @@
+/* Class = "UILabel"; text = "Four Square Station"; ObjectID = "1OV-dz-FIg"; */
+"1OV-dz-FIg.text" = "Estación Cuatro Esquinas";
+
+/* Class = "UILabel"; text = "Allow"; ObjectID = "55e-xh-gpc"; */
+"55e-xh-gpc.text" = "Permitir";
+
+/* Class = "UILabel"; text = "1,473"; ObjectID = "5MX-fC-nlP"; */
+"5MX-fC-nlP.text" = "1,473";
+
+/* Class = "UILabel"; text = "Refer Now"; ObjectID = "7W9-9h-42C"; */
+"7W9-9h-42C.text" = "Referir Ahora";
+
+/* Class = "UILabel"; text = "• Help the community grow and   navigate."; ObjectID = "7yx-iZ-GQx"; */
+"7yx-iZ-GQx.text" = "• Ayuda a la comunidad a crecer y   navegar.";
+
+/* Class = "UILabel"; text = "Refer and Earn"; ObjectID = "DVT-QE-Mbi"; */
+"DVT-QE-Mbi.text" = "Referir y Ganar";
+
+/* Class = "UILabel"; text = "Powerly"; ObjectID = "F6J-g4-cNs"; */
+"F6J-g4-cNs.text" = "Powerly";
+
+/* Class = "UILabel"; text = "• Pin it for yourself and others."; ObjectID = "G00-I8-6R6"; */
+"G00-I8-6R6.text" = "• Marca para ti y para otros.";
+
+/* Class = "UILabel"; text = "• Be a part of a greener planet!"; ObjectID = "Gbu-um-giv"; */
+"Gbu-um-giv.text" = "• Sé parte de un planeta más verde!";
+
+/* Class = "UILabel"; text = "• Reach out to millions effortlessly."; ObjectID = "ICD-pY-Jvb"; */
+"ICD-pY-Jvb.text" = "• Llega a millones sin esfuerzo.";
+
+/* Class = "UILabel"; text = "Share your location to view nearby stations"; ObjectID = "LfQ-mt-hO0"; */
+"LfQ-mt-hO0.text" = "Comparte tu ubicación para ver estaciones cercanas";
+
+/* Class = "UILabel"; text = "Continue"; ObjectID = "Ne0-RD-CNV"; */
+"Ne0-RD-CNV.text" = "Continuar";
+
+/* Class = "UILabel"; text = "View Nearby Stations"; ObjectID = "OBx-mE-iFT"; */
+"OBx-mE-iFT.text" = "Ver Estaciones Cercanas";
+
+/* Class = "UILabel"; text = "Sync Your Charger with Powerly"; ObjectID = "TMK-18-u3o"; */
+"TMK-18-u3o.text" = "Sincroniza tu Cargador con Powerly";
+
+/* Class = "UILabel"; text = "• One platform to control all your   chargers."; ObjectID = "TcA-oL-rSc"; */
+"TcA-oL-rSc.text" = "• Una plataforma para controlar todos tus   cargadores.";
+
+/* Class = "UILabel"; text = "• Enjoy seamless operations & instant   payments."; ObjectID = "ZZX-9i-jpX"; */
+"ZZX-9i-jpX.text" = "• Disfruta de operaciones fluidas y pagos instantáneos.";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "biM-2E-vQP"; */
+"biM-2E-vQP.text" = "Iniciar Sesión";
+
+/* Class = "UILabel"; text = "Invite your friends to Powerly and earn a cash reward"; ObjectID = "duA-wg-V48"; */
+"duA-wg-V48.text" = "Invita a tus amigos a Powerly y gana una recompensa en efectivo";
+
+/* Class = "UILabel"; text = "Report a New Charger"; ObjectID = "gGV-0D-gku"; */
+"gGV-0D-gku.text" = "Informar de un Nuevo Cargador";
+
+/* Class = "UILabel"; text = "Tariff: 20 SR/kWh"; ObjectID = "kCz-WN-Tj5"; */
+"kCz-WN-Tj5.text" = "Tarifa: 20 SR/kWh";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "tBa-No-mi1"; */
+"tBa-No-mi1.text" = "Ayuda";

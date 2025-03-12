@@ -1,0 +1,50 @@
+/* Class = "UILabel"; text = "Delivery Point"; ObjectID = "1Dj-42-5Fd"; */
+"1Dj-42-5Fd.text" = "نقطة التسليم";
+
+/* Class = "UILabel"; text = "Continue"; ObjectID = "BqE-s9-NLf"; */
+"BqE-s9-NLf.text" = "متابعة";
+
+/* Class = "UILabel"; text = "To find your location automatically,  please enable location services "; ObjectID = "H6M-R0-b6u"; */
+"H6M-R0-b6u.text" = "للعثور على موقعك تلقائيًا، يُرجى تمكين خدمات الموقع";
+
+/* Class = "UILabel"; text = "Pin Location"; ObjectID = "R48-7d-3I0"; */
+"R48-7d-3I0.text" = "تثبيت الموقع";
+
+/* Class = "UITextField"; placeholder = "Enter your mobile number"; ObjectID = "RLu-XQ-Ute"; */
+"RLu-XQ-Ute.placeholder" = "أدخل رقم هاتفك المحمول";
+
+/* Class = "UILabel"; text = "Do you own this address and can authorise charging point installation?"; ObjectID = "Xba-xF-geY"; */
+"Xba-xF-geY.text" = "هل تمتلك هذا العنوان ويمكنك الموافقة على تركيب نقطة الشحن؟";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "Xdb-7t-jzN"; */
+"Xdb-7t-jzN.text" = "اختر";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "YbG-SG-Z1v"; */
+"YbG-SG-Z1v.text" = "لا";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "Zjt-WQ-GV7"; */
+"Zjt-WQ-GV7.text" = "اختر الموقع";
+
+/* Class = "UILabel"; text = "Request Charger"; ObjectID = "amx-9N-VtF"; */
+"amx-9N-VtF.text" = "طلب شاحن";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "mZ6-C0-WJ9"; */
+"mZ6-C0-WJ9.text" = "اختر";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "qOF-BX-fMh"; */
+"qOF-BX-fMh.text" = "اختر الموقع";
+
+/* Class = "UILabel"; text = "Continue"; ObjectID = "rFy-bw-laB"; */
+"rFy-bw-laB.text" = "متابعة";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "rRA-eg-ADA"; */
+"rRA-eg-ADA.text" = "";
+
+/* Class = "UILabel"; text = "Fill out the following info to request a charging stationnear your location"; ObjectID = "tqq-Jd-A6Q"; */
+"tqq-Jd-A6Q.text" = "املأ المعلومات التالية لطلب محطة شحن قرب موقعك";
+
+/* Class = "UILabel"; text = "Address Type"; ObjectID = "vwc-7h-eZy"; */
+"vwc-7h-eZy.text" = "نوع العنوان";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "wbm-zt-x0U"; */
+"wbm-zt-x0U.text" = "نعم";

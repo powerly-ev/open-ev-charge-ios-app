@@ -1,0 +1,226 @@
+/* Class = "UILabel"; text = "Drive to Station"; ObjectID = "14G-Sc-kX0"; */
+"14G-Sc-kX0.text" = "الانتقال إلى المحطة";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "1IO-Ae-DN5"; */
+"1IO-Ae-DN5.text" = "السعر";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "1cp-qB-o3v"; */
+"1cp-qB-o3v.text" = "اليوم";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "20S-qY-utQ"; */
+"20S-qY-utQ.text" = "السعر";
+
+/* Class = "UIViewController"; title = "StoreMapViewController"; ObjectID = "2pa-nJ-4oT"; */
+"2pa-nJ-4oT.title" = "وحدة تحكم الخريطة";
+
+/* Class = "UILabel"; text = "1 Star"; ObjectID = "33m-Ff-adu"; */
+"33m-Ff-adu.text" = "نجمة واحدة";
+
+/* Class = "UILabel"; text = "Ratings & Reviews"; ObjectID = "3S6-2B-QvK"; */
+"3S6-2B-QvK.text" = "التقييمات والمراجعات";
+
+/* Class = "UILabel"; text = "Station"; ObjectID = "3s0-mu-0fz"; */
+"3s0-mu-0fz.text" = "المحطة";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "4lk-mf-fOM"; */
+"4lk-mf-fOM.text" = "اليوم";
+
+/* Class = "UILabel"; text = "Select Time"; ObjectID = "5FS-gQ-biy"; */
+"5FS-gQ-biy.text" = "اختر الوقت";
+
+/* Class = "UILabel"; text = "Parking"; ObjectID = "8Sa-dH-lVe"; */
+"8Sa-dH-lVe.text" = "موقف السيارات";
+
+/* Class = "UILabel"; text = "Amenities"; ObjectID = "8Y8-LH-Tno"; */
+"8Y8-LH-Tno.text" = "وسائل الراحة";
+
+/* Class = "UILabel"; text = "Start Time"; ObjectID = "8h4-2U-4So"; */
+"8h4-2U-4So.text" = "وقت البدء";
+
+/* Class = "UILabel"; text = "Search Address"; ObjectID = "9Aw-n2-Jc8"; */
+"9Aw-n2-Jc8.text" = "البحث عن العنوان";
+
+/* Class = "UILabel"; text = "Book in Advance "; ObjectID = "BNe-aT-fAH"; */
+"BNe-aT-fAH.text" = "حجز مسبق";
+
+/* Class = "UILabel"; text = "Secure Booking"; ObjectID = "Bnb-nZ-XDl"; */
+"Bnb-nZ-XDl.text" = "ثبّت حجزك";
+
+/* Class = "UILabel"; text = "Station #5674567"; ObjectID = "CO2-4P-07B"; */
+"CO2-4P-07B.text" = "المحطة #5674567";
+
+/* Class = "UILabel"; text = "Turning Point Energy - Wallbox Chargers"; ObjectID = "Cj8-Eu-4qa"; */
+"Cj8-Eu-4qa.text" = "شحن الطاقة نقطة الانطلاق - شواحن والبوكس";
+
+/* Class = "UILabel"; text = "To find your location automatically,  please enable location services "; ObjectID = "CkL-la-HJw"; */
+"CkL-la-HJw.text" = "للعثور على موقعك تلقائيًا، يرجى تمكين خدمات الموقع";
+
+/* Class = "UILabel"; text = "48 Al Urubah Road 12215"; ObjectID = "DUu-CY-b3U"; */
+"DUu-CY-b3U.text" = "48 شارع العروبة 12215";
+
+/* Class = "UILabel"; text = "5 Star"; ObjectID = "DhQ-kl-Mp9"; */
+"DhQ-kl-Mp9.text" = "نجمة 5";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "DuI-30-48r"; */
+"DuI-30-48r.text" = "الوصف";
+
+/* Class = "UILabel"; text = "Start Charging"; ObjectID = "EfX-Ue-AVe"; */
+"EfX-Ue-AVe.text" = "بدء الشحن";
+
+/* Class = "UILabel"; text = "550"; ObjectID = "FVW-u7-23h"; */
+"FVW-u7-23h.text" = "550";
+
+/* Class = "UILabel"; text = "Wall Outlet"; ObjectID = "Gtl-TQ-7Rm"; */
+"Gtl-TQ-7Rm.text" = "مأخذ الحائط";
+
+/* Class = "UILabel"; text = "3 Star"; ObjectID = "IuZ-MK-fcd"; */
+"IuZ-MK-fcd.text" = "نجمة 3";
+
+/* Class = "UILabel"; text = "Free"; ObjectID = "LQD-RF-EjH"; */
+"LQD-RF-EjH.text" = "مجاناً";
+
+/* Class = "UILabel"; text = "1,473"; ObjectID = "O49-Dq-lSO"; */
+"O49-Dq-lSO.text" = "1473";
+
+/* Class = "UILabel"; text = "All reviews (12)"; ObjectID = "OkP-iz-jrY"; */
+"OkP-iz-jrY.text" = "جميع التقييمات ";
+
+/* Class = "UILabel"; text = "Charger Activation"; ObjectID = "PG4-vr-rTH"; */
+"PG4-vr-rTH.text" = "تفعيل الشاحن";
+
+/* Class = "UILabel"; text = "384 watt"; ObjectID = "PGU-Wl-cQu"; */
+"PGU-Wl-cQu.text" = "-";
+
+/* Class = "UILabel"; text = "Stop Charging"; ObjectID = "R7F-yM-HAY"; */
+"R7F-yM-HAY.text" = "إيقاف الشحن";
+
+/* Class = "UILabel"; text = "Lodging"; ObjectID = "SVU-1I-2Bx"; */
+"SVU-1I-2Bx.text" = "الإقامة";
+
+/* Class = "UILabel"; text = "4 Star"; ObjectID = "SXN-58-ROv"; */
+"SXN-58-ROv.text" = "نجمة 4";
+
+/* Class = "UILabel"; text = "Select Day"; ObjectID = "TLV-Co-GSa"; */
+"TLV-Co-GSa.text" = "اختر اليوم";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "TYL-Lu-w6h"; */
+"TYL-Lu-w6h.text" = "التاريخ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XGn-5S-pWU"; */
+"XGn-5S-pWU.text" = "علامة";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "YQZ-9E-eHD"; */
+"YQZ-9E-eHD.text" = "0.0";
+
+/* Class = "UILabel"; text = "2 Star"; ObjectID = "Z60-Pz-S5P"; */
+"Z60-Pz-S5P.text" = "نجمة 2";
+
+/* Class = "UILabel"; text = "G"; ObjectID = "auG-O8-AgF"; */
+"auG-O8-AgF.text" = "ج";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "cnM-xY-2S3"; */
+"cnM-xY-2S3.text" = "عنوان";
+
+/* Class = "UILabel"; text = "384"; ObjectID = "dQj-Qm-NhG"; */
+"dQj-Qm-NhG.text" = "384";
+
+/* Class = "UILabel"; text = "(Non-refundable fee.)"; ObjectID = "fO2-4L-Sl6"; */
+"fO2-4L-Sl6.text" = "(رسوم غير قابلة للاسترداد.)";
+
+/* Class = "UILabel"; text = "Tariff: 20 SR/kWh"; ObjectID = "fUX-Fk-00d"; */
+"fUX-Fk-00d.text" = "التعرفة: 20 ريال/كيلوواط ساعة";
+
+/* Class = "UILabel"; text = "Friday, 15 Feb"; ObjectID = "fcP-u5-zx4"; */
+"fcP-u5-zx4.text" = "الجمعة، 15 فبراير";
+
+/* Class = "UILabel"; text = "1/2"; ObjectID = "gvH-kG-ZQ2"; */
+"gvH-kG-ZQ2.text" = "1/2";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "h3l-Q2-rOC"; */
+"h3l-Q2-rOC.text" = "0";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "i9Z-oR-aaJ"; */
+"i9Z-oR-aaJ.text" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "iGE-nf-2gj"; */
+"iGE-nf-2gj.text" = "الاسم";
+
+/* Class = "UILabel"; text = "9.00 SAR/kWh"; ObjectID = "iNX-MJ-NlB"; */
+"iNX-MJ-NlB.text" = "9.00 ريال/كيلوواط ساعة";
+
+/* Class = "UILabel"; text = "9.00 SAR/kWh"; ObjectID = "kBB-S7-qgn"; */
+"kBB-S7-qgn.text" = "9.00 ريال/كيلوواط ساعة";
+
+/* Class = "UILabel"; text = "Total Price "; ObjectID = "kDx-wQ-DKG"; */
+"kDx-wQ-DKG.text" = "السعر الإجمالي";
+
+/* Class = "UILabel"; text = "Friday 15 Feb, Now"; ObjectID = "kcY-vH-ZDl"; */
+"kcY-vH-ZDl.text" = "الجمعة 15 فبراير، الآن";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nel-FM-ILb"; */
+"nel-FM-ILb.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nzH-1E-8ZL"; */
+"nzH-1E-8ZL.text" = "0";
+
+/* Class = "UILabel"; text = "Book Station"; ObjectID = "pp0-mx-BUb"; */
+"pp0-mx-BUb.text" = "حجز المحطة";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "qh6-lm-040"; */
+"qh6-lm-040.text" = "مساعدة";
+
+/* Class = "UILabel"; text = "Four Square Station"; ObjectID = "qie-qk-y9t"; */
+"qie-qk-y9t.text" = "محطة الأربعة مربعات";
+
+/* Class = "UILabel"; text = "Close Time"; ObjectID = "qmf-1H-39g"; */
+"qmf-1H-39g.text" = "وقت الإغلاق";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "r0B-po-wYz"; */
+"r0B-po-wYz.text" = "0";
+
+/* Class = "UILabel"; text = "Fees"; ObjectID = "rUc-8B-K6E"; */
+"rUc-8B-K6E.text" = "الرسوم";
+
+/* Class = "UILabel"; text = "50 KM away"; ObjectID = "s5r-bZ-EWd"; */
+"s5r-bZ-EWd.text" = "على بعد 50 كم";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "si3-6C-Bcx"; */
+"si3-6C-Bcx.text" = "0.0";
+
+/* Class = "UILabel"; text = "16 SR"; ObjectID = "ssA-Xd-0x0"; */
+"ssA-Xd-0x0.text" = "-";
+
+/* Class = "UILabel"; text = "Before you start charging, please keep in mind:\n\nIf you're not currently near the charging station, the charging session will still begin if you proceed.\n\nIf you're already at the charging station and ready to activate the charger, choose your charging duration and tap 'Start Charging' to initiate."; ObjectID = "swq-jH-GHW"; */
+"swq-jH-GHW.text" = "قبل أن تبدأ الشحن، يرجى أن تضع في اعتبارك:\n\nإذا كنت ليس بالقرب من محطة الشحن حالياً، فإن جلسة الشحن ستبدأ على أية حال إذا قمت بالمتابعة.\n\nإذا كنت بالفعل في محطة الشحن وجاهزًا لتفعيل الشاحن، اختر مدة الشحن واضغط على 'بدء الشحن' لبدء العملية.";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "t55-fz-FnY"; */
+"t55-fz-FnY.text" = "السعر";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "tbK-6f-nVJ"; */
+"tbK-6f-nVJ.text" = "4.5";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "uMb-Jf-b6M"; */
+"uMb-Jf-b6M.text" = "ريال";
+
+/* Class = "UILabel"; text = "Powerly Fees"; ObjectID = "wWy-42-0hR"; */
+"wWy-42-0hR.text" = "رسوم باورلي";
+
+/* Class = "UILabel"; text = "Charged"; ObjectID = "wvy-gd-o4L"; */
+"wvy-gd-o4L.text" = "تم الشحن";
+
+/* Class = "UILabel"; text = "Start Charging"; ObjectID = "z7e-A3-yoi"; */
+"z7e-A3-yoi.text" = "بدء الشحن";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "zAk-05-w3y"; */
+"zAk-05-w3y.text" = "الوقت";
+
+/* Class = "UILabel"; text = "Helpful"; ObjectID = "zdg-sS-VJy"; */
+"zdg-sS-VJy.text" = "مفيد";
+
+/* Class = "UILabel"; text = "Powerly"; ObjectID = "zl3-VJ-5lY"; */
+"zl3-VJ-5lY.text" = "باورلي";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "zvz-5C-Low"; */
+"zvz-5C-Low.text" = "0";
+
+"snc-FM-E2j.text" = "كيف تشحن سيارتك";

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Bold.ttf">
+            <string>Roboto-Bold</string>
+        </array>
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Invite View Controller-->
+        <scene sceneID="3Br-OI-cvP">
+            <objects>
+                <viewController storyboardIdentifier="InviteViewController" id="EcC-Qn-fE4" customClass="InviteViewController" customModule="Powerly" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="XjW-ID-pbs">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PVm-p5-pKv">
+                                <rect key="frame" x="0.0" y="48" width="414" height="56"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Invitation" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9vf-Vz-uCo">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="55"/>
+                                        <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="18"/>
+                                        <color key="textColor" name="222222"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xY6-l1-p0Q">
+                                        <rect key="frame" x="0.0" y="0.0" width="56" height="55"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="56" id="vUa-Pc-fna"/>
+                                        </constraints>
+                                        <state key="normal" image="close_black"/>
+                                        <connections>
+                                            <action selector="btnActionSideMenu:" destination="EcC-Qn-fE4" eventType="touchUpInside" id="SUy-sa-KJo"/>
+                                        </connections>
+                                    </button>
+                                    <view alpha="0.18999999761581421" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BHw-iu-asN">
+                                        <rect key="frame" x="0.0" y="55" width="414" height="1"/>
+                                        <color key="backgroundColor" name="999999"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="1" id="gLy-1t-2FS"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="xY6-l1-p0Q" firstAttribute="top" secondItem="PVm-p5-pKv" secondAttribute="top" id="6bY-Mw-g1j"/>
+                                    <constraint firstItem="BHw-iu-asN" firstAttribute="top" secondItem="9vf-Vz-uCo" secondAttribute="bottom" id="CCW-hC-sFF"/>
+                                    <constraint firstAttribute="bottom" secondItem="BHw-iu-asN" secondAttribute="bottom" id="EM7-6K-lPV"/>
+                                    <constraint firstItem="9vf-Vz-uCo" firstAttribute="leading" secondItem="PVm-p5-pKv" secondAttribute="leading" id="GE2-OS-oue"/>
+                                    <constraint firstItem="9vf-Vz-uCo" firstAttribute="centerX" secondItem="PVm-p5-pKv" secondAttribute="centerX" id="Gzv-kd-5v1"/>
+                                    <constraint firstItem="xY6-l1-p0Q" firstAttribute="leading" secondItem="PVm-p5-pKv" secondAttribute="leading" id="Mfv-KR-2dw"/>
+                                    <constraint firstItem="BHw-iu-asN" firstAttribute="top" secondItem="xY6-l1-p0Q" secondAttribute="bottom" id="Y7c-rc-5Aa"/>
+                                    <constraint firstAttribute="height" constant="56" id="YHI-xv-E7b"/>
+                                    <constraint firstAttribute="trailing" secondItem="9vf-Vz-uCo" secondAttribute="trailing" id="ZM4-Va-rl2"/>
+                                    <constraint firstItem="9vf-Vz-uCo" firstAttribute="top" secondItem="PVm-p5-pKv" secondAttribute="top" id="d47-CD-gcK"/>
+                                    <constraint firstItem="BHw-iu-asN" firstAttribute="leading" secondItem="PVm-p5-pKv" secondAttribute="leading" id="kYO-C6-eUY"/>
+                                    <constraint firstAttribute="trailing" secondItem="BHw-iu-asN" secondAttribute="trailing" id="zw8-gz-Jxz"/>
+                                </constraints>
+                            </view>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gjo-r0-5wF">
+                                <rect key="frame" x="127" y="224" width="160" height="160"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="160" id="pgW-p8-LVX"/>
+                                    <constraint firstAttribute="width" constant="160" id="sXC-b6-suF"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Your QR code is private. If you share it with someone, they can scan it with their phone to add you as a contact." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CDx-aX-w3j">
+                                <rect key="frame" x="16" y="400" width="382" height="327"/>
+                                <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                <color key="textColor" name="999999"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eaj-0X-O8e">
+                                <rect key="frame" x="16" y="806" width="382" height="55"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="55" id="jQi-31-6bM"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="16"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="11" maxY="0.0"/>
+                                <state key="normal" title="Copy Code" image="copy_code_icon">
+                                    <color key="titleColor" name="222222"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="btnActionCopyLink:" destination="EcC-Qn-fE4" eventType="touchUpInside" id="fRX-q9-0Wx"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bZa-VG-K6z">
+                                <rect key="frame" x="16" y="743" width="382" height="55"/>
+                                <color key="backgroundColor" name="222222"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="55" id="s5k-0h-U1g"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="16"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="11" maxY="0.0"/>
+                                <state key="normal" title="Share Code" image="share_icon">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="8"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="btnActionShareCode:" destination="EcC-Qn-fE4" eventType="touchUpInside" id="NZf-cY-WCH"/>
+                                </connections>
+                            </button>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="Kbp-qg-q2N">
+                                <rect key="frame" x="188.5" y="429.5" width="37" height="37"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="OUb-8L-RP2"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="OUb-8L-RP2" firstAttribute="trailing" secondItem="PVm-p5-pKv" secondAttribute="trailing" id="1tK-WO-7Rd"/>
+                            <constraint firstItem="PVm-p5-pKv" firstAttribute="leading" secondItem="OUb-8L-RP2" secondAttribute="leading" id="40F-LZ-vjV"/>
+                            <constraint firstItem="eaj-0X-O8e" firstAttribute="leading" secondItem="OUb-8L-RP2" secondAttribute="leading" constant="16" id="CBX-P4-frc"/>
+                            <constraint firstItem="OUb-8L-RP2" firstAttribute="trailing" secondItem="eaj-0X-O8e" secondAttribute="trailing" constant="16" id="CRh-UA-joX"/>
+                            <constraint firstItem="Kbp-qg-q2N" firstAttribute="centerY" secondItem="XjW-ID-pbs" secondAttribute="centerY" id="Drc-pD-3Ap"/>
+                            <constraint firstItem="gjo-r0-5wF" firstAttribute="centerX" secondItem="XjW-ID-pbs" secondAttribute="centerX" id="ECt-CJ-fpT"/>
+                            <constraint firstItem="gjo-r0-5wF" firstAttribute="top" secondItem="PVm-p5-pKv" secondAttribute="bottom" constant="120" id="LA0-SX-9VN"/>
+                            <constraint firstItem="CDx-aX-w3j" firstAttribute="leading" secondItem="OUb-8L-RP2" secondAttribute="leading" constant="16" id="R2Q-YM-sMq"/>
+                            <constraint firstItem="eaj-0X-O8e" firstAttribute="top" secondItem="bZa-VG-K6z" secondAttribute="bottom" constant="8" id="W1q-oW-G6d"/>
+                            <constraint firstItem="PVm-p5-pKv" firstAttribute="top" secondItem="OUb-8L-RP2" secondAttribute="top" id="Zm4-c0-ec5"/>
+                            <constraint firstItem="CDx-aX-w3j" firstAttribute="top" secondItem="gjo-r0-5wF" secondAttribute="bottom" constant="16" id="bKC-Pb-IvO"/>
+                            <constraint firstItem="OUb-8L-RP2" firstAttribute="trailing" secondItem="bZa-VG-K6z" secondAttribute="trailing" constant="16" id="fbO-BZ-YpZ"/>
+                            <constraint firstItem="Kbp-qg-q2N" firstAttribute="centerX" secondItem="XjW-ID-pbs" secondAttribute="centerX" id="g6O-fG-hux"/>
+                            <constraint firstItem="bZa-VG-K6z" firstAttribute="leading" secondItem="OUb-8L-RP2" secondAttribute="leading" constant="16" id="hIf-9h-bfv"/>
+                            <constraint firstAttribute="bottom" secondItem="eaj-0X-O8e" secondAttribute="bottom" constant="35" id="tgd-mu-qXt"/>
+                            <constraint firstItem="OUb-8L-RP2" firstAttribute="trailing" secondItem="CDx-aX-w3j" secondAttribute="trailing" constant="16" id="vgy-Rd-9Ac"/>
+                            <constraint firstItem="bZa-VG-K6z" firstAttribute="top" secondItem="CDx-aX-w3j" secondAttribute="bottom" constant="16" id="zVP-a0-pmO"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="btnCopy" destination="eaj-0X-O8e" id="xSt-Ex-e8d"/>
+                        <outlet property="headerView" destination="PVm-p5-pKv" id="qVY-bf-VtC"/>
+                        <outlet property="inviteQRDescriptionLabel" destination="CDx-aX-w3j" id="OT8-2B-R4d"/>
+                        <outlet property="lblTitle" destination="9vf-Vz-uCo" id="vrD-uv-Fe1"/>
+                        <outlet property="objActivityIndicator" destination="Kbp-qg-q2N" id="02q-FG-qq8"/>
+                        <outlet property="qrImageView" destination="gjo-r0-5wF" id="cdj-Lm-knz"/>
+                        <outlet property="shareButton" destination="bZa-VG-K6z" id="oXr-UH-N45"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Xrh-NM-Ou8" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-3204.347826086957" y="2158.2589285714284"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="close_black" width="24" height="24"/>
+        <image name="copy_code_icon" width="24" height="24"/>
+        <image name="share_icon" width="24" height="24"/>
+        <namedColor name="222222">
+            <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="999999">
+            <color red="0.60000002384185791" green="0.60000002384185791" blue="0.60000002384185791" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

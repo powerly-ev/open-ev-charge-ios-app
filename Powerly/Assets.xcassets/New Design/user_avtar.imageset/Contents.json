@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "user_avtar.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

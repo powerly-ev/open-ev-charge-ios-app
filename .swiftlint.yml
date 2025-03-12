@@ -1,0 +1,65 @@
+excluded:
+  - .build
+  - Carthage
+  - Package.swift
+  - Powerly/*/Carthage
+  - Powerly/*/Pods
+  - Pods
+
+opt_in_rules:
+  - anyobject_protocol
+  - closure_end_indentation
+  - closure_spacing
+  - explicit_init
+  - modifier_order
+  - prefer_self_type_over_type_of_self
+  - sorted_imports
+  - test_case_accessibility
+  - unneeded_parentheses_in_closure_argument
+  - vertical_whitespace_between_cases
+  - vertical_whitespace_closing_braces
+  - redundant_objc_attribute
+  - vertical_whitespace_between_cases
+  - redundant_objc_attribute
+  - identifier_name
+  - trailing_whitespace
+  - cyclomatic_complexity
+  - shorthand_operator
+  - large_tuple
+  - function_parameter_count
+  - force_cast
+  - force_try
+  - type_name
+
+disabled_rules:
+  - trailing_whitespace
+
+identifier_name:
+  excluded:
+  - id
+  - ex
+  - to
+  - ws
+  - URL
+  - GlobalAPIKey
+  
+line_length:
+  warning: 1920
+  error: 1900
+  
+function_body_length:
+  warning: 510
+  error: 520
+  
+file_length:
+  warning: 1900
+  error: 2000
+  
+type_body_length:
+  warning: 1600
+  error: 1800
+  
+type_name:
+  allowed_symbols: "_"
+
+warning_threshold: 10000

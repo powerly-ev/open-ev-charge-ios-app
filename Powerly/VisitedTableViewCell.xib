@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="VisitedTableViewCell" rowHeight="60" id="N6l-h6-wJ9" customClass="VisitedTableViewCell" customModule="Powerly" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="377" height="60"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="N6l-h6-wJ9" id="xSY-a5-NN3">
+                <rect key="frame" x="0.0" y="0.0" width="377" height="60"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="U5c-Rw-Td4">
+                        <rect key="frame" x="8" y="4" width="361" height="44"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="eRb-N6-Nqe">
+                                <rect key="frame" x="16" y="11.333333333333334" width="297" height="21.333333333333329"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="checkmark.circle.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="YcU-sn-gO1">
+                                        <rect key="frame" x="0.0" y="1.6666666666666643" width="24" height="19"/>
+                                        <color key="tintColor" name="008CE9"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="24" id="YYg-Tt-XP4"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tariff: 20 SR/kWh" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xWD-Yf-HBx">
+                                        <rect key="frame" x="28" y="1.3333333333333339" width="80" height="18.666666666666664"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="80" id="H9u-Cw-D2a"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                        <color key="textColor" name="222222"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Four Square Station" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qlg-Lr-ayO">
+                                        <rect key="frame" x="112" y="0.0" width="185" height="21.333333333333332"/>
+                                        <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="16"/>
+                                        <color key="textColor" name="999999"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="yvi-K9-1jn">
+                                <rect key="frame" x="321" y="10" width="24" height="24"/>
+                                <color key="tintColor" name="222222"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="24" id="LIn-od-ePc"/>
+                                    <constraint firstAttribute="width" constant="24" id="Zr0-TM-MP1"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="Icy-Cl-BWu"/>
+                            <constraint firstAttribute="trailing" secondItem="yvi-K9-1jn" secondAttribute="trailing" constant="16" id="Vci-cg-5PI"/>
+                            <constraint firstItem="yvi-K9-1jn" firstAttribute="centerY" secondItem="U5c-Rw-Td4" secondAttribute="centerY" id="bP1-34-z3E"/>
+                            <constraint firstItem="eRb-N6-Nqe" firstAttribute="centerY" secondItem="U5c-Rw-Td4" secondAttribute="centerY" id="cDH-hJ-TlG"/>
+                            <constraint firstItem="eRb-N6-Nqe" firstAttribute="leading" secondItem="U5c-Rw-Td4" secondAttribute="leading" constant="16" id="e3K-JF-8rl"/>
+                            <constraint firstItem="yvi-K9-1jn" firstAttribute="leading" secondItem="eRb-N6-Nqe" secondAttribute="trailing" constant="8" id="iGK-FM-DpX"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="U5c-Rw-Td4" secondAttribute="bottom" constant="4" id="3wt-Qm-NDO"/>
+                    <constraint firstItem="U5c-Rw-Td4" firstAttribute="top" secondItem="xSY-a5-NN3" secondAttribute="top" constant="4" id="KTf-nm-M1Z"/>
+                    <constraint firstItem="U5c-Rw-Td4" firstAttribute="leading" secondItem="xSY-a5-NN3" secondAttribute="leading" constant="8" id="a8e-e9-pgD"/>
+                    <constraint firstAttribute="trailing" secondItem="U5c-Rw-Td4" secondAttribute="trailing" constant="8" id="a98-kW-ciw"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="checkMarkImageView" destination="YcU-sn-gO1" id="l0O-Az-4L0"/>
+                <outlet property="connectorImageView" destination="yvi-K9-1jn" id="lz6-cH-NIs"/>
+                <outlet property="nameLabel" destination="qlg-Lr-ayO" id="DNf-5o-r7Q"/>
+                <outlet property="outView" destination="U5c-Rw-Td4" id="ufL-EG-00E"/>
+                <outlet property="priceLabel" destination="xWD-Yf-HBx" id="sOc-lQ-SiA"/>
+            </connections>
+            <point key="canvasLocation" x="123" y="-12"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="checkmark.circle.fill" catalog="system" width="128" height="123"/>
+        <namedColor name="008CE9">
+            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="222222">
+            <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="999999">
+            <color red="0.60000002384185791" green="0.60000002384185791" blue="0.60000002384185791" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

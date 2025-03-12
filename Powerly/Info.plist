@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APP_BUNDLE_ID</key>
+	<string>$(APP_BUNDLE_ID)</string>
+	<key>APP_NAME</key>
+	<string>$(APP_NAME)</string>
+	<key>BASE_URL</key>
+	<string>$(BASE_URL)</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>$(APP_NAME)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(APP_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(BUNDLE_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>$(GIDReverseClientID)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>$(APP_BUNDLE_ID)</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>powerly</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>138</string>
+	<key>GIDClientID</key>
+	<string>$(GIDClientID)</string>
+	<key>GMS_API_KEY</key>
+	<string>$(GMS_API_KEY)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>whatsapp</string>
+		<string>comgooglemaps</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This let you do things like update profile photos and scan QR codes</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID is used to sign in to your account</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>To connect smart device</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Distributors will deliver your order to you based on your location</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>update profile photos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>update profile photos</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Your data will be used to create a customized experience tailored to your interests</string>
+	<key>OPEN_API_KEY</key>
+	<string>$(OPEN_API_KEY)</string>
+	<key>Request authorization</key>
+	<true/>
+	<key>STRIPE_PUBLISHED_KEY</key>
+	<string>$(STRIPE_PUBLISHED_KEY)</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>CircularStd-Black.otf</string>
+		<string>SF-UI-Text-Bold.otf</string>
+		<string>Expo-Arabic-Bold.ttf</string>
+		<string>Expo-Arabic-Book.ttf</string>
+		<string>Expo-Arabic-Light.ttf</string>
+		<string>Expo-Arabic-Medium.ttf</string>
+		<string>droid_kufi_bold.ttf</string>
+		<string>droid_kufi_regular.ttf</string>
+		<string>Exo2-Bold.ttf</string>
+		<string>Exo2-Light.ttf</string>
+		<string>Exo2-Medium.ttf</string>
+		<string>Exo2-Regular.ttf</string>
+		<string>noto_kufi_arabic_medium.ttf</string>
+		<string>noto_kufi_arabic_bold.ttf</string>
+		<string>noto_kufi_arabic_light.ttf</string>
+		<string>noto_kufi_arabic_regular.ttf</string>
+		<string>noto_kufi_arabic_thin.ttf</string>
+		<string>Exo2-SemiBold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+	<key>URL_SCHEMA</key>
+	<string>$(URL_SCHEMA)</string>
+	<key>VERSION_LABEL</key>
+	<string>$(VERSION_LABEL)</string>
+</dict>
+</plist>

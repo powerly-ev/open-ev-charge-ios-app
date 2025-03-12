@@ -1,0 +1,29 @@
+
+
+# Uncomment the line if you want fastlane to automatically update itself
+ update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Push a new beta build to TestFlight"
+lane :opensource do
+    build_number = latest_testflight_build_number + 1
+
+    increment_build_number(xcodeproj: "Powerly.xcodeproj",
+    build_number: build_number)
+
+    get_certificates           # invokes cert
+    get_provisioning_profile   # invokes sigh
+    build_app(workspace: "Powerly.xcworkspace", scheme: "Powerly-OpenSource")
+    upload_to_testflight(changelog: "Test URL",
+	distribute_external: true,
+    distribute_only: false,
+    groups: ["external testing"])
+
+    slack(message: "Powerly-OpenSource has been successfully released!", slack_url: "your slack incoming webhook")
+
+    # Clean folders
+    clean_build_artifacts    
+  end
+end

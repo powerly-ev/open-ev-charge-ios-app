@@ -1,0 +1,50 @@
+/* Class = "UILabel"; text = "Delivery Point"; ObjectID = "1Dj-42-5Fd"; */
+"1Dj-42-5Fd.text" = "Point de livraison";
+
+/* Class = "UILabel"; text = "Continue"; ObjectID = "BqE-s9-NLf"; */
+"BqE-s9-NLf.text" = "Continuer";
+
+/* Class = "UILabel"; text = "To find your location automatically,  please enable location services "; ObjectID = "H6M-R0-b6u"; */
+"H6M-R0-b6u.text" = "Pour trouver votre emplacement automatiquement, veuillez activer les services de localisation";
+
+/* Class = "UILabel"; text = "Pin Location"; ObjectID = "R48-7d-3I0"; */
+"R48-7d-3I0.text" = "Emplacement sur la carte";
+
+/* Class = "UITextField"; placeholder = "Enter your mobile number"; ObjectID = "RLu-XQ-Ute"; */
+"RLu-XQ-Ute.placeholder" = "Entrez votre numéro de téléphone mobile";
+
+/* Class = "UILabel"; text = "Do you own this address and can authorise charging point installation?"; ObjectID = "Xba-xF-geY"; */
+"Xba-xF-geY.text" = "Possédez-vous cette adresse et pouvez-vous autoriser l'installation du point de charge ?";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "Xdb-7t-jzN"; */
+"Xdb-7t-jzN.text" = "Sélectionner";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "YbG-SG-Z1v"; */
+"YbG-SG-Z1v.text" = "Non";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "Zjt-WQ-GV7"; */
+"Zjt-WQ-GV7.text" = "Sélectionner l'emplacement";
+
+/* Class = "UILabel"; text = "Request Charger"; ObjectID = "amx-9N-VtF"; */
+"amx-9N-VtF.text" = "Demander un chargeur";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "mZ6-C0-WJ9"; */
+"mZ6-C0-WJ9.text" = "Sélectionner";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "qOF-BX-fMh"; */
+"qOF-BX-fMh.text" = "Sélectionner l'emplacement";
+
+/* Class = "UILabel"; text = "Continue"; ObjectID = "rFy-bw-laB"; */
+"rFy-bw-laB.text" = "Continuer";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "rRA-eg-ADA"; */
+"rRA-eg-ADA.text" = "";
+
+/* Class = "UILabel"; text = "Fill out the following info to request a charging stationnear your location"; ObjectID = "tqq-Jd-A6Q"; */
+"tqq-Jd-A6Q.text" = "Remplissez les informations suivantes pour demander une borne de recharge près de votre emplacement";
+
+/* Class = "UILabel"; text = "Address Type"; ObjectID = "vwc-7h-eZy"; */
+"vwc-7h-eZy.text" = "Type d'adresse";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "wbm-zt-x0U"; */
+"wbm-zt-x0U.text" = "Oui";

@@ -1,0 +1,137 @@
+/* Class = "UILabel"; text = "Year"; ObjectID = "2wb-yX-jE4"; */
+"2wb-yX-jE4.text" = "* Año";
+
+/* Class = "UILabel"; text = "Plug Type"; ObjectID = "30V-pr-Jcl"; */
+"30V-pr-Jcl.text" = "Tipo de enchufe";
+
+/* Class = "UILabel"; text = "Fuel type"; ObjectID = "3Rw-tC-Q2n"; */
+"3Rw-tC-Q2n.text" = "* Tipo de combustible";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "3pR-QV-tOr"; */
+"3pR-QV-tOr.text" = "Modelo";
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "4T9-XJ-3ge"; */
+"4T9-XJ-3ge.text" = "Marca";
+
+/* Class = "UILabel"; text = "Nexon EV"; ObjectID = "4dU-Fd-FNZ"; */
+"4dU-Fd-FNZ.text" = "Nexon EV";
+
+/* Class = "UILabel"; text = "My wife car"; ObjectID = "5b4-B5-QwT"; */
+"5b4-B5-QwT.text" = "Auto de mi esposa";
+
+/* Class = "UILabel"; text = "AC Type-2"; ObjectID = "5eo-wg-bx0"; */
+"5eo-wg-bx0.text" = "Tipo de AC-2";
+
+/* Class = "UILabel"; text = "No result found"; ObjectID = "5ju-ES-qNF"; */
+"5ju-ES-qNF.text" = "No se encontraron resultados";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6L5-XP-fyh"; */
+"6L5-XP-fyh.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Add Vehicle"; ObjectID = "7wh-jr-aoV"; */
+"7wh-jr-aoV.text" = "Agregar vehículo";
+
+/* Class = "UILabel"; text = "2/3"; ObjectID = "8CZ-3S-2gx"; */
+"8CZ-3S-2gx.text" = "2/3";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "9BQ-Z4-f6B"; */
+"9BQ-Z4-f6B.text" = "Descripción";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "D4s-jU-jaL"; */
+"D4s-jU-jaL.normalTitle" = "Actualizar";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "DIf-9Q-RCr"; */
+"DIf-9Q-RCr.text" = "Agregar";
+
+/* Class = "UILabel"; text = "Mennekes"; ObjectID = "ETK-PL-35Y"; */
+"ETK-PL-35Y.text" = "Mennekes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GKF-Yt-Sfb"; */
+"GKF-Yt-Sfb.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "max 43kW"; ObjectID = "Gfs-To-mPm"; */
+"Gfs-To-mPm.text" = "máx 43 kW";
+
+/* Class = "UILabel"; text = "3/3"; ObjectID = "IW6-qu-TwA"; */
+"IW6-qu-TwA.text" = "3/3";
+
+/* Class = "UILabel"; text = "0102 FGH"; ObjectID = "Ihj-ZE-VmL"; */
+"Ihj-ZE-VmL.text" = "0102 FGH";
+
+/* Class = "UILabel"; text = "1/3"; ObjectID = "M4F-WU-vTp"; */
+"M4F-WU-vTp.text" = "1/3";
+
+/* Class = "UILabel"; text = "Add Vehicle"; ObjectID = "OSX-nk-01Z"; */
+"OSX-nk-01Z.text" = "Agregar vehículo";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "QOY-ia-TDN"; */
+"QOY-ia-TDN.text" = "Modelo";
+
+/* Class = "UILabel"; text = "My Vehicles"; ObjectID = "R2f-gQ-ItN"; */
+"R2f-gQ-ItN.text" = "Mis vehículos";
+
+/* Class = "UITextField"; placeholder = "Search Model"; ObjectID = "RbS-hy-Mm1"; */
+"RbS-hy-Mm1.placeholder" = "Buscar modelo";
+
+/* Class = "UILabel"; text = "Delta"; ObjectID = "RpM-P5-baB"; */
+"RpM-P5-baB.text" = "Delta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tca-mC-4jS"; */
+"Tca-mC-4jS.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "No result found"; ObjectID = "Wgu-ul-AXK"; */
+"Wgu-ul-AXK.text" = "No se encontraron resultados";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "WmO-Dd-Yfc"; */
+"WmO-Dd-Yfc.text" = "Versión";
+
+/* Class = "UILabel"; text = "Manufacturer"; ObjectID = "XpD-i0-9Hs"; */
+"XpD-i0-9Hs.text" = "Fabricante";
+
+/* Class = "UILabel"; text = "(2023)"; ObjectID = "Y6P-VR-2dt"; */
+"Y6P-VR-2dt.text" = "(2023)";
+
+/* Class = "UILabel"; text = "Charging type"; ObjectID = "YX9-O3-CiV"; */
+"YX9-O3-CiV.text" = "* Tipo de carga";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "bMc-dS-kNf"; */
+"bMc-dS-kNf.text" = "Seleccionar";
+
+/* Class = "UILabel"; text = "No result found"; ObjectID = "cVg-i8-eOE"; */
+"cVg-i8-eOE.text" = "No se encontraron resultados";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "dEf-nD-fiv"; */
+"dEf-nD-fiv.text" = "Guardar y continuar";
+
+/* Class = "UITextField"; placeholder = "Search Manufacturer"; ObjectID = "eEY-EY-aVM"; */
+"eEY-EY-aVM.placeholder" = "Buscar fabricante";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "en4-DV-hzf"; */
+"en4-DV-hzf.text" = "Detalles";
+
+/* Class = "UILabel"; text = "Custom Color"; ObjectID = "jLp-re-O4B"; */
+"jLp-re-O4B.text" = "Color personalizado";
+
+/* Class = "UILabel"; text = "type  2 "; ObjectID = "jdr-bq-dJQ"; */
+"jdr-bq-dJQ.text" = "Tipo  2 ";
+
+/* Class = "UILabel"; text = "Plugs"; ObjectID = "lZY-zk-K6S"; */
+"lZY-zk-K6S.text" = "Enchufes";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "nzd-Xt-ack"; */
+"nzd-Xt-ack.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Tata Motors"; ObjectID = "oKH-Eo-YRo"; */
+"oKH-Eo-YRo.text" = "Tata Motors";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "oyx-8f-3XE"; */
+"oyx-8f-3XE.text" = "* Color";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "wTG-vs-Pyd"; */
+"wTG-vs-Pyd.text" = "Título";
+
+/* Class = "UILabel"; text = "Add Plug"; ObjectID = "yOX-Ip-Dr9"; */
+"yOX-Ip-Dr9.text" = "Agregar enchufe";
+
+/* Class = "UITextField"; placeholder = "Search Plug"; ObjectID = "zSp-92-pLx"; */
+"zSp-92-pLx.placeholder" = "Buscar enchufe";

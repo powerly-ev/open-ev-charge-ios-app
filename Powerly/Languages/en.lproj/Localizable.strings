@@ -1,0 +1,224 @@
+//Authentication
+"switch_account" = "Switch Account";
+"continue_as" = "Continue as";
+"new_password" = "New Password";
+"confirm_password" = "Confirm Password";
+"passwordd_confirm_password_no_match" = "Please ensure the Password and Confirm Password fields match exactly.";
+
+//Home
+"club_electric" = "Club Electric";
+"club_electric_desc" = "Share your experience, ask queries around EVs, chargers and all things electric.";
+"refer_and_earn" = "Refer and Earn";
+"refer_earn_desc" = "Invite your friends on Powerly and get a cash reward of up to $75.";
+"buy_ev_charger" = "Buy an EV Charger";
+"buy_ev_charger_desc" = "Experience the convenience of having your own personal EV charging point at home.";
+"join_now" = "Join Now";
+"refer_now" = "Refer Now";
+"buy_now" = "Buy Now";
+"nearest" = "Nearest";
+"Parking Area" = "Parking Area";
+"Shopping Mall" = "Shopping Mall";
+"Park" = "Park";
+"Restaurant" = "Restaurant";
+"Apartment" = "Apartment";
+"Other" = "Other";
+"refer_and_earn_guest" = "Share The App Now";
+"refer_earn_desc_guest" = "Now you can Invite your friends to use our app";
+"refer_now_guest" = "Share Now";
+
+//mapview
+"open" = "Open";
+"closed" = "Closed";
+"busy" = "Busy";
+"available" = "Available";
+
+//Charging point detail
+"station" = "Station";
+"away" = "away";
+"max" = "Max";
+"kw" = "kW";
+"kwh" = "kWh";
+"wh" = "wh";
+"minute" = "minute";
+"minutes" = "minutes";
+"per" = "per";
+"FULL" = "FULL";
+"stop_charging" = "Stop Charging";
+"stop_charging_note" = "Please make sure the plug is detached from your EV before stopping the charge.";
+"sure_stop_charging" = "Are you sure you want to stop charging?";
+"cancel_booking" = "Cancel Booking";
+"sure_cancel_booking" = "Are you sure you want to cancel this booking?";
+"start_charging_note_above_100" = "Before you start charging, please keep in mind:\n\nIf you're not currently near the charging station, the charging session will still begin if you proceed.\n\nIf you're already at the charging station and ready to activate the charger, choose your charging duration and tap 'Start Charging' to initiate.";
+"start_charging_note_below_100" = "You’re ready to activate the charger. Select your charge time and tap ‘Start Charging’ to start.";
+"open_24_hours" = "Open 24 hours";
+"h" = "h";
+"min" = "min";
+"external_notice" = "This service isn’t run or verified by Powerly. Ensure safety and always be cautious.";
+"booking_message" = "Super! You’ve secured your charger spot. Safely drive over, identify it with its name and ID, scan its QR, and enjoy the charge!";
+"notice" = "Notice: ";
+"got_it" = "Got It";
+"offline" = "Offline";
+"Unavailable" = "Unavailable";
+"busy" = "Busy";
+"booked" = "Booked";
+"booked_by_you" = "Booked by you";
+"used_by_you" = "Busy by you";
+"select_plug"="Please select plugs before start charging";
+
+//Add charging station
+"Location" = "Location";
+"Address" = "Address";
+"Description" = "Description";
+"Stations" = "Stations";
+"Hours" = "Hours";
+"Amenities" = "Amenities";
+"Price" = "Price";
+"Types" = "Types";
+"Media" = "Media";
+"limit_per_kWh" = "Limit per kWh";
+"limit_per_kWh" = "Limit per kWh";
+"limit_per_minutes" = "Limit per minutes";
+"price_per_kWh" = "Price per kWh";
+"price_per_minute" = "Price per minute";
+"ev_charger" = "EV Charger";
+"power_meter" = "Power Meter";
+"smart_plug" = "Smart Plug";
+"add_ev_charger" = "Add EV Charger";
+"add_smart_meter" = "Add Smart Meter";
+"my_power_source" = "My Power Source";
+"configuration_failed" = "Configuration failed";
+"my_ev_charger" = "My EV Charger 1";
+"my_smart_meter" = "My Smart Meter 1";
+"my_smart_plug" = "My Smart Plug 1";
+"select_working_time" = "Please select a working time.";
+
+//my order
+"active_session" = "Active Session";
+"scheduled" = "Scheduled";
+"history" = "History";
+"order_id" = "Order Id";
+"charging" = "Charging";
+"recharge" = "Recharge";
+"total" = "Total";
+"scheduled" = "Scheduled";
+"cancel_booking" = "Cancel Booking";
+"booking_id" = "Booking Id";
+"total_fees" = "Total fees";
+"no_active_order" = "No active order";
+"no_scheduled_order" = "No scheduled order";
+"no_completed_order" = "No completed order";
+"app_fees" = "App fee";
+"reservation_fees" = "Reservation fees";
+"booked_slot" = "Booked slot";
+"station_id" = "Station id";
+"Completed" = "Completed";
+"Open" = "Open";
+"Configurations" = "Configurations";
+
+//Side menu
+"my_power_sources" = "Power Center";
+"my_vehicles" = "Vehicles";
+
+//Balance
+"withdraw" = "Withdraw";
+"withdraw_to" = "Withdraw to:";
+"withdraw_from" = "Withdraw from:";
+"withdraw_policy_desc" = "Read our Withdraw Policy. Tap \"Agree and Withdraw\" to accept Terms of Service";
+"withdraw_policy" = "Withdraw Policy";
+"terms_of_service" = "Terms of Service";
+"agree_withdraw" = "Agree & Withdraw";
+
+//feedback
+"all_reviews" = "All Reviews";
+"how_was_experience" = "How was your experience?";
+
+//my powersources
+"list_device" = "List Device";
+"unlist_device" = "Unlist Device";
+"list_device_note" = "Are you sure you want to list this device?\n\nNote: Once you list this device, it will be visible to the public.";
+"unlist_device_note" = "Are you sure you want to unlist this device?\n\nNote: Once you unlist this device, it will be not visible to the public.";
+"add_description" = "Add description here...";
+"add_plug" = "Add Plug";
+"added_to_stations" = "Added to stations";
+"camera" = "Camera";
+"gallery" = "Gallery";
+"cancel" = "Cancel";
+"delete_media" = "Delete media?";
+"delete_media_note" = "Are you sure you want to delete this image?";
+"scan_1" = "If you share it with someone, they can scan it with their ";
+"scan_2" =  "camera to start charging.";
+"remove_device" = "Remove Device";
+"remove_device_note" = "Are you sure you want to remove the device?\n\n Note: After removing the device, all of your history will be erased/reset.";
+"Update" = "Update";
+"before_apping" = "Before adding your smart meter to your account, ensure proper configuration:";
+"before_adding_ev" = "Before adding your ev charger to your account, ensure proper configuration:";
+"server" = "Server:";
+"username" = "Username:";
+"password" = "Password:";
+"confirm_correctly" = "Confirm when configured correctly.";
+"configuration" = "Configuration";
+"Pending" = "Pending";
+"Total Time" = "Total Time";
+"share_message_ev" = "Hey there! I've listed my EV charger on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_message_plug" = "Hey there! I've listed my smart plug on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_message_meter" = "Hey there! I've listed my smart meter on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_earn" = "Hey! I've been using the Powerly app for my electric vehicle charging and it's amazing! You should check it out. By joining through my referral, you could win up to $75 in rewards! Here’s the link to join: [Referral Link] Terms and conditions apply.";
+
+//Add vehicle
+"manufacturer" = "Manufacturer";
+"model" = "Model";
+"details" = "Details";
+"delete_vehicle" = "Delete vehicle?";
+"delete_vehicle_note" = "Are you sure you want to delete this vehicle?";
+"edit" = "Edit";
+"delete" = "Delete";
+"Fuel" = "Fuel";
+"Hybrid" = "Hybrid";
+"Plug-In Hybrid" = "Plug-In Hybrid";
+"Electric" = "Electric";
+"Other" = "Other";
+
+
+"make_public" = "Make public";
+"make_private" = "Make private";
+
+"Total re-active power" = "Total re-active power";
+"Total apparent power" = "Total apparent power";
+"Total power factor" = "Total power factor";
+"Time Stamp" = "Time Stamp";
+
+//Authentication
+"Strong" = "Strong";
+"Weak" = "Weak";
+"Medium" = "Medium";
+"Enter your password" = "Enter your password";
+"Please enter a email address" = "Please enter a email address";
+"Please enter valid email address" = "Please enter valid email address";
+"Please enter password" = "Please enter password";
+"The password must be at least 8 characters." = "The password must be at least 8 characters.";
+"Password and confirm password should be same" = "Password and confirm password should be same";
+"Enter your powerly registered password for " = "Enter your powerly registered password for ";
+"Select country" = "Select country";
+"Sign in with Apple" = "Sign in with Apple";
+"Explore other Sign-in options" = "Explore other Sign-in options";
+
+"AM" = "AM";
+"PM" = "PM";
+
+"Safely" = "Safely";
+"Drive to Station" = "Drive to Station";
+"Locate your charger with the app and head to its location. The map will guide you for easy navigation." = "Locate your charger with th app and head to its location. The map will guide you for easy navigation.";
+"Identify the Charger" = "Identify the Charger";
+"In areas with multiple chargers, identify your charger using its unique ID or name, especially helpful if you have" = "In areas with multiple chargers, identify your charger using its unique ID or name, especially helpful if you have";
+"booked in advance." = "booked in advance.";
+"Start Charger" = "Start Charger";
+"First, connect your vehicle to the charger. Then, scan the QR code on the charger to" = "First, connect your vehicle to the charger. Then, scan the QR code on the charger to";
+"start the charging" = "start the charging";
+"process." = "process.";
+"Wait" = "Wait";
+"for Charging" = "for Charging";
+"Setup complete! A countdown timer will show how long until your vehicle is fully charged. Relax or take a moment for yourself in the meantime." = "Setup complete! A countdown timer will show how long until your vehicle is fully charged. Relax or take a moment for yourself in the meantime.";
+
+"no_problem_forgot_password" = "No problem! We'll send a One-Time Password (OTP) to \(email). Once you receive it, you can use the OTP to log in and reset your password.";
+
+"New" = "New";

@@ -1,0 +1,176 @@
+
+/* Class = "UIButton"; normalTitle = "DOWNLOAD"; ObjectID = "0cx-uE-kxt"; */
+"0cx-uE-kxt.normalTitle" = "DOWNLOAD";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "1kZ-u8-Yqh"; */
+"1kZ-u8-Yqh.text" = "Invoice";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "2IC-cq-PKK"; */
+"2IC-cq-PKK.text" = "ID";
+
+/* Class = "UILabel"; text = "AMOUNT"; ObjectID = "2g5-Dt-Ws2"; */
+"2g5-Dt-Ws2.text" = "AMOUNT";
+
+/* Class = "UILabel"; text = "Total Time"; ObjectID = "4is-BJ-ECE"; */
+"4is-BJ-ECE.text" = "Total Time";
+
+/* Class = "UILabel"; text = "My Power Sources"; ObjectID = "5m4-Fb-NHF"; */
+"5m4-Fb-NHF.text" = "My Power Sources";
+
+/* Class = "UILabel"; text = "Order Confirm"; ObjectID = "5sw-AJ-Aij"; */
+"5sw-AJ-Aij.text" = "Order Confirm";
+
+/* Class = "UILabel"; text = "5X"; ObjectID = "BGi-hh-QpI"; */
+"BGi-hh-QpI.text" = "5X";
+
+/* Class = "UILabel"; text = "ITEMS"; ObjectID = "BHE-uO-dRd"; */
+"BHE-uO-dRd.text" = "ITEMS";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "CVc-Nt-ooT"; */
+"CVc-Nt-ooT.text" = "Payment Method";
+
+/* Class = "UILabel"; text = "12/12/2020 17:01"; ObjectID = "DFG-Rb-vct"; */
+"DFG-Rb-vct.text" = "12/12/2020 17:01";
+
+/* Class = "UILabel"; text = "12kg fiber - normal regulator"; ObjectID = "DGn-Jv-ZAH"; */
+"DGn-Jv-ZAH.text" = "12kg fiber - normal regulator";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "H7m-7n-MNO"; */
+"H7m-7n-MNO.text" = "ID";
+
+/* Class = "UILabel"; text = "24 Kg Gas - normal regulator "; ObjectID = "HNC-EP-Eyl"; */
+"HNC-EP-Eyl.text" = "24 Kg Gas - normal regulator ";
+
+/* Class = "UILabel"; text = "Weekly"; ObjectID = "I06-Ov-fXm"; */
+"I06-Ov-fXm.text" = "Weekly";
+
+/* Class = "UILabel"; text = "email"; ObjectID = "No7-Sj-EdU"; */
+"No7-Sj-EdU.text" = "email";
+
+/* Class = "UILabel"; text = ""; ObjectID = "OLn-7M-wOX"; */
+"OLn-7M-wOX.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "PM4-1A-U9w"; */
+"PM4-1A-U9w.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "Purchased"; ObjectID = "QJu-sT-aWF"; */
+"QJu-sT-aWF.text" = "Purchased";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qjj-V3-jiz"; */
+"Qjj-V3-jiz.text" = "Label";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "SnC-8l-bOb"; */
+"SnC-8l-bOb.text" = "SR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T8Q-RH-nYr"; */
+"T8Q-RH-nYr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tjk-am-52p"; */
+"Tjk-am-52p.text" = "Label";
+
+/* Class = "UILabel"; text = "100 USD"; ObjectID = "Tyg-lh-4Oi"; */
+"Tyg-lh-4Oi.text" = "100 USD";
+
+/* Class = "UILabel"; text = "Plug Type"; ObjectID = "U5U-nP-19R"; */
+"U5U-nP-19R.text" = "Plug Type";
+
+/* Class = "UILabel"; text = "250.00 SAR"; ObjectID = "U9M-i9-02W"; */
+"U9M-i9-02W.text" = "250.00 SAR";
+
+/* Class = "UILabel"; text = "Order ID"; ObjectID = "Url-QW-BGH"; */
+"Url-QW-BGH.text" = "Order ID";
+
+/* Class = "UILabel"; text = "Visa"; ObjectID = "VgC-Dc-j4x"; */
+"VgC-Dc-j4x.text" = "Visa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W0i-dQ-Xle"; */
+"W0i-dQ-Xle.text" = "Label";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "a04-rB-0Mh"; */
+"a04-rB-0Mh.text" = "Add";
+
+/* Class = "UILabel"; text = "Money Earned"; ObjectID = "cZV-A1-KUV"; */
+"cZV-A1-KUV.text" = "Money Earned";
+
+/* Class = "UILabel"; text = "Weekly"; ObjectID = "clu-kL-LZs"; */
+"clu-kL-LZs.text" = "Weekly";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "fOj-MO-bRt"; */
+"fOj-MO-bRt.text" = "Payment";
+
+/* Class = "UIButton"; normalTitle = "Invoice"; ObjectID = "gIn-KB-CBQ"; */
+"gIn-KB-CBQ.normalTitle" = "Invoice";
+
+/* Class = "UILabel"; text = ""; ObjectID = "gwf-4m-ILG"; */
+"gwf-4m-ILG.text" = "";
+
+/* Class = "UILabel"; text = "Kitchen Cylinder"; ObjectID = "iJh-Jm-iIA"; */
+"iJh-Jm-iIA.text" = "Kitchen Cylinder";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "iVs-IP-FQa"; */
+"iVs-IP-FQa.text" = "Invoice";
+
+/* Class = "UILabel"; text = "Purchased Products"; ObjectID = "iho-BF-kiR"; */
+"iho-BF-kiR.text" = "Purchased Products";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "jCc-H7-zNC"; */
+"jCc-H7-zNC.text" = "Share";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "jmm-WB-OF8"; */
+"jmm-WB-OF8.text" = "1";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "jnF-gN-lz1"; */
+"jnF-gN-lz1.text" = "Invoice";
+
+/* Class = "UILabel"; text = "67 %"; ObjectID = "kb8-59-0GF"; */
+"kb8-59-0GF.text" = "67 %";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lKy-0a-agR"; */
+"lKy-0a-agR.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ly4-4b-h9u"; */
+"ly4-4b-h9u.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mb8-MT-8e9"; */
+"mb8-MT-8e9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nIl-a6-EQz"; */
+"nIl-a6-EQz.text" = "Label";
+
+/* Class = "UILabel"; text = "100 USD"; ObjectID = "og5-EC-cK3"; */
+"og5-EC-cK3.text" = "100 USD";
+
+/* Class = "UILabel"; text = "UserID"; ObjectID = "onu-i2-KyX"; */
+"onu-i2-KyX.text" = "UserID";
+
+/* Class = "UILabel"; text = "Energy (kWh)"; ObjectID = "pWs-uD-uwl"; */
+"pWs-uD-uwl.text" = "Energy (kWh)";
+
+/* Class = "UILabel"; text = "456"; ObjectID = "pcb-2Q-qyD"; */
+"pcb-2Q-qyD.text" = "456";
+
+/* Class = "UILabel"; text = "Sold"; ObjectID = "pyj-3V-wFz"; */
+"pyj-3V-wFz.text" = "Sold";
+
+/* Class = "UILabel"; text = "number number"; ObjectID = "rtP-k1-UMh"; */
+"rtP-k1-UMh.text" = "number number";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "rtX-PC-xEv"; */
+"rtX-PC-xEv.text" = "Date";
+
+/* Class = "UILabel"; text = "UserID"; ObjectID = "tM9-8t-w27"; */
+"tM9-8t-w27.text" = "UserID";
+
+/* Class = "UILabel"; text = "5X"; ObjectID = "uvK-FW-h8L"; */
+"uvK-FW-h8L.text" = "5X";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "wXW-Fb-dUM"; */
+"wXW-Fb-dUM.text" = "Date";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "yco-Ce-GJN"; */
+"yco-Ce-GJN.text" = "Delivery Address";
+
+/* Class = "UILabel"; text = "VAT"; ObjectID = "z0P-jD-j8s"; */
+"z0P-jD-j8s.text" = "VAT";
+
+"Z7Q-e0-Vp6.normalTitle" = "Start Charging";

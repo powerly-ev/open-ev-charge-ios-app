@@ -1,0 +1,624 @@
+<resources>
+    <!--genaral message-->
+    <string name="error_title"> خطأ </string>
+    <string name="internetconnection_erro"> عذرًا ، يحتاج هذا التطبيق إلى اتصال بالإنترنت للعمل بشكل صحيح. يرجى التحقق من اتصالك بالإنترنت وإعادة المحاولة. </string>
+    <string name="check_internet_connection">الرجاء التحقق من اتصال الانترنت الخاص بك</string>
+    <string name="retry"> إعادة المحاولة </string>
+    <string name="Yes"> نعم </string>
+    <string name="No"> لا </string>
+    <string name="cancel"> إلغاء </string>
+    <string name="options_Ok"> موافق </string>
+    <string name="save"> حفظ </string>
+    <string name="close"> إغلاق </string>
+    <string name="options_Ok"> موافق </string>
+    <string name="a_short_break">استراحة قصيرة</string>
+
+    <!--Language Selection-->
+    <string name="welcome_to_gasable">مرحبًا! :)</string>
+    <string name="welcome_description">مرحبًا بكم في مستقبل شحن السيارات الكهربائية! دعونا نبدأ بإعدادك، أولاً اختر لغتك.</string>
+    <string name="create_account"> إنشاء حساب </string>
+    <string name="lets_get_started">هيا لنبدأ</string>
+    <string name="continue_as_guest">الاستمرار كضيف</string>
+    
+    <!-- login text string-->
+    <string name="login_phone"> اتصل على </string>
+    <string name="do_not"> هل تحتاج إلى مساعدة؟ </string>
+    <string name="Sign_In"> تسجيل الدخول </string>
+    <string name="selected_condition_phone">أدخل رقم هاتفك الجوال </string>
+    <string name="enter_mobile_number">يرجى إدخال رقم هاتف جوال صحيح</string>
+
+    <!-- password screen-->
+    <string name="signin_with_password"> تسجيل الدخول باستخدام كلمة المرور </string> 
+    <string name="enter_your_password"> أدخل كلمة المرور الخاصة بك </string> 
+    <string name="forgot_password"> هل نسيت كلمة المرور؟ </string>
+
+    <!-- user registration and account information-->
+    <string name="welcome_title">اهلاً وسهلاً</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="select_country">Select Country</string>
+    <string name="signup_description">يرجى إدخال رقم هاتفك. سنرسل لك رمز تحقق للحفاظ على أمان حسابك.</string>
+    <string name="regis_country_selected"> حدد بلدك </string>
+    <string name="regis_city_selected"> حدد مدينتك </string>
+    <string name="regis_area_selected"> حدد منطقتك </string>
+    <string name="regis_phone"> رقم الهاتف </string>
+    <string name="selected_condition_spinner"> يرجى تحديد منطقتك </string>
+    <string name="selected_condition_phone"> يرجى إدخال رقم هاتف جوال صحيح </string>
+    <string name="terms_condition"> الشروط والأحكام </string>
+    <string name="registration_title"> التسجيل </string>
+    <string name="enter_mobile_number"> أدخل رقم هاتفك الجوال </string>
+    <string name="first_name_title"> الاسم  </string>
+    <string name="last_name_title"> العائلة </string>
+    <string name="agree_continue"> موافقة ومتابعة </string>
+    <string name="privacy_policy_title">بإستخدامك لتطبيق Powerly، فإنك توافق على سياسة الخصوصية وشروط الخدمة الخاصة بنا.</string>
+    <string name="termsofservice">شروط الخدمة</string>
+    <string name="privacypolicy">سياسة الخصوصية</string>
+    <string name="verifying_number_title"> سنتحقق من رقم هاتفك </string>
+    <string name="is_it_correct_title"> هل الرقم صحيح؟ أم تريد تعديل الرقم؟ </string>
+    <string name="edit_title">تعديل</string>
+    <string name="correct_title">صحيح &amp; تابع</string>
+    <string name="already_account_title"> هل لديك حساب مسجل؟ </string>
+    <string name="mobile_number_check"> التحقق من رقم الهاتف </string>
+    <string name="account_information_title"> معلومات الحساب </string>
+    <string name="enteryourname_title"> أدخل اسمك </string>
+    <string name="enteryouremail_title"> أدخل عنوان بريدك الإلكتروني </string>
+    <string name="createyouraccount_title"> أدخل كلمة مرور لحسابك </string>
+    <string name="six_character_password"> كلمة مرور مكونة من 6 أحرف </string>
+    <string name="atleat_one_number"> يجب أن تتضمن كلمة المرور رقمًا واحدًا على الأقل. </string>
+    <string name="atleast_one_letter"> يجب أن تحتوي كلمة المرور على حرف واحد على الأقل. </string>
+    <string name="six_sixteen_char"> يجب أن تكون كلمة المرور بين 6 و 16 حرفًا. </string>
+    <string name="enteryourfirstname"> يرجى إدخال الاسم  </string>
+    <string name="enteryourlastname"> يرجى إدخال اسم العائلة </string>
+    <string name="enteryourvalidemailaddress"> يرجى إدخال عنوان بريد إلكتروني صحيح </string>
+    <string name="add_them_later">لاحقا</string>
+    <string name="individual_title">شخصي</string>
+    <string name="business_title">تجاري</string>
+
+    
+    <!--verificaion-->
+    <string name="Verification_title"> التحقق </string>
+    <string name="next"> التالي </string>
+    <string name="resend_code"> إعادة إرسال الرمز </string>
+    <string name="enter_verification"> يرجى إدخال رمز التحقق المكون من 4 أرقام </string>
+    <string name="need_help_button">أحتاج إلى مساعدة</string>
+    <string name="enter_code_sent_you"> أدخل الرمز المكون من 4 أرقام الذي أرسلناه إليك </string>
+
+    <!-- Map View-->
+    <string name="regis_map_error_choosing_msg"> يمكنك اختيار موقع داخل بلدك فقط </string>
+    <string name="continue"> متابعة </string>
+    <string name="search_title"> بحث </string>
+    <string name="search_location">البحث عن الموقع</string>
+    <string name="auto_location_error"> للعثور على موقعك تلقائيًا ، يرجى السماح للتطبيق باستعمال خدمات الموقع </string>
+    <string name="delivery_point">مكان الاستلام</string>
+    <string name="scan_text">امسح</string>
+    <string name="orders_in_progress">الطلبات قيد التنفيذ</string>
+    <string name="search_address_title">عنوان البحث</string>
+    <string name="update_text">تحديث</string>
+    <string name="select_your_address">حدد عنوانك</string>
+    
+    
+    <!-- Home View-->
+    <string name="home_text">الرئيسية</string>
+    <string name="orders_text">الطلبات</string>
+    <string name="account_text">الحساب</string>
+    <string name="help_text">المساعدة</string>
+    <string name="repeat_text">أعد</string>
+    <string name="buy_again">Buy Again</string>
+    <string name="delivering_to_text">التوصيل إلى</string>
+    <string name="set_your_location">من فضلك حدد موقعك الحالي</string>
+
+    <!--Side Menu-->
+    <string name="logout"> الخروج </string>
+    <string name="lanugage"> اللغة </string>
+    <string name="profile"> الملف الشخصي </string>
+    <string name="rewards"> المكافآت </string>
+    <string name="my_order">طلباتي</string>
+    <string name="promo_code"> الرمز الترويجي </string>
+    <string name="change_my_address"> تغيير عنواني </string>
+    <string name="support"> خدمة العملاء </string>
+    <string name="chat_title">الدردشة</string>
+    <string name="wallet_title">محفظة</string>
+    <string name="invite"> دعوة الأصدقاء </string>
+    <string name="happy_user"> مستخدم سعيد </string>
+    <string name="logout_title"> الخروج </string>
+    <string name="sure_logout"> هل أنت متأكد من أنك تريد تسجيل الخروج؟ </string>
+    <string name="must_account_service">يجب ان يكون لديك حساب لاستخدام هذه الخدمة</string>
+    <string name="save_this_card">حفظ البطاقة </string>
+    <string name="save_card">حفظ البطاقه</string>
+    <string name="see_profile">الملف الشخصي</string>
+    
+    <!--Driver List Screen-->
+    <string name="pick_your_driver">اختر سائقك</string>
+    <string name="search_driverId">ابحث عن اسم السائق أو رقم تعريف السائق</string>
+
+    <!--Product Screen-->
+    <string name="edit_product_services">تعديل المنتجات و الخدمات</string>
+    <string name="product_services">المنتجات &amp; الخدمات</string>
+    <string name="choose_type"> يرجى اختيار المنتجات للمتابعة </string>
+    <string name="delivery_price"> سعر التوصيل: </string>
+    <string name="max_limit"> الحد الأقصى المسموح به لعدد المنتجات هو 3. يرجى الاتصال بخدمة العملاء إذا كنت بحاجة إلى المزيد </string>
+    <string name="refill_title">تعبئة</string>
+    <string name="new_title"> جديد </string>
+    <string name="select_products_title"> اختيار المنتجات </string>
+    <string name="cant_combine">لا يمكن توصيل هذا المنتج مع أحد المنتجات التي اخترتها</string>
+    <string name="not_available">غير متاح حالياً</string>
+    <string name="of_text">بقيمة</string>
+    <string name="update_title">تحديث</string>
+    <string name="select_products_continue">اختار المنتجات للمتابعة</string>
+    <string name="installed_text">تركيب</string>
+    
+    <!--Order Confirmation-->
+    <string name="services_title">الخدمات</string>
+    <string name="time_title">الوقت</string>
+    <string name="edit_location">تعديل الموقع</string>
+    <string name="order_confirmation">تأكيد الطلب</string>
+    <string name="due_balance">الرصيد المستحق</string>
+    <string name="update_order">تعديل طلبك</string>
+    <string name="remove_installation">هل تريد إلغاء التركيب؟</string>
+    <string name="sure_to_remove_installation">هل أنت متأكد أنك تريد إلغاء خدمة التركيب؟</string>
+    <string name="buy_withou_extra_fees">اشتري بدون مصاريف توصيل إضافيه</string>
+  
+    <!--Date and Time-->
+    <string name="delivery_date"> حدد التاريخ والوقت </string>
+    <string name="time_slot_unavailable"> الفترة الزمنية التي حددتها غير متاحة حاليًا </string>
+    <string name="now_text">الآن</string>
+    <string name="drivers_available">سائقين متاحين</string>
+
+    <!--Order Summary-->
+    <string name="distributor_not_available"> عذرًا ، لا يمكننا ارسال طلبك الآن ، كل السائقين اصبحوا مشغولين! </string>
+    <string name="promocode_not_valid"> عذرًا ، هذا الرمز الترويجي غير صحيح أو منتهي الصلاحية </string>
+    <string name="order_details"> تفاصيل الطلب </string>
+    <string name="Total_Price"> السعر الإجمالي </string>
+    <string name="delivery_price_title"> سعر التوصيل </string>
+    <string name="express_price_title"> رسوم التوصيل السريع </string>
+    <string name="total_pr"> السعر الإجمالي: </string>
+    <string name="total_price"> السعر الإجمالي: </string>
+    <string name="total_price_title"> السعر الإجمالي </string>
+    <string name="night_shift_price_title"> رسوم الخدمة الليلية </string>
+    <string name="installation_price_title"> رسوم التركيب </string>
+    <string name="vat_title"> ضريبة القيمة المضافة </string>
+    <string name="use_promo_code"> استخدم الرمز الترويجي </string>
+
+    <!--Order Status-->
+    <string name="order_successfully_placed">تم إنشاء الطلب بنجاح</string>
+    <string name="finding_driver_for_you">البحث عن سائق لخدمتك ، يرجى الانتظار ..</string>
+    <string name="order_status">حالة الطلب</string>
+    <string name="product_title">المنتج</string>
+    <string name="products_title">المنتجات</string>
+    <string name="cancel_order"> إلغاء الطلب </string>
+    <string name="cancel_msg"> هل أنت متأكد من أنك تريد إلغاء هذا الطلب؟ </string>
+    <string name="cancel_msg_due_balance">سيتم تطبيق رسوم إلغاء بقيمة %@ ، هل أنت متأكد أنك لا تزال تريد إلغاء هذا الطلب؟</string>
+    <string name="cancel_msg_mada">بناءا علي سياسة مدي، لن نتمكن من إعادة رسوم الطلب مباشرة إلي حسابك، برجاء الرجوع إلي البنك الخاص بك لطلب إعادة رسوم الطلب</string>
+    <string name="Order_list"> قائمة الطلبات </string>
+    <string name="in_progress"> قيد التنفيذ </string>
+    <string name="order_placed"> تم تقديم الطلب </string>
+    <string name="confirmed"> مؤكد </string>
+    <string name="on_the_way"> على الطريق </string>
+    <string name="is_on_the_way">علي الطريق</string>
+    <string name="delivered"> تم التوصيل </string>
+    <string name="not_now"> ليس الآن </string>
+    <string name="edit_order"> تعديل الطلب </string>
+    <string name="note_driver_call"> ملاحظة: سيتصل بك السائق على الرقم </string>
+    <string name="cant_change_payment_method">لا يمكنك تغير طريقة الدفع </string>
+    <string name="preffered_delivery_date">التاريخ المفضل للتوصيل</string>
+    <string name="location_title">الموقع</string>
+    <string name="order_confirmed_note">تم قبول الطلب وسيقوم السائق بتسليمه لك</string>
+    <string name="view_title">عرض</string>
+    <string name="get_help_text">احصل على المساعدة</string>
+
+    <!--My Order-->
+    <string name="placeorder_date"> التاريخ </string>
+    <string name="ID_order"> رقم الطلب </string>
+    <string name="Status"> الحالة </string>
+    <string name="current_order"> الطلبات الحالية </string>
+    <string name="past_order"> الطلبات السابقة </string>
+    <string name="open"> متاح </string>
+    <string name="canceled"> ملغي </string>
+    <string name="not_delivered"> لم يتم التوصيل </string>
+    <string name="rejected"> مرفوض </string>
+    <string name="view_invoice"> عرض الفاتورة </string>
+    <string name="cant_Cancel_order">لا يمكن إلغاء او تعديل الطلب بمجرد قبوله من السائق</string>
+    <string name="delivery_address">عنوان التسليم</string>
+    <string name="purchased_products">المنتجات التي تم شراؤها</string>
+    <string name="incart_text">في عربة التسوق</string>
+    <string name="incomplete_text">غير مكتمل</string>
+    <string name="activeorders_text">الطلبات الحاليه</string>
+    <string name="recurringorders_text">الطلبات المتكررة</string>
+    <string name="no_active_order">لا توجد طلبات حاليه</string>
+    <string name="no_recurring_order">لا يوجد طلبات متكرره</string>
+    
+    <!--rate app dialogue-->
+    <string name="rateapp_title"> قم بتقييم التطبيق </string>
+    <string name="rateapp_message"> هل أعجبك التطبيق؟ ، من فضلك أعطنا 5 نجوم ، هذا سيساعدنا كثيرًا.</string>
+    <string name="rateapp_ok"> موافق </string>
+    <string name="rateapp_cancel"> إلغاء </string>
+
+    <!--Feedback-->
+    <string name="Feedback_tilte"> التقيم </string>
+    <string name="rate"> يرجى تقييم تجربتك مع السائق </string>
+    <string name="Message"> اترك رسالتك هنا </string>
+    <string name="Feedback_Submit"> إرسال </string>
+    <string name="Feedback_notnow"> ليس الآن </string>
+    <string name="your_feedback"> تعليقاتك </string>
+    <string name="add_note">أضف ملاحظة</string>
+   
+    <!--confirm order-->
+    <string name="Confirm_order"> تأكيد الطلب </string>
+    <string name="place_order">إرسال الطلب</string>
+    <string name="referral_and_promo">الإحالة و الرمز الترويجي</string>
+    <string name="code_selected">تم تطبيق الرمز</string>
+    <string name="apply_title">تطبيق</string>
+    <string name="select_title">اختار</string>
+
+    <!--Menual Area-->
+    <string name="select_country"> حدد بلدك </string>
+  
+    <!--Invoice Screen-->
+    <string name="discount_title"> الخصم </string>
+    <string name="invoice_title"> الفاتورة </string>
+    <string name="userId_title"> رقم المستخدم </string>
+    <string name="vatId_title">الرقم الضريبي</string>
+    <string name="subtotal_title"> المجموع الفرعي </string>
+    <string name="total_title"> الإجمالي </string>
+    <string name="paymentMethod_title"> طريقة الدفع </string>
+    <string name="cash_title"> نقداً </string>
+    <string name="download_title"> تحميل </string>
+    <string name="card_title"> بطاقة ائتمانية </string>
+    <string name="items_title">المنتجات</string>
+    <string name="amount_title">الاجمالى</string>
+
+    <!--Promo code-->
+    <string name="promotion_code"> الرمز الترويجي </string>
+    <string name="referral_code">رمز الإحالة</string>
+    <string name="please_enter_promot"> يرجى إدخال الرمز الترويجي </string>
+
+    <!--Inconvenience popup-->
+    <string name="inconvenience_msg"> عزيزي العميل المحترم ، نأسف للإزعاج ... \ n ستتصل بك خدمة العملاء لدينا قريبًا! </string>
+
+    <!--Invitation screen-->
+    <string name="invite_friend"> ادعُ أصدقائك </string>
+    <string name="copy_link"> نسخ الرابط </string>
+    <string name="or"> أو </string>
+    <string name="share_referral_link">مشاركة رابط الإحالة</string>
+    <string name="copy_referral_link">نسخ رابط الإحالة</string>
+    <string name="invite_QR_description">قم بدعوه اصدقائك لتحميل تطبيقنا الرائع</string>
+
+    <!--No Distributor screen-->
+    <string name="something_wrong"> هناك خطأ ما ... </string>
+    <string name="no_registered_distributor"> يبدو أنه لا يوجد سائق مسجل أو نشط في منطقتك </string>
+    <string name="working_hard"> نحن نعمل بجد لخدمتك ، يرجى مساعدتنا في الوصول إليك عن طريق إرسال الطلب أدناه </string>
+    <string name="please_cover_area"> يرجى تغطية منطقتي </string>
+    <string name="area_not_covered"> المنطقة غير مغطاة </string>
+    <string name="change_location">تغيير الموقع</string>
+
+    <!--Profile Screen-->
+    <string name="email_title"> البريد الإلكتروني </string>
+    <string name="password_title"> كلمة المرور </string>
+    <string name="myProfile_title"> ملفي الشخصي </string>
+    <string name="preffered_driver">السائق المفضل</string>
+    <string name="require_email_address"> البريد الإلكتروني مطلوب لتحديث ملفك الشخصي </string>
+    <string name="valid_email_address">الرجاء إدخال بريد إلكتروني صالح</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="are_you_sure_delete_account">هل أنت متأكد أنك تريد حذف حسابك؟</string>
+    <string name="delete_account_description">سيتم إيقاف حسابك على الفور. بعد 30 يومًا ، سيتم حذفه نهائيًا ، وستتم إزالة أي أرصدة أو عروض ترويجية أو مكافآت غير مستخدمة.</string>
+
+    <!--Reward Screen-->
+    <string name="rewards_program"> برامج المكافآت </string>
+    <string name="moreinfo_text"> مزيد من المعلومات </string>
+
+    <!--Cancel Order-->
+    <string name="feedback_seriously"> نأخذ تعليقاتك على محمل الجد </string>
+    <string name="reason_1"> تأخر الطلب </string>
+    <string name="reason_2"> الوقت لا يناسبني </string>
+    <string name="reason_3"> السعر مرتفع </string>
+    <string name="reason_4"> لم أجد المنتجات التي أحتاجها </string>
+    <string name="reason_5"> المنتج به عيوب </string>
+    <string name="reason_6"> أريد تعديل الطلب </string>
+    <string name="reason_7"> أريد الخدمة السريعة </string>
+    <string name="reason_8"> تلقيت الطلب من سائق آخر </string>
+    <string name="reason_9"> أجرب التطبيق </string>
+    <string name="reason_10"> أخرى </string>
+    <string name="other_validation">الرجاء إدخال سبب إلغاء الطلب</string>
+    <string name="select_reason_validation">الرجاء تحديد سبب إلغاء الطلب</string>
+
+    <!--No Products screen-->
+    <string name="something_is_wrong"> هناك خطأ ما ... </string>
+    <string name="no_define_productes"> لا توجد منتجات معرفة في منطقتك </string>
+    <string name="call_support"> الاتصال بخدمة العملاء </string>
+
+    <!--Service Type screen-->
+    <string name="installation_service"> خدمة التركيب </string>
+    <string name="installation_desc"> هل تريد منا تركيب المنتجات داخل منزلك؟ </string>
+    <string name="night_service"> الخدمة الليلية </string>
+    <string name="express_service"> الخدمة السريعة </string>
+    <string name="express_service_desc"> الأولوية لك! هل تريد استلام طلبك بسرعة؟ </string>
+    <string name="installation_service"> خدمة التركيب </string>
+    <string name="night_service_additional"> * إضافية </string>
+    <string name="express_service_additional"> * إضافية </string>
+    <string name="installation_service_additional"> * إضافية </string>
+    <string name="additiona_title">إضافية</string>
+    <string name="addition_service"> خدمات إضافية </string>
+    <string name="enable_for_all">إضافة للكل</string>
+    <string name="disable_for_all">إزالة من الكل</string>
+
+    <!--Location Error screen-->
+    <string name="tryagain_title"> حاول مرة أخرى </string>
+
+    <!--Support Screen-->
+    <string name="leave_chat"> مغادرة المحادثة </string>
+    <string name="type_message"> اكتب رسالة </string>
+    <string name="support_team"> فريق خدمة العملاء </string>
+    <string name="customer_support">خدمة العملاء</string>
+    
+    <!--Wallet Screen-->
+    <string name="touch_set_title"> المس لتحديد الطريقة الافتراضية. اضغط للتعديل. </string>
+    <string name="save_changes"> حفظ التغييرات </string>
+    <string name="add_new_card"> إضافة بطاقة جديدة </string>
+    <string name="cash_on_delivery"> الدفع نقداً </string>
+    <string name="delete_card_warning"> هل انت متأكد من حذف طريقة الدفع هذه؟ </string>
+    <string name="select_payment_title"> حدد طريقة الدفع </string>
+    <string name="email_validation_error">يرجى تحديث اسمك وعنوان بريدك الإلكتروني ضمن إعدادات الملف الشخصي</string>
+    <string name="mada_card_title">بطاقة مدى البنكية/ بطاقة ائتمان</string>
+    <string name="balance_title">الرصيد</string>
+    <string name="add_payment_title">إضافة بطاقة جديدة</string>
+    <string name="default_method">الطريقة الافتراضية</string>
+    <string name="remove_title">حذف</string>
+    <string name="make_default">الافتراضي</string>
+
+    <!--Force Update Popup-->
+    <string name="been_a_long_time"> لقد مر وقت طويل! </string>
+    <string name="force_location_title"> لتقديم أفضل خدمة ، نحتاج إلى تحديث عنوانك باستمرار ، لا تقلق ، سيستغرق الأمر بضع ثوانٍ. </string>
+    <string name="update_now"> التحديث الآن </string>
+    <string name="skip_title"> ليس الان </string>
+    <string name="whatsapp_title">واتساب</string>
+
+    <!--Get Driver app screen-->    
+    <string name="boss_title"> سيدي! </string>
+    <string name="register_not_suit_you"> رقم هاتفك الجوال مسجل كسائق وهذا الإصدار من التطبيق لا يناسبك </string>
+    <string name="get_driver_desc"> يرجى الحصول على تطبيق السائقين والبدء في جني الأموال! </string>
+    <string name="get_driver_app"> احصل على تطبيق السائقين </string>
+    <string name="attention_title">انتباه !!!</string>
+    
+    <!--Local Notification text-->
+    <string name="reminder_title_registration"> يرجى إكمال التسجيل لتلقي عروضنا وخصوماتنا </string>
+
+    <!--Fully Booked Popup-->
+    <string name="today_title">اليوم</string>
+    <string name="fully_booked_today"> اليوم محجوز بالكامل! </string>
+    <string name="fully_booked_today_desc"> جميع الاوقات في منطقتك محجوزه في التاريخ المختار.</string>
+    <string name="fully   _booked_today_date"> تم تغيير التاريخ الى اقرب يوم متاح  </string>
+
+    <!--Payment Method Popup-->
+    <string name="payment_method_failed">فشلت طريقة الدفع التي قمت باختيارها</string>
+    <string name="payment_method_cash">طريقة الدفع الآن هي الدفع النقدي عندي التسليم</string>
+    <string name="select_payment_method">اختار طريقه الدفع</string>
+    
+    <!--Inbox messages screen-->
+    <string name="messages_text">Messages</string>
+    <string name="notifications_text">إشعارات</string>
+    <string name="sec_ago">منذ %d ثانية</string>
+    <string name="min_ago">منذ %d دقيقة</string>
+    <string name="hrs_ago">منذ %d ساعات</string>
+    <string name="days_ago">منذ %d أيام</string>
+    <string name="weeks_ago">منذ %d اسابيع</string>
+    <string name="months_ago">منذ %d أشهر</string>
+    <string name="years_ago">منذ %d سنوات</string>
+    
+    <!--call reqeust screen-->
+    <string name="call_request">طلب اتصال</string>
+    <string name="call_request_desc">سائقنا يحاول الوصول إلى رقمك %@ ، يرجى الاتصال بالسائق!</string>
+    <string name="driver_number_is">%@ رقم سائقنا هو</string>
+    <string name="order_scheduled">تمت إعادة جدولة طلبك</string>
+    <string name="order_scheduled_desc">حاول سائقنا الاتصال برقمك %@ ، لكنك لم تجب!</string>
+    <string name="call_driver">اتصل بالسائق</string>
+    <string name="reschedule_request">طلب إعادة الجدولة</string>
+    <string name="reschedule_request_desc">! لقد طلب السائق إعادة جدولة هذا الطلب , يرجي التأكيد</string>
+    <string name="request_expire_in">ستنتهي صلاحيه هذا  الطلب في</string>
+    <string name="missed_driver_request">فاتك مطلب من سائق</string>
+    <string name="missed_driver_request_desc">حاول سائقنا إعادة جدولة طلبك ، لكنك لم تجب!</string>
+    <string name="your_order_scheduledin">سيتم إعادة جدولة طلبك في</string>
+    <string name="confirm_reschedule">تأكيد إعادة الجدولة</string>
+    
+    <!--Force Update screen-->
+        <string name="update_required">تحديث التطبيق</string>
+        <string name="order_via">الطلب عبر</string>
+       <string name="force_update_desc">يجب إجراء تحديث مهم يتضمن ميزات إضافية وتحديثات أمان وتحسينات.
+
+يرجى تحديث التطبيق للمتابعة.</string>
+<!--track order screen-->
+<string name="track_driver">تتبع السائق </string>
+<string name="track_text">تتبع</string>
+<string name="call_title">اتصال</string>
+
+<!--Country Working hour popup-->
+ <string name="outside_working_hour">خارج ساعات العمل</string>
+<string name="working_hours_desc">نحن غير متواجدين في المكتب حاليا وربما نتأخر في الرد قليلا.
+مواعيد العمل من الساعه %@ص حتي الساعة %@مساءا
+سنقوم بالرد علي رسالتك خلال 24 ساعة
+
+</string>
+
+    <!--feedback screen-->
+    <string name="drivername_description">كيف كانت تجربتك مع %@ ؟</string>
+    <string name="rate_driver_label">يرجى تقييم السائق</string>
+    <string name="done_title">تم</string>
+    <string name="terrible_title">فظيعة</string>
+    <string name="bad_title">سيئة</string>
+    <string name="fine_title">متوسطة</string>
+    <string name="good_title">جيدة</string>
+    <string name="excellent_title">ممتازة</string>
+
+    <!--save more screen-->
+    <string name="spcial_offer">محفظتك</string>
+    <string name="limited_time_offer">اشحن رصيدك</string>
+    <string name="special_offer_description">يمكنك الآن شحن رصيد حسابك بكل سهولة</string>
+    <string name="ignore_title">تجاهل</string>
+    <string name="save_more">وفر أكثر</string>
+
+    <!--show balance screen-->
+    <string name="plus_add_title">+ اضافة</string>
+    <string name="show_balance">إظهار الرصيد</string>
+    <string name="available_balance">الرصيد المتاح</string>
+    <string name="termsconditionbalance">انقر على "موافق ومتابعة" لقبول شروط الخدمة</string>
+    <string name="add_balance">إضافة رصيد</string>
+    <string name="popular_text">شائع</string>
+    <string name="payment_failed">فشل الدفع</string>
+    <string name="okay_title">حسنا</string>
+    <string name="payment_successful">تم الدفع</string>
+    <string name="payment_cancelled">تم إلغاء عملية الدفع</string>
+    <string name="we_will_add_balance">شوف نضيف الي رصيدك</string>
+    <string name="balance_note">الرصيد مع الخصم غير قابل للاسترداد ، يرجى النقر فوق متابعة للموافقة</string>
+    
+    <!--Recurring order screen-->
+    <string name="recurring_order_time">وقت وتاريخ الطلب المتكرر</string>
+    <string name="add_recurring_order">كرر طلبك وقت ما تحب</string>
+    <string name="current_string">الحالية</string>
+    <string name="recurring_string">المتكرره</string>
+    <string name="past_string">السابقة</string>
+    <string name="repeat_last_order">كرر طلبك السابق</string>
+    <string name="confirm_recurring_order">تأكيد الأمر المتكرر</string>
+    <string name="edit_recurring_order">تعديل الطلب المتكرر</string>
+    <string name="daily_string">يوميا</string>
+    <string name="recurring_order_reminder">تذكير النظام المتكرر</string>
+    <string name="place_order_description">تقديم الطلبات دائمًا بدون تذكير</string>
+    <string name="timeslot_title">الفترة الزمنية</string>
+    <string name="selected_time">الوقت المحدد</string>
+    <string name="select_time">الوقت المحدد</string>
+    <string name="selected_day">اليوم المحدد</string>
+    <string name="selected_hour">الساعة المحددة</string>
+    <string name="selected_date">التاريخ المحدد</string>
+    <string name="are_you_sure_repeat">هل أنت متأكد من تكرار هذا الطلب؟</string>
+    <string name="note_driver">Add Note to Driver</string>
+    <string name="add_note_driver">(100 حرف)  أضف ملاحظه الي السائق </string>
+    <string name="add_note_driver_store">أضف ملاحظة للسائق أو للمتجر</string>
+    <string name="active_string">فعال</string>
+    <string name="inactive_string">غير فعال</string>
+    <string name="sure_cancel">هل أنت متأكد أنك تريد إلغاء الطلب المتكرر؟</string>
+    <string name="installation_title">تثبيت</string>
+    <string name="confirm_label">تاكيد</string>
+    <string name="weekly_title">اسبوعي</string>
+    <string name="monthly_title">شهري</string>
+    <string name="everyday_string">كل يوم</string>
+    <string name="please_select_date">من فضلك اختار التاريخ</string>
+    <string name="please_select_weekdays">من فضلك اختار ايام الاسبوع</string>
+    <string name="pause_order">إيقاف الطلب</string>
+    <string name="pause_title">إيقاف</string>
+    <string name="reminder_title">تنبيه</string>
+    
+    <string name="you_have_recurring_order">لديك طلب متكرر</string>
+    <string name="on_string">علي</string>
+    <string name="please_confirm_order">من فضلك قم بالتاكيد لاضافة الطلب او قم بتعديل المنتجات</string>
+    <string name="tomorrow_title">غدا</string>
+    <string name="link_copied">تم نسخ رابط الدعوة</string>
+    <string name="enable_order">تفعيل التذكير للطلب</string>
+    <string name="referral_Id">رمز الإحالة</string>
+    <string name="scan_to_driver">للطلب امسح QR كود</string>
+    <string name="add_referral_id">أضف رمز الإحالة</string>
+    
+    <string name="Sun">الاحد</string>
+    <string name="Mon">الاتنين</string>
+    <string name="Tue">الثلاثاء</string>
+    <string name="Wed">الاربعاء</string>
+    <string name="Thu">الخميس</string>
+    <string name="Fri">الجمعه</string>
+    <string name="Sat">السبت</string>
+    
+    <!--Sensors screen-->
+    <string name="mysensors_title">الأجهزة الذكية</string>
+    <string name="last_update"> اخر تحديث</string>
+    <string name="approve_sensor_dialogue">هل توافق على الجهاز؟</string>
+    <string name="approve_this_sensor">وافق على هذا الجهاز</string>
+    <string name="go_settings">اذهب إلى الإعدادات</string>
+    <string name="sensor_note">الرجاء تعيين المستوى الحرج سنقوم بإخطارك عندما يصل الغاز إلى المستوى الحرج حتى تعرف متى يجب
+        إعادة تعبئة الأسطوانة.</string>
+    
+    <string name="pending_approval">في انتظار الموافقة</string>
+    <string name="touch_to_edit">المس لتعديل الجهاز</string>
+    <string name="add_sensor">اضف جهاز</string>
+    <string name="battery_level">مستوى البطارية </string>
+    <string name="sensor_information">معلومات الجهاز</string>
+    <string name="sensor_name">اسم الجهاز</string>
+    <string name="used_product">المنتج المستخدم</string>
+    <string name="change_title">تغيير</string>
+    <string name="set_critical_level">تعيين المستوى الحرج</string>
+    <string name="status_title">الحالةD</string>
+    <string name="firmware_version">نسخة البرنامج:</string>
+    <string name="remove_this_version">قم بإزالة هذا الجهاز</string>
+    
+    <string name="sensors_detail">تفاصيل الأجهزة</string>
+    <string name="add_title">أضف</string>
+    <string name="kitchen_for_example">على سبيل المثال مطبخ</string>
+    <string name="enter_critical_note">يرجى تحديد المستوى الحرج بالنسبة المئوية</string>
+    <string name="select_sensor">اختر جهاز</string>
+    <string name="select_sensor_note">يرجى وضع جهازك في وضع الإعدادات عن طريق الضغط على الزر الرئيسي لبضع ثوان.   سيتم قطع اتصالك بشبكة WIFI.     مطلوب الاتصال بالإنترنت عبر3G / 4G.</string>
+    <string name="scanning_text">امسح المسح...</string>
+    <string name="add_sensor_manually">أضف الجهاز يدويًا</string>
+    <string name="refresh_title">تحديث</string>
+    <string name="select_network">اختر شبكة</string>
+    <string name="select_network_note">يرجى تحديد شبكة WIFI   المنزلية الخاصةD بك.
+        تذكر أن كلمة مرور WIFI   حساسة لحالةD الأحرف.
+       سيتم استخدام اسم WIFI    وكلمة المرور بواسطة جهازك.</string>
+    <string name="waiting_for_approval">بانتظار الموافقة</string>
+    <string name="approval">وافق</string>
+    <string name="authorized">مصرح له</string>
+    <string name="disabled">متوقف</string>
+    
+    <string name="pending_approval_note">يرجى التأكد من أن جهازك في وضع الإعداد.</string>
+    <string name="approve_titme">وافق</string>
+    <string name="deny">ارفض</string>
+    <string name="delete_title">حذف</string>
+    <string name="gas_level">مستوى الغاز</string>
+    <string name="scan_qr">Scan QR code</string>
+    <string name="menual_setup">تحميل يدوي</string>
+    <string name="enter_network_network">أدخل كلمة مرور الشبكة</string>
+    <string name="search_product">البحث عن المنتجات</string>
+    <string name="critical_level_percentage">النسبة المئوية للمستوى الحرج</string>
+    <string name="remove_sensor">حذف السنسور</string>
+    <string name="sure_to_remove_sensor">هل أنت متأكد من أنك تريد حذف السنسور؟</string>
+    <string name="sensor_onboarding_desc">يرجى وضع جهازك في وضع الإعدادات عن طريق اتباع التعليمات الواردة في كتيب التعليمات
+       
+       يرجى التأكد من وميض لمبة السنسور
+    </string>
+    <string name="confirm_blinking">أؤكد أن السنسور يومض</string>
+    
+    <string name="point_checkout">Point Checkout</string>
+    <string name="paypal_title">Paypal</string>
+    <string name="applepay_title">Apple Pay</string>
+    <string name="guest_title">زائر</string>
+    <string name="no_order">لا يوجد طلبات</string>
+    <string name="no_notification_string">لا يوجد لديك اشعارات </string>
+    
+    <!--Store Screen-->
+    <string name="drive_to_store">القيادة إلى المتجر</string>
+    <string name="buy_from">شراء</string>
+    <string name="store_name">اسم المتجر:</string>
+    <string name="store_name_id">اسم المتجر او ID</string>
+    <string name="store_title">متجر</string>
+    <string name="stores_title">المتاجر</string>
+    <string name="search_here_title">ابحث هنا</string>
+    <string name="you_buy_products_from">انت على وشك شراء منتجات من</string>
+    <string name="recurring_active_error">يمكنك ان تمتلك طلب متكرر واحد فقط</string>
+    <string name="directions_title">اتجاهات</string>
+    <string name="km_title">كم</string>
+    <string name="closed_title">مغلق</string>
+    <string name="overview_title">ملخص</string>
+    <string name="open_in">يفتح في</string>
+    <string name="close_in">يغلق في</string>
+    <string name="open_store">متاح</string>
+    
+    <!--Edit Order-->
+    <string name="edit_product">تعديل المنتج</string>
+    <string name="quantity_title">الكمية</string>
+    <string name="assigned_title">مخصص إلى</string>
+    <string name="delete_product">حذف المنتج؟</string>
+    <string name="sure_delete_product">هل أنت متأكد أنك تريد حذف هذا المنتج؟</string>
+    <string name="install_title">مع تركيب</string>
+    <string name="first_product_title">الإضافة للمنتج الأول فقط , باقي المنتجات مجاناً</string>
+    
+    <!--My Cart-->
+    <string name="my_cart">سلة التسوق</string>
+    
+  
+    
+    <string name="qr_code">الرمز الاستجابة السريعة (QR)</string>
+    
+</resources>

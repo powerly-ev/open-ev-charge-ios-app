@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Regular.ttf">
+            <string>Roboto-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="SlotDayCollectionViewCell" customModule="Powerly" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="40"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="100" height="40"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IW5-6B-YeM">
+                        <rect key="frame" x="0.0" y="0.0" width="100" height="40"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Acp-xM-tC7">
+                                <rect key="frame" x="12" y="10" width="76" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="Zt7-hN-Ucg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
+                                <color key="textColor" name="284F68"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="Acp-xM-tC7" secondAttribute="bottom" constant="10" id="3dp-eB-RNp"/>
+                            <constraint firstAttribute="height" constant="40" id="40u-0d-1uz"/>
+                            <constraint firstAttribute="trailing" secondItem="Acp-xM-tC7" secondAttribute="trailing" constant="12" id="Bx2-sZ-NXP"/>
+                            <constraint firstItem="Acp-xM-tC7" firstAttribute="top" secondItem="IW5-6B-YeM" secondAttribute="top" constant="10" id="PWQ-gR-O1V"/>
+                            <constraint firstItem="Acp-xM-tC7" firstAttribute="leading" secondItem="IW5-6B-YeM" secondAttribute="leading" constant="12" id="xSm-tN-CuD"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" name="DDE8F0"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="IW5-6B-YeM" secondAttribute="bottom" id="ICg-v1-69A"/>
+                <constraint firstItem="IW5-6B-YeM" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="f7f-fh-SE2"/>
+                <constraint firstItem="IW5-6B-YeM" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="hvz-bE-fAM"/>
+                <constraint firstAttribute="trailing" secondItem="IW5-6B-YeM" secondAttribute="trailing" id="xat-yz-qzA"/>
+            </constraints>
+            <connections>
+                <outlet property="dayLabel" destination="Acp-xM-tC7" id="Fuc-Mo-IHE"/>
+                <outlet property="dayView" destination="IW5-6B-YeM" id="dqY-E8-IaN"/>
+            </connections>
+            <point key="canvasLocation" x="132" y="121"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="284F68">
+            <color red="0.15700000524520874" green="0.31000000238418579" blue="0.40799999237060547" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="DDE8F0">
+            <color red="0.86699998378753662" green="0.9100000262260437" blue="0.94099998474121094" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

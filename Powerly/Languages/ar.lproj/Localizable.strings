@@ -1,0 +1,228 @@
+"switch_account" = "تبديل الحساب";
+"continue_as" = "المتابعة كـ";
+"new_password" = "كلمة المرور الجديدة";
+"confirm_password" = "تأكيد كلمة المرور";
+"password_confirm_password_no_match" = "يرجى التأكد من تطابق حقلي كلمة المرور وتأكيد كلمة المرور بشكل صحيح.";
+
+//home
+"club_electric" = "نادي الكهرباء";
+"club_electric_desc" = "شارك تجربتك، واطرح استفسارات حول السيارات الكهربائية، ومحطات الشحن، وكل ما يتعلق بالكهرباء.";
+"refer_and_earn" = "شارك واربح";
+"refer_earn_desc" = "قم بدعوة أصدقائك إلى Powerly واحصل على مكافأة نقدية تصل إلى 75 دولارًا.";
+"buy_ev_charger" = "شراء شاحن السيارة الكهربائية";
+"buy_ev_charger_desc" = "استمتع بسهولة وجود نقطة شحن خاصة بك للسيارة الكهربائية في منزلك.";
+"join_now" = "انضم الآن";
+"refer_now" = "أُرِسْل الآن";
+"buy_now" = "اشترِ الآن";
+"nearest" = "الأقرب";
+"Parking Area" = "منطقة مواقف السيارات";
+"Shopping Mall" = "مركز تسوق";
+"Park" = "حديقة";
+"Restaurant" = "مطعم";
+"Apartment" = "شقة";
+"Other" = "آخر";
+"refer_and_earn_guest" = "شارك التطبيق الآن";
+"refer_earn_desc_guest" = "يمكنك الآن دعوة أصدقائك لاستخدام تطبيقنا";
+"refer_now_guest" = "شارك الآن";
+
+//mapview
+"open" = "مفتوح";
+"closed" = "مغلق";
+"busy" = "مشغول";
+"available" = "متاح";
+
+//Charging point detail
+"station" = "محطة";
+"away" = "بعيد";
+"max" = "الحد الأقصى";
+"kw" = "ك.و";
+"kwh" = "ك.و.س";
+"wh" = "واط-ساعة";
+"minute" = "دقيقة";
+"minutes" = "دقائق";
+"per" = "لكل";
+"FULL" = "كامل";
+"stop_charging" = "إيقاف الشحن";
+"stop_charging_note" = "يرجى التأكد من فصل القابس من مركبتك الكهربائية قبل إيقاف الشحن.";
+"sure_stop_charging" = "هل أنت متأكد من أنك تريد إيقاف الشحن؟";
+"cancel_booking" = "إلغاء الحجز";
+"sure_cancel_booking" = "هل أنت متأكد من أنك تريد إلغاء هذا الحجز؟";
+"start_charging_note_above_100" = "قبل أن تبدأ الشحن، يرجى أن تتذكر:\n\nإذا لم تكن بالقرب من محطة الشحن حاليًا، ستبدأ الجلسة الشحن ما زالت إذا قررت المتابعة.\n\nإذا كنت بالفعل في محطة الشحن وجاهزًا لتنشيط الشاحن، اختر مدة الشحن الخاصة بك واضغط على 'بدء الشحن' للبدء.";
+"start_charging_note_below_100" = "أنت مستعد لتنشيط الشاحن. حدد وقت الشحن الخاص بك واضغط على 'بدء الشحن' للبدء.";
+"open_24_hours" = "مفتوح 24 ساعة";
+"h" = "ساعة";
+"min" = "دقيقة";
+"external_notice" = "ملاحظة: هذه الخدمة ليست تحت إشراف أو ادارة Powerly. تأكد من سلامتك وسلامة مركبتك عند استخدام الخدمة وكن حذرًا دائمًا.";
+"booking_message" = "رائع! تم حجز مكان الشحن لك. اتجه إليه بأمان، وتعرف عليه من خلال اسمه والرقم التعريفي، ثم امسح الكود المربع واستمتع بالشحن.";
+"notice" = "إشعار: ";
+"got_it" = "استمرار";
+"select_plug"="يرجى تحديد المقابس قبل بدء الشحن";
+
+//Add charging station
+"Location" = "الموقع";
+"Address" = "العنوان";
+"Description" = "الوصف";
+"Stations" = "محطات";
+"Hours" = "ساعات";
+"Amenities" = "وسائل الراحة";
+"Price" = "السعر";
+"Types" = "الأنواع";
+"Media" = "وسائط";
+"limit_per_kWh" = "الحد لكل كيلوواط-ساعة";
+"limit_per_kWh" = "الحد لكل كيلوواط-ساعة";
+"limit_per_minutes" = "الحد لكل دقيقة";
+"price_per_kWh" = "السعر لكل كيلوواط-ساعة";
+"price_per_minute" = "السعر لكل دقيقة";
+"ev_charger" = "شاحن السيارة الكهربائية";
+"power_meter" = "عداد القدرة";
+"smart_plug" = "قابس ذكي";
+"add_ev_charger" = "إضافة شاحن السيارة الكهربائية";
+"add_smart_meter" = "إضافة عداد ذكي";
+"my_power_source" = "مصدر الطاقة الخاص بي";
+"configuration_failed" = "فشل التكوين";
+"offline" = "غير متصل";
+"Unavailable" = "غير متاح";
+"busy" = "مشغول";
+"booked" = "محجوز";
+"my_ev_charger" = "شاحن سيارتي الكهربائي 1";
+"my_smart_meter" = "عداد ذكي لدي 1";
+"my_smart_plug" = "مأخذ ذكي لدي 1";
+"select_working_time" = "الرجاء اختيار وقت العمل.";
+"booked_by_you" = "محجوز من قبلك";
+"used_by_you" = "مشغول بك";
+
+
+//Side menu
+"my_power_sources" = "مركز الطاقة";
+"my_vehicles" = "المركبات";
+
+//my order
+"active_session" = "الجلسة النشطة";
+"scheduled" = "مجدولة";
+"history" = "السجل";
+"order_id" = "رقم الطلب";
+"charging" = "الشحن";
+"recharge" = "إعادة الشحن";
+"total" = "الإجمالي";
+"scheduled" = "مجدولة";
+"cancel_booking" = "إلغاء الحجز";
+"booking_id" = "رقم الحجز";
+"total_fees" = "إجمالي الرسوم";
+"no_active_order" = "لا يوجد طلب نشط";
+"no_scheduled_order" = "لا يوجد طلب مجدول";
+"no_completed_order" = "لا يوجد طلب مكتمل";
+"app_fees" = "رسوم التطبيق";
+"reservation_fees" = "رسوم الحجز";
+"booked_slot" = "الوقت المحجوز";
+"station_id" = "معرف المحطة";
+"Configurations" = "الإعدادات";
+
+//Balance
+"withdraw" = "سحب";
+"withdraw_to" = "سحب إلى:";
+"withdraw_from" = "السحب من:";
+"withdraw_policy_desc" = "اطلع على سياسة السحب لدينا. اضغط على \"موافق وسحب\" لقبول شروط الخدمة";
+"withdraw_policy" = "سياسة السحب";
+"terms_of_service" = "شروط الخدمة";
+"agree_withdraw" = "موافق وسحب";
+
+//feedback
+"all_reviews" = "جميع التقييمات";
+"how_was_experience" = "كيف كانت تجربتك؟";
+
+//my powersources
+"list_device" = "قائمة الجهاز";
+"unlist_device" = "إزالة الجهاز من القائمة";
+"list_device_note" = "هل أنت متأكد من رغبتك في إدراج هذا الجهاز في القائمة؟\n\nملاحظة: بمجرد إدراج هذا الجهاز في القائمة، سيكون مرئيًا للجمهور.";
+"unlist_device_note" = "هل أنت متأكد من رغبتك في إزالة هذا الجهاز من القائمة؟\n\nملاحظة: بمجرد إزالة هذا الجهاز من القائمة، لن يكون مرئيًا للجمهور.";
+"add_description" = "أضف الوصف هنا...";
+"add_plug" = "أضف مقبسًا";
+"added_to_stations" = "تمت الإضافة إلى المحطات";
+"camera" = "الكاميرا";
+"gallery" = "المعرض";
+"cancel" = "إلغاء";
+"delete_media" = "حذف الوسائط؟";
+"delete_media_note" = "هل أنت متأكد من رغبتك في حذف هذه الصورة؟";
+"scan_1" = "إذا قمت بمشاركته مع شخص ما، يمكنهم مسحه باستخدام كاميرا ";
+"scan_2" = "لبدء الشحن.";
+"remove_device" = "إزالة الجهاز";
+"remove_device_note" = "هل أنت متأكد أنك تريد إزالة الجهاز؟\n\n ملاحظة: بعد إزالة الجهاز، ستتم مسح/إعادة تعيين كل سجلاتك.";
+"Update" = "تحديث";
+"before_apping" = "قبل إضافة عدادك الذكي إلى حسابك، تأكد من التكوين السليم:";
+"before_adding_ev" = "قبل إضافة شاحن السيارة الكهربائية إلى حسابك ، تأكد من التكوين الصحيح:";
+"server" = "الخادم:";
+"username" = "اسم المستخدم:";
+"password" = "كلمة المرور:";
+"confirm_correctly" = "قم بالتأكيد عند التكوين بشكل صحيح.";
+"configuration" = "تكوين";
+"Pending" = "قيد الانتظار";
+"Total Time" = "الوقت الكلي ";
+"share_message_ev" = "للاستخدام العام. كلانا يحصل على أرصدة شحن إضافية عند أول عملية شحن لك. قم بتثبيت التطبيق ويمكنك بسهولة حجز وشحن EV الخاص بك دون أي متاعب. جربه الآن";
+"share_message_plug" = "مرحبًا ! لقد قمت بإدراج القابس الذكي الخاص بيك في باورلي ، وهو الآن متاح للاستخدام العام. كلانا يحصل على أرصدة شحن إضافية عند أول عملية شحن لك. قم بتثبيت التطبيق ويمكنك بسهولة حجز وشحن  القابس الذكي الخاص بك دون أي متاعب. جربه الآن
+";
+"share_message_meter" = "مرحبًا ! لقد قمت بإدراج عداد القدره الخاص بي في باورلي ، وهو الآن متاح للاستخدام العام. كلانا يحصل على أرصدة شحن إضافية عند أول عملية شحن لك. قم بتثبيت التطبيق ويمكنك بسهولة حجز وشحن
+عداد القدره الخاص بك دون أي متاعب. جربه الآن
+";
+"share_earn" = "مرحبا صديقي! أنا أستخدم تطبيق باورلي لشحن سيارتي الكهربائية، وهو فعلاً رهيب! لازم تجربته. إذا انضممت عن طريقي، ممكن تحصل على مكافآت تصل لـ75 دولار! هذا رابط الانضمام: [Referral Link]
+تطبق الشروط والأحكام.";
+
+//Add vehicle
+"manufacturer" = "الشركة المصنعة";
+"model" = "الطراز";
+"details" = "التفاصيل";
+"delete_vehicle" = "حذف المركبة؟";
+"delete_vehicle_note" = "هل أنت متأكد من رغبتك في حذف هذه المركبة؟";
+"edit" = "تعديل";
+"delete" = "حذف";
+"Fuel" = "وقود";
+"Hybrid" = "هجين";
+"Plug-In Hybrid" = "هجين قابل للشحن";
+"Electric" = "كهربائي";
+"Other" = "أخرى";
+
+
+"make_public" = "جعل عام";
+"make_private" = "جعل خاص";
+
+"Total re-active power" = "إجمالي القدرة النشطة الكلية";
+"Total apparent power" = "إجمالي القدرة الظاهرة الكلية";
+"Total power factor" = "معامل القدرة الكلي";
+"Time Stamp" = "الطابع الزمني";
+
+//Authentication
+"Strong" = "قوي";
+"Weak" = "ضعيف";
+"Medium" = "متوسط";
+"Enter your password" = "أدخل كلمه السر";
+"Please enter a email address" = "من فضلك أدخل بريدك الالكتروني";
+"Please enter valid email address" = "من فضلك أدخل بريد الكتروني صالح للاستخدام";
+"Please enter password" = "من فضلك أدخل كلمه السر";
+"The password must be at least 8 characters." = "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل";
+"Password and confirm password should be same" = "يجب أن تكون كلمة المرور وتأكيد كلمة المرور متماثلتين";
+"Enter your powerly registered password for " = "أدخل كلمة المرور المسجلة في باورلي ";
+"Select country" = "اختر الدوله";
+"Sign in with Apple" = "تسجيل الدخول عبر ابل";
+"Explore other Sign-in options" = "اكتشف خيارات تسجيل الدخول";
+"Completed" = "مكتمل";
+"Open" = "Open";
+
+"AM" = "صباحاً";
+"PM" = "مساءً";
+
+"Safely" = "بأمان الله";
+"Drive to Station" = "اتجه إلى الشاحن";
+"Locate your charger with the app and head to its location. The map will guide you for easy navigation." = "استخدم التطبيق للعثور على الشاحن وتوجه إلى موقعه. ستوجِّهك الخريطة الى الموقع.";
+"Identify the Charger" = "حدد الشاحن";
+"In areas with multiple chargers, identify your charger using its unique ID or name, especially helpful if you have" = "";
+"booked in advance." = "ينصح بالحجز المسبق";
+"Start Charger" = "تشغيل الشاحن";
+"First, connect your vehicle to the charger. Then, scan the QR code on the charger to" = "";
+"start the charging" = "لبدء عملية الشحن";
+"process." = "";
+"Wait" = "انتظر";
+"for Charging" = "حتى تتم عملية الشحن";
+"Setup complete! A countdown timer will show how long until your vehicle is fully charged. Relax or take a moment for yourself in the meantime." = "كل شيء جاهز! سيظهر مؤقت العد التنازلي لتعرف متى سيتم شحن سيارتك بالكامل. استرخ أو اخذ قسطاً من الراحة في الوقت بينهما.";
+
+"no_problem_forgot_password" = "لا توجد مشكلة! سنرسل كلمة مرور لمرة واحدة (OTP) إلى \(email). بمجرد استلامها، يمكنك استخدام OTP لتسجيل الدخول وإعادة تعيين كلمة المرور الخاصة بك.";
+
+"New" = "جديد";

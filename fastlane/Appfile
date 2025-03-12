@@ -1,0 +1,16 @@
+# Appfile
+app_identifier "com.esttp.opensource"
+
+apple_id("your apple id") # Your Apple Developer Portal username
+
+itc_team_id("APP_ID") # App Store Connect Team ID
+team_id("TEAM_ID") # Developer Portal Team ID
+
+for_platform :ios do
+  for_lane :opensource do
+    app_identifier 'com.esttp.opensource'
+  end
+end
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

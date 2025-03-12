@@ -1,0 +1,97 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
+*.xcscmblueprint
+
+## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+Powerly/GoogleService-Info.plist
+build/
+DerivedData/
+*.moved-aside
+*.xcmap
+*.xcodeproj.bak/
+
+## Xcode noise
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcodeproj/
+*.xcproj/
+*.ipa
+*.DSYM.zip
+*.mobileprovision
+
+## Pods - for those using CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+
+## Carthage - for those using Carthage
+Carthage/Checkouts
+Carthage/Build
+
+## Swift Package Manager
+.build/
+Packages/
+DerivedData/
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+Package.resolved
+
+# CocoaPods
+Pods/
+*.lock
+# Uncomment if you don't want to check in your Podfile.lock file
+#**/Podfile.lock
+# Uncomment if you don't want to check in your Pods directory
+**/Pods/
+# Uncomment if you don't want to check in your schemes directory
+#**/*.xcscheme
+# Uncomment if you don't want to check in your .xcworkspace file
+#**/*.xcworkspace
+# Uncomment if you don't want to check in your xcuserdata
+#**/*.xcuserdatad
+# Uncomment if you don't want to check in your .xcuserdatad directory
+#**/*.xcuserdatad/
+# Uncomment if you don't want to check in your xcuserdata
+#**/*.xcuserdata
+# Uncomment if you don't want to check in your *.moved-aside files
+#**/*.moved-aside
+# Uncomment if you don't want to check in the Pods directory in your project
+**/Pods/
+# Uncomment if you don't want to check in .xcworkspace
+#**/*.xcworkspace
+# Uncomment if you don't want to check in .DS_Store
+#**/.DS_Store
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/archive
+fastlane/.env
+fastlane/.env.default
+fastlane/.env.development
+fastlane/.env.test
+fastlane/.env.production
+bitbucket-pipelines.yml
+
+
+

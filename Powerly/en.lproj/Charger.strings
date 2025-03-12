@@ -1,0 +1,233 @@
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "0F0-pU-l7V"; */
+"0F0-pU-l7V.text" = "Description";
+
+/* Class = "UILabel"; text = "SR"; ObjectID = "0Zm-3C-QMB"; */
+"0Zm-3C-QMB.text" = "SR";
+
+/* Class = "UILabel"; text = "Mennekes"; ObjectID = "0pm-KL-TnA"; */
+"0pm-KL-TnA.text" = "Mennekes";
+
+/* Class = "UILabel"; text = "Mennekes"; ObjectID = "0rS-mU-8gD"; */
+"0rS-mU-8gD.text" = "Mennekes";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "1Uc-Na-oir"; */
+"1Uc-Na-oir.text" = "Save and Next";
+
+"r5a-lY-ydA.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "No result found"; ObjectID = "6ds-id-55t"; */
+"6ds-id-55t.text" = "No result found";
+
+/* Class = "UILabel"; text = "Make Public"; ObjectID = "8KX-qd-fZm"; */
+"8KX-qd-fZm.text" = "Make Public";
+
+/* Class = "UILabel"; text = "Pin Location"; ObjectID = "8tQ-is-Fvb"; */
+"8tQ-is-Fvb.text" = "Pin Location";
+
+/* Class = "UILabel"; text = "To find your location automatically,  please enable location services "; ObjectID = "A4e-4D-OqC"; */
+"A4e-4D-OqC.text" = "To find your location automatically,  please enable location services ";
+
+/* Class = "UILabel"; text = "8/8"; ObjectID = "AnV-t2-yn8"; */
+"AnV-t2-yn8.text" = "8/8";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "BHh-7j-FFt"; */
+"BHh-7j-FFt.text" = "Description";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "BwP-dC-bGs"; */
+"BwP-dC-bGs.text" = "End";
+
+/* Class = "UILabel"; text = "max 43kW"; ObjectID = "C7a-vU-wmK"; */
+"C7a-vU-wmK.text" = "max 43kW";
+
+/* Class = "UILabel"; text = "Stations"; ObjectID = "C9Y-vN-01J"; */
+"C9Y-vN-01J.text" = "Stations";
+
+/* Class = "UILabel"; text = "Plugs"; ObjectID = "CIB-UU-JEY"; */
+"CIB-UU-JEY.text" = "Add Station";
+
+/* Class = "UILabel"; text = "Per kWH"; ObjectID = "Cma-AW-ic5"; */
+"Cma-AW-ic5.text" = "Per kWH";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "D6O-yu-EQZ"; */
+"D6O-yu-EQZ.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "type  2 "; ObjectID = "DPH-K1-eTQ"; */
+"DPH-K1-eTQ.text" = "type  2 ";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "EPR-zl-GO2"; */
+"EPR-zl-GO2.text" = "Select";
+
+/* Class = "UILabel"; text = "Add Plug"; ObjectID = "Ft5-xU-MMo"; */
+"Ft5-xU-MMo.text" = "Add Plug";
+
+/* Class = "UILabel"; text = "3/8"; ObjectID = "GVz-NO-Yql"; */
+"GVz-NO-Yql.text" = "3/8";
+
+/* Class = "UILabel"; text = "8/8"; ObjectID = "Gvq-6Z-SgW"; */
+"Gvq-6Z-SgW.text" = "8/8";
+
+/* Class = "UILabel"; text = "6/8"; ObjectID = "HDN-fq-Y00"; */
+"HDN-fq-Y00.text" = "6/8";
+
+/* Class = "UILabel"; text = "Per minutes"; ObjectID = "HSJ-JQ-oRJ"; */
+"HSJ-JQ-oRJ.text" = "Per minutes";
+
+/* Class = "UILabel"; text = "Delivery Point"; ObjectID = "J02-tr-gNV"; */
+"J02-tr-gNV.text" = "Delivery Point";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "J17-av-CFr"; */
+"J17-av-CFr.text" = "Make Public";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "JAE-ng-377"; */
+"JAE-ng-377.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "remove station"; ObjectID = "JYR-zR-YmG"; */
+"JYR-zR-YmG.normalTitle" = "remove station";
+
+/* Class = "UILabel"; text = "Open 24/7"; ObjectID = "K2C-ln-YMb"; */
+"K2C-ln-YMb.text" = "Open 24/7";
+
+/* Class = "UILabel"; text = "Per kWh"; ObjectID = "KBq-3V-RVP"; */
+"KBq-3V-RVP.text" = "Per kWh";
+
+/* Class = "UILabel"; text = "4/8"; ObjectID = "KE0-aF-deC"; */
+"KE0-aF-deC.text" = "4/8";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "LG2-7D-HXw"; */
+"LG2-7D-HXw.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "LUV-6G-GSJ"; */
+"LUV-6G-GSJ.text" = "Start";
+
+/* Class = "UILabel"; text = "Types"; ObjectID = "MB5-0l-sO6"; */
+"MB5-0l-sO6.text" = "Types";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "Oic-mD-WAG"; */
+"Oic-mD-WAG.text" = "Select";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "Ojt-rL-fQl"; */
+"Ojt-rL-fQl.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "SAJ-XW-6RI"; */
+"SAJ-XW-6RI.text" = "Title";
+
+/* Class = "UILabel"; text = "1/8"; ObjectID = "TBQ-1Y-k8d"; */
+"TBQ-1Y-k8d.text" = "1/8";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "To3-Qw-oBF"; */
+"To3-Qw-oBF.text" = "Description";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "UTa-hj-MHB"; */
+"UTa-hj-MHB.text" = "Description";
+
+/* Class = "UILabel"; text = "Working Hours"; ObjectID = "VNw-ta-6U8"; */
+"VNw-ta-6U8.text" = "Working Hours";
+
+/* Class = "UILabel"; text = "Mennekes"; ObjectID = "W7M-xM-Idl"; */
+"W7M-xM-Idl.text" = "Mennekes";
+
+/* Class = "UILabel"; text = "Updated Location Hours"; ObjectID = "YSg-Wp-z2i"; */
+"YSg-Wp-z2i.text" = "Updated Location Hours";
+
+/* Class = "UILabel"; text = "Add Photos"; ObjectID = "ZKD-ff-NXl"; */
+"ZKD-ff-NXl.text" = "Add Photos";
+
+/* Class = "UILabel"; text = "Amenities"; ObjectID = "Zfb-3P-Iz3"; */
+"Zfb-3P-Iz3.text" = "Amenities";
+
+/* Class = "UILabel"; text = "type  2 "; ObjectID = "azJ-lj-PXJ"; */
+"azJ-lj-PXJ.text" = "type  2 ";
+
+/* Class = "UILabel"; text = "Select the amenities available at this location"; ObjectID = "cOd-aB-HQ9"; */
+"cOd-aB-HQ9.text" = "Select the amenities available at this location";
+
+/* Class = "UILabel"; text = "Add Station"; ObjectID = "cY8-he-l78"; */
+"cY8-he-l78.text" = "Add Station";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "eHf-0c-wNz"; */
+"eHf-0c-wNz.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Wifi"; ObjectID = "fDi-Zx-9tv"; */
+"fDi-Zx-9tv.text" = "Wifi";
+
+/* Class = "UILabel"; text = "7/8"; ObjectID = "fH5-ZQ-f5O"; */
+"fH5-ZQ-f5O.text" = "7/8";
+
+/* Class = "UILabel"; text = "No Limit"; ObjectID = "fwm-Sj-mRF"; */
+"fwm-Sj-mRF.text" = "No Limit";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "ipB-z2-Se4"; */
+"ipB-z2-Se4.text" = "Save and Next";
+
+/* Class = "UITextField"; placeholder = "Search Plug"; ObjectID = "jBm-30-B5e"; */
+"jBm-30-B5e.placeholder" = "Search Plug";
+
+/* Class = "UILabel"; text = "to"; ObjectID = "k3b-ij-84S"; */
+"k3b-ij-84S.text" = "to";
+
+/* Class = "UILabel"; text = "max 43kW"; ObjectID = "mBO-5p-ru7"; */
+"mBO-5p-ru7.text" = "max 43kW";
+
+/* Class = "UILabel"; text = "5/8"; ObjectID = "mFK-k1-iRE"; */
+"mFK-k1-iRE.text" = "5/8";
+
+/* Class = "UILabel"; text = "Location Address"; ObjectID = "mZW-zb-1px"; */
+"mZW-zb-1px.text" = "Location Address";
+
+/* Class = "UILabel"; text = "Electrical Vehicle Charger"; ObjectID = "mfW-GG-ana"; */
+"mfW-GG-ana.text" = "Electrical Vehicle Charger";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "o62-eE-HxG"; */
+"o62-eE-HxG.text" = "Label";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "oQ7-al-8vj"; */
+"oQ7-al-8vj.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Map Pin Location"; ObjectID = "oZd-Rc-fdQ"; */
+"oZd-Rc-fdQ.text" = "Map Pin Location";
+
+/* Class = "UILabel"; text = "Media"; ObjectID = "opj-On-B4z"; */
+"opj-On-B4z.text" = "Media";
+
+/* Class = "UILabel"; text = "Limit per Session (Mins/kWh)"; ObjectID = "pqN-Al-N1M"; */
+"pqN-Al-N1M.text" = "Limit per Session (Mins/kWh)";
+
+/* Class = "UILabel"; text = "2/8"; ObjectID = "rjQ-sc-krt"; */
+"rjQ-sc-krt.text" = "2/8";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "uTi-X8-T7Z"; */
+"uTi-X8-T7Z.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "ui1-wB-wXm"; */
+"ui1-wB-wXm.text" = "Price";
+
+/* Class = "UILabel"; text = "Save and Next"; ObjectID = "uxD-Fw-CNB"; */
+"uxD-Fw-CNB.text" = "Save and Next";
+
+/* Class = "UILabel"; text = "Per minute"; ObjectID = "xpj-mJ-O6f"; */
+"xpj-mJ-O6f.text" = "Per minute";
+
+"yMq-lr-emw.text" = "Configuring";
+
+"5Ch-kx-PIm.text" = "Add";
+
+"F9W-G1-PzN.text" = "Title";
+
+"Jaf-SU-lk4.text" = "Identifier";
+
+"6cs-Tc-8Zl.text" = "Search Address";
+
+"R10-QW-lCS.text" = "Title";
+
+"02N-6h-3sH.text" = "Identifier";
+
+"Db3-Ep-4gP.text" = "Add";
+
+"eEz-U0-xe4.text" = "City";
+"r8n-Iq-jce.text" = "State";
+"ch3-8t-xHt.text" = "Zip";
+
+"Mor-Kb-4hH.text" = "Station Details";
+
+"rz8-R0-znA.text" = "Amenities";

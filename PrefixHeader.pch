@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  PowerShare
+//
+//  Created by Bogachev on 1/5/17.
+//  Copyright © 2017 JASYC. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <GoogleAnalytics/GAI.h>
+#import <GoogleAnalytics/GAIDictionaryBuilder.h>
+#import <GoogleAnalytics/GAIFields.h>
+#import "Constant.h"
+
+
+//#import "PowerShare-Swift.h"
+#endif /* PrefixHeader_pch */

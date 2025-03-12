@@ -1,0 +1,621 @@
+<resources>
+    <!--general message-->
+    <string name="error_title">Error</string>
+    <string name="internetconnection_erro">Sorry, this application needs an internet connection to work properly. Please check your internet connection and retry.</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="options_Ok">OK</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="options_Ok">OK</string>
+    <string name="a_short_break">A Short Break</string>
+    
+    <!--Language Selection-->
+    <string name="welcome_to_gasable">Hello :)</string>
+    <string name="welcome_description">Welcome to the future of EV charging! Let’s get you set up, first your language preference.</string>
+    <string name="create_account">Create account</string>
+    <string name="lets_get_started">Let's Get Started</string>
+    <string name="continue_as_guest">Continue As Guest</string>
+    
+    <!-- login text string-->
+    <string name="login_phone">Call on</string>
+    <string name="do_not">Do you need help?</string>
+    <string name="Sign_In">Sign in</string>
+    <string name="selected_condition_phone">Please enter a valid mobile number</string>
+    <string name="enter_mobile_number">Enter your mobile number</string>
+    
+    <!-- password screen-->
+    <string name="signin_with_password">Sign in with password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot your password?</string>
+    
+    <!-- user registration and account information-->
+    <string name="welcome_title">Welcome</string>
+    <string name="select_language">Select Language</string>
+    <string name="signup_description">Please enter your phone number. We'll send you a verification code to keep your account secure.</string>
+    <string name="select_country">Select Country</string>
+    <string name="regis_country_selected">Select your country</string>
+    <string name="regis_country_selected">Select your country</string>
+    <string name="regis_city_selected">Select your city</string>
+    <string name="regis_area_selected">Select your area </string>
+    <string name="regis_phone">Phone number</string>
+    <string name="selected_condition_spinner">Please select your area</string>
+    <string name="selected_condition_phone">Please enter a valid mobile number</string>
+    <string name="terms_condition">Terms and Conditions</string>
+    <string name="registration_title">Registration</string>
+    <string name="enter_mobile_number">Enter your mobile number</string>
+    <string name="first_name_title">First name</string>
+    <string name="last_name_title">Last name</string>
+    <string name="agree_continue">Agree &amp; Continue</string>
+    <string name="privacy_policy_title">By using Powerly, you consent to our Privacy Policy and Terms of Service.</string>
+    <string name="termsofservice">Terms of Service</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="verifying_number_title">We will be verifying your phone number</string>
+    <string name="is_it_correct_title">Is it correct? or you want to edit it?</string>
+    <string name="edit_title">Edit</string>
+    <string name="correct_title">Correct &amp; Continue</string>
+    <string name="already_account_title">Already have an account?</string>
+    <string name="mobile_number_check">Mobile number check</string>
+    <string name="account_information_title">Account Information</string>
+    <string name="enteryourname_title">Enter your name</string>
+    <string name="enteryouremail_title">Enter your email address</string>
+    <string name="createyouraccount_title">Create password for your account</string>
+    <string name="six_character_password">6 characters password</string>
+    <string name="atleat_one_number">The password must include at least one number.</string>
+    <string name="atleast_one_letter">The password must include at least one letter.</string>
+    <string name="six_sixteen_char">The password must be between 6 and 16 characters.</string>
+    <string name="enteryourfirstname">Please enter your first name</string>
+    <string name="enteryourlastname">Please enter your last name</string>
+    <string name="enteryourvalidemailaddress">Please enter a valid email address</string>
+    <string name="add_them_later">Later</string>
+    <string name="choose_account_type">Choose an account type</string>
+    <string name="individual_title">Individual</string>
+    <string name="business_title">Business</string>
+    
+    <!--verificaion-->
+    <string name="Verification_title">Verification</string>
+    <string name="next">Next</string>
+    <string name="resend_code">Resend code</string>
+    <string name="enter_verification">Please enter the 4-digit verification code</string>
+    <string name="need_help_button">I need help</string>
+    <string name="enter_code_sent_you">Enter the 4-digit code we sent to you</string>    
+    
+    <!-- Map View-->
+    <string name="regis_map_error_choosing_msg">You can select a location within your country only</string>
+    <string name="continue">Continue</string>
+    <string name="search_title">Search</string>
+    <string name="search_location">Search for Location</string>
+    <string name="auto_location_error">To find your location automatically, please enable location services</string>
+    <string name="delivery_point">Delivery Point</string>
+    <string name="scan_text">Scan</string>
+    <string name="orders_in_progress">Orders in Progress</string>
+    <string name="search_address_title">Search Address</string>
+    <string name="update_text">Update</string>
+    <string name="select_your_address">Select your address</string>
+    
+    
+    <!-- Home View-->
+    <string name="home_text">Home</string>
+    <string name="orders_text">Orders</string>
+    <string name="account_text">Account</string>
+    <string name="help_text">Help</string>
+    <string name="repeat_text">Repeat</string>
+    <string name="buy_again">Buy Again</string>
+    <string name="delivering_to_text">Delivering to</string>
+    <string name="set_your_location">Please set your location</string>
+    
+    <!--Side Menu-->
+    <string name="logout">Sign out</string>
+    <string name="lanugage">Language</string>
+    <string name="profile">Profile</string>
+    <string name="rewards">Rewards</string>
+    <string name="my_order">My Orders</string>
+    <string name="promo_code">Promo Code</string>
+    <string name="change_my_address">Change my Address</string>
+    <string name="support">Support</string>
+    <string name="chat_title">Chat</string>
+    <string name="wallet_title">Wallet</string>
+    <string name="invite">Invite</string>
+    <string name="happy_user">Happy User</string>
+    <string name="logout_title">Sign out</string>
+    <string name="sure_logout">Are you sure you want to sign out?</string>
+    <string name="must_account_service">You must have an account to use this service</string>
+    <string name="see_profile">See Profile</string>
+    
+    <!--Product Screen-->
+    <string name="edit_product_services">Edit Products &amp; Services</string>
+    <string name="product_services">Products &amp; Services</string>
+    <string name="choose_type">Please choose products to continue</string>
+    <string name="delivery_price">Delivery Price                :</string>
+    <string name="max_limit">The maximum allowed number of products is 3. Please contact customer support if you need more</string>
+    <string name="refill_title">Refill</string>
+    <string name="new_title">New</string>
+    <string name="select_products_title">Select Products</string>
+    <string name="cant_combine">Can’t combine this product with one of the selected products</string>
+    <string name="not_available">Not available now</string>
+    <string name="of_text">of</string>
+    <string name="update_title">Update Products</string>
+    <string name="select_products_continue">Select Products To Continue</string>
+    <string name="installed_text">Installed</string>
+    
+    <!--Order Confirmation-->
+    <string name="services_title">Services</string>
+    <string name="time_title">Time</string>
+    <string name="edit_location">Edit Location</string>
+    <string name="order_confirmation">Order Confirmation</string>
+    <string name="apply_title">Apply</string>
+    <string name="select_title">Select</string>
+    <string name="due_balance">Due Balance</string>
+    <string name="update_order">Update Order</string>
+    <string name="remove_installation">Remove Installation?</string>
+    <string name="sure_to_remove_installation">Are you sure you want to remove installation service?</string>
+    <string name="buy_withou_extra_fees">Buy without extra delivery fees</string>
+    
+    <!--Date and Time-->
+    <string name="delivery_date">Select Date &amp; Time</string>
+    <string name="time_slot_unavailable">The time slot you have selected is currently unavailable</string>
+    <string name="now_text">Now</string>
+
+    <string name="drivers_available">Drivers Available</string>
+    
+    <!--Order Summary-->
+    <string name="distributor_not_available">Sorry, we can't place your order now, all drivers got busy!</string>
+    <string name="promocode_not_valid">Sorry, this promo code is invalid or has expired</string>
+    <string name="order_details">Order Details</string>
+    <string name="Total_Price">Total Price</string>
+    <string name="delivery_price_title">Delivery Price</string>
+    <string name="express_price_title">Express Delivery Fees</string>
+    <string name="total_pr">Total Price                      :</string>
+    <string name="total_price">Total Price :</string>
+    <string name="total_price_title">Total Price</string>
+    <string name="night_shift_price_title">Night Shift Fees</string>
+    <string name="installation_price_title">Installation Fees</string>
+    <string name="vat_title">VAT</string>
+    <string name="use_promo_code">Use Promo Code</string>
+
+    <!--Order Status-->
+    <string name="order_successfully_placed">Order Successfully Place</string>
+    <string name="finding_driver_for_you">Finding a driver for you, please wait ..</string>
+    <string name="order_status">Order Status</string>
+    <string name="product_title">Product</string>
+    <string name="products_title">Products</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="cancel_msg">Are you sure you want to cancel this order?</string>
+    <string name="cancel_msg_due_balance">A cancellation fees of %@ will be applied, are you sure you still want to cancel this order?</string>
+    <string name="cancel_msg_mada">According to Mada service provider, the order won't be refunded directly to your account. Please contact your bank to process the refund.</string>
+    <string name="Order_list">Order list</string>
+    <string name="in_progress">In progress</string>
+    <string name="order_placed">Order placed</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="on_the_way">On the way</string>
+    <string name="is_on_the_way">is On the way</string>
+    <string name="delivered">Delivered</string>
+    <string name="not_now">Not Now</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="note_driver_call">Note: the driver will call you on</string>
+    <string name="cant_change_payment_method">You Can't Change Payment  Method</string>
+    <string name="preffered_delivery_date">Preferred Delivery Date</string>
+    <string name="location_title">Location</string>
+    <string name="order_confirmed_note">Order accepted &amp; the driver will deliver it for you</string>
+    <string name="view_title">View</string>
+    <string name="get_help_text">Get Help</string>
+    
+    <!--My Order-->
+    <string name="placeorder_date">Date</string>
+    <string name="ID_order">Order ID</string>
+    <string name="Status">Status</string>
+    <string name="current_order">Current Orders</string>
+    <string name="past_order">Past Orders</string>
+    <string name="open">Open</string>
+    <string name="canceled">Canceled</string>
+    <string name="not_delivered">Not Delivered</string>
+    <string name="rejected">Rejected</string>
+    <string name="view_invoice">View Invoice</string>
+    <string name="cant_Cancel_order">You can't cancel or edit the order after driver’s confirmation</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="purchased_products">Purchased Products</string>
+    <string name="incart_text">In Cart</string>
+    <string name="incomplete_text">Incomplete</string>
+    <string name="activeorders_text">Active Order</string>
+    <string name="recurringorders_text">Recurring Orders</string>
+    <string name="no_active_order">No active orders</string>
+    <string name="no_recurring_order">No Recurring orders</string>
+    
+    <!--rate app dialogue-->
+    <string name="rateapp_title">Rate the app</string>
+    <string name="rateapp_message">You liked the app?, please give us 5-star, this will help us a lot.</string>
+    <string name="rateapp_ok">OK</string>
+    <string name="rateapp_cancel">Cancel</string>
+    
+    <!--Feedback-->
+    <string name="Feedback_tilte">Feedback</string>
+    <string name="rate">Please rate your experience with the driver</string>
+    <string name="Message">Leave your message here</string>
+    <string name="Feedback_Submit">Submit</string>
+    <string name="Feedback_notnow">Not Now</string>
+    <string name="your_feedback">your feedback</string>
+    <string name="add_note">Add a note</string>
+    
+    <!--confirm order-->
+    <string name="Confirm_order">Confirm Order</string>
+    <string name="place_order">Place Order</string>
+    <string name="referral_and_promo">Referral &amp; Promo Codes</string>
+    <string name="code_selected">Code Applied</string>
+    
+    
+    <!--Menual Area-->
+    <string name="select_country">Select your country</string>
+    
+    <!--Invoice Screen-->
+    <string name="discount_title">Discount</string>
+    <string name="invoice_title">Invoice</string>
+    <string name="userId_title">User ID</string>
+    <string name="vatId_title">VAT ID</string>
+    <string name="subtotal_title">Subtotal</string>
+    <string name="total_title">Total</string>
+    <string name="paymentMethod_title">Payment Method</string>
+    <string name="cash_title">CASH</string>
+    <string name="download_title">Download</string>
+    <string name="card_title">CARD</string>
+    <string name="items_title">Items</string>
+    <string name="amount_title">Amount</string>
+    
+    <!--Promo code-->
+    <string name="promotion_code">Promotion code</string>
+    <string name="referral_code">Referral code</string>
+    <string name="please_enter_promot">Please enter promo code</string>
+
+    <!--Inconvenience popup-->
+    <string name="inconvenience_msg">Dear valued customer, we are sorry for the inconvenience… \n Our customer service will call you shortly!</string>
+    
+    <!--Invitation screen-->
+    <string name="invite_friend">Invite your friends</string>
+    <string name="copy_link">Copy Link</string>
+    <string name="or">Or</string>
+    <string name="share_referral_link">Share Referral Link</string>
+    <string name="copy_referral_link">Copy Referral Link</string>
+    <string name="invite_QR_description">Invite your friends to download our amazing app</string>
+        
+    <!--No Distributor screen-->
+    <string name="something_wrong">Something is wrong ...</string>
+    <string name="no_registered_distributor">It seems there is no registered or active driver in your area</string>
+    <string name="working_hard">We working hard to serve you, please help us to reach you by sending the request below</string>
+    <string name="please_cover_area">Please Cover my Area</string>
+    <string name="area_not_covered">Area is not Covered</string>
+    <string name="change_location">Change Location</string>
+    
+    <!--Profile Screen-->
+    <string name="email_title">Email</string>
+    <string name="password_title">Password</string>
+    <string name="myProfile_title">My Profile</string>
+    <string name="preffered_driver">Preferred Driver</string>
+    <string name="require_email_address">Email is required to update your profile</string>
+    <string name="valid_email_address">Please enter a valid email address.</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="are_you_sure_delete_account">Are you sure you want to delete your account?</string>
+    <string name="delete_account_description">Your account will be immediately deactivated. After 30 days it will be permanently deleted, and any unused credits, promotions, or rewards will be removed.</string>
+    
+    <!--Driver List Screen-->
+    <string name="pick_your_driver">Pick your driver</string>
+    <string name="search_driverId">Search Driver Name or Driver ID </string>
+    
+    <!--Reward Screen-->
+    <string name="rewards_program">Rewards Programs</string>
+    <string name="moreinfo_text">MORE INFO</string>
+    
+    <!--Cancel Order-->
+    <string name="feedback_seriously">We take your feedback seriously</string>
+    <string name="reason_1">The order is late</string>
+    <string name="reason_2">The time doesn't suit me</string>
+    <string name="reason_3">The price is high</string>
+    <string name="reason_4">I didn't find the products I need</string>
+    <string name="reason_5">The product has flaws</string>
+    <string name="reason_6">I want to modify the order</string>
+    <string name="reason_7">I want the Express Service</string>
+    <string name="reason_8">I received the order from another driver</string>
+    <string name="reason_9">I'm trying the app</string>
+    <string name="reason_10">Other</string>
+    <string name="other_validation">Please enter reason for canceling the order</string>
+    <string name="select_reason_validation">Please select reason for canceling the order</string>
+    
+    
+    <!--No Products screen-->
+    <string name="something_is_wrong">Something is wrong …</string>
+    <string name="no_define_productes">No defined products in your area</string>
+    <string name="call_support">Call Support</string>
+    
+    <!--Service Type screen-->
+    <string name="installation_service">Installation Service</string>
+    <string name="installation_desc">Would you like us to install the products inside your home?</string>
+    <string name="night_service">Night Service</string>
+    <string name="express_service">Express Service</string>
+    <string name="express_service_desc">Priority for you! Want to receive your order quickly?</string>
+    <string name="installation_service">Installation Service</string>
+    <string name="night_service_additional">* Additional</string>
+    <string name="express_service_additional">* Additional</string>
+    <string name="installation_service_additional">* Additional</string>
+    <string name="addition_service">Additional Services</string>
+    <string name="enable_for_all">Enable for all</string>
+    <string name="disable_for_all">Disable for all</string>
+    
+    <!--Location Error screen-->
+    <string name="tryagain_title">Try Again</string>
+    
+    <!--Support Screen-->
+    <string name="leave_chat">Leave chat</string>
+    <string name="type_message">Type a message</string>
+    <string name="support_team">Support Team</string>
+    <string name="customer_support">Customer Support</string>
+    
+    <!--Wallet Screen-->
+    <string name="touch_set_title">Touch to set as default. Hold to edit.</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="add_new_card">Add New Card</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="delete_card_warning">Are you sure you want to delete this payment method?</string>
+    <string name="select_payment_title">Select Payment Method</string>
+    <string name="email_validation_error">Please update your name and email address under profile settings</string>
+    <string name="mada_card_title">Mada bank card / Credit card</string>
+    <string name="balance_title">Balance</string>
+    <string name="save_this_card">Save this card</string>
+    <string name="save_card">Save card</string>
+    <string name="add_payment_title">Add a new card</string>
+    <string name="default_method">Default Method</string>
+    <string name="remove_title">Remove</string>
+    <string name="make_default">Make Default</string>
+    
+    <!--Force Update Popup-->
+    <string name="been_a_long_time">It’s been a long time!</string>
+    <string name="force_location_title">To provide the best service, we need to keep your address up to date, don’t worry, it will take few seconds.</string>
+    <string name="update_now">Update Now</string>
+    <string name="skip_title">Skip</string>
+    <string name="whatsapp_title">Whatsapp</string>
+    
+    <!--Get Driver app screen-->
+    <string name="boss_title">Boss!</string>
+    <string name="register_not_suit_you">Your mobile number is registered as a driver and this version of the app does not suits you</string>
+    <string name="get_driver_desc">Please get the drivers app and start making money!</string>
+    <string name="get_driver_app">Get Drivers App </string>
+    <string name="attention_title">Attention !!!</string>
+    
+    <!--Local Notification text-->
+    <string name="reminder_title_registration">Please complete the registration to receive our offers and discounts</string>
+    
+    <!--Fully Booked Popup-->
+    <string name="today_title">Today</string>
+    <string name="fully_booked_today">Fully Booked Today!</string>
+    <string name="fully_booked_today_desc">All time slots in your area are fully booked on the selected date.</string>
+    <string name="fully_booked_today_date">Date is set to the next available day</string>
+    
+    <!--Payment Method Popup-->
+    <string name="payment_method_failed">The selected payment method has failed.</string>
+    <string name="payment_method_cash">Payment method is set to Cash On Delivery now.</string>
+    <string name="select_payment_method">Please select the payment type</string>
+    
+    <!--Inbox messages screen-->
+    <string name="messages_text">Messages</string>
+    <string name="notifications_text">Notifications</string>
+    <string name="sec_ago">%d sec ago</string>
+    <string name="min_ago">%d min ago</string>
+    <string name="hrs_ago">%d hrs ago</string>
+    <string name="days_ago">%d days ago</string>
+    <string name="weeks_ago">%d weeks ago</string>
+    <string name="months_ago">%d months ago</string>
+    <string name="years_ago">%d years ago</string>
+    
+    <!--call reqeust screen-->
+    <string name="call_request">Call Request</string>
+    <string name="call_request_desc">Our driver is trying to reach on your number %@, please call the driver!</string>
+    <string name="driver_number_is">Our driver number is %@</string>
+    <string name="order_scheduled">Your order was rescheduled</string>
+    <string name="order_scheduled_desc">Our driver tried to reach on your number %@, but you did not answer!</string>
+    <string name="call_driver">CALL THE DRIVER</string>
+    <string name="reschedule_request">Reschedule Request</string>
+    <string name="reschedule_request_desc">You have requested to reschedule the order, please confirm!</string>
+    <string name="request_expire_in">Your request will be expire in</string>
+    <string name="missed_driver_request">You missed a driver request</string>
+    <string name="missed_driver_request_desc">Our driver tried to reschedule your order, but you did not answer!</string>
+    <string name="your_order_scheduledin">Your order will be rescheduled in</string>
+    <string name="confirm_reschedule">CONFIRM RESCHEDULE</string>
+    
+    <!--Force Update screen-->
+       <string name="update_required">Update Required</string>
+       <string name="order_via">Order Via</string>
+       <string name="force_update_desc">An important update which include  additional features, security updates and improvements is required.  Please update the app in order to continue.</string>
+    
+    <!--track order screen-->
+    <string name="track_driver">Track Driver</string>
+    <string name="track_text">Track</string>
+    <string name="call_title">Call</string>
+    
+     <!--Country Working hour popup-->
+     <string name="outside_working_hour">Outside Working Hours</string>
+    <string name="working_hours_desc">We’re out of the office right now and we may not answer you quickly. We are working from %@ - %@ . Please expect a reply within 24 hours.</string>
+    
+    <!--feedback screen-->
+    <string name="drivername_description">How was your experience with %@ ?</string>
+    <string name="rate_driver_label">Please rate the driver</string>
+    <string name="done_title">DONE</string>
+    
+    <string name="terrible_title">Terrible</string>
+    <string name="bad_title">Bad</string>
+    <string name="fine_title">Fine</string>
+    <string name="good_title">Good</string>
+    <string name="excellent_title">Excellent</string>
+    
+    <!--save more screen-->
+    <string name="spcial_offer">Your Wallet</string>
+    <string name="limited_time_offer">Charge your balance</string>
+    <string name="special_offer_description">You can now easily recharge your account balance</string>
+    <string name="ignore_title">IGNORE</string>
+    <string name="save_more">SAVE MORE</string>
+    <string name="balance_note">Balance with discount is non-refundable, please tap continue to agree</string>
+    
+    <!--show balance screen-->
+    <string name="plus_add_title">+ Add</string>
+    <string name="show_balance">Show Balance</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="termsconditionbalance">Tap "Agree &amp; Continue" to accept Terms of Service </string>
+    <string name="add_balance">Add Balance</string>
+    <string name="popular_text">Popular</string>
+    <string name="payment_failed">Payment Failed</string>
+    <string name="okay_title">OKAY</string>
+    <string name="payment_successful">Payment Successful</string>
+    <string name="payment_cancelled">Payment has been cancelled.</string>
+    <string name="we_will_add_balance">We will add to your balance</string>
+    
+    <!--Recurring order screen-->
+    <string name="recurring_order_time">Recurring Order Time &amp; Date</string>
+    <string name="add_recurring_order">Add Recurring Order</string>
+    <string name="current_string">Current</string>
+    <string name="recurring_string">Recurring</string>
+    <string name="past_string">Past</string>
+    <string name="repeat_last_order">Repeat Last Order</string>
+    <string name="confirm_recurring_order">Confirm Recurring Order</string>
+    <string name="edit_recurring_order">Edit Recurring Order</string>
+    <string name="daily_string">Daily</string>
+    <string name="recurring_order_reminder">Recurring Order Reminder</string>
+    <string name="place_order_description">Always place orders without reminder</string>
+    <string name="timeslot_title">Time Slot</string>
+    <string name="selected_time">Selected Time</string>
+    <string name="select_time">Select Time</string>
+    <string name="selected_day">Selected Day</string>
+    <string name="selected_hour">Selected Hour</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="are_you_sure_repeat">Are you sure to repeat last order?</string>
+    <string name="note_driver">Add Note to Driver</string>
+    <string name="add_note_driver">Add a note to the driver  ( 100 char )</string>
+    <string name="add_note_driver_store">Add a note to driver or store</string>
+    <string name="active_string">Active</string>
+    <string name="inactive_string">Inactive</string>
+    <string name="sure_cancel">Are you sure you want to cancel recurring order?</string>
+    <string name="installation_title">Installation</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="weekly_title">Weekly</string>
+    <string name="monthly_title">Monthly</string>
+    <string name="everyday_string">Every Day</string>
+    <string name="please_select_date">Please select date</string>
+    <string name="please_select_weekdays">Please select weekdays</string>
+    <string name="pause_order">Pause Order</string>
+    <string name="pause_title">Pause</string>
+    <string name="reminder_title">Reminder</string>
+    
+    <string name="you_have_recurring_order">You have a recurring order</string>
+    <string name="on_string">on</string>
+    <string name="please_confirm_order">Please Confirm to place the order or Edit the products.</string>
+    <string name="tomorrow_title">Tomorrow</string>
+    <string name="link_copied">Link Copied...</string>
+    <string name="enable_order">Enable Order's Reminder</string>
+    <string name="referral_Id">Referral ID</string>
+    <string name="scan_to_driver">Scan To Order</string>
+    <string name="add_referral_id">Add Referral ID</string>
+    
+    <string name="Sun">Sun</string>
+    <string name="Mon">Mon</string>
+    <string name="Tue">Tue</string>
+    <string name="Wed">Wed</string>
+    <string name="Thu">Thu</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    
+    <!--Sensors screen-->
+    <string name="mysensors_title">Smart Devices</string>
+    <string name="last_update">Last Update</string>
+    <string name="approve_sensor_dialogue">Approve device?</string>
+    <string name="approve_this_sensor">Approve this device</string>
+    <string name="go_settings">Go Settings</string>
+    <string name="sensor_note">Please set a Critical Level. We will notify you when your gas reaches the critical level so that you know when to refill your cylinder.</string>
+    
+    <string name="pending_approval">Pending Approval</string>
+    <string name="touch_to_edit">Touch to edit device</string>
+    <string name="add_sensor">Add Device</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="sensor_information">Device Information</string>
+    <string name="sensor_name">Device Name</string>
+    <string name="used_product">Used Product</string>
+    <string name="change_title">Change</string>
+    <string name="set_critical_level">Set Critical Level</string>
+    <string name="status_title">Status:</string>
+    <string name="firmware_version">Firmware Version:</string>
+    <string name="remove_this_version">Remove this device</string>
+    
+    <string name="sensors_detail">Devices Detail</string>
+    <string name="add_title">Add</string>
+    <string name="kitchen_for_example">Kitchen for example</string>
+    <string name="enter_critical_note">Please set a critical level in percentage.</string>
+    <string name="select_sensor">Select Device</string>
+    <string name="select_sensor_note">Please put your device in configration mode by holding the main button for few seconds.   You will be disconnected from WIFI. Internet over 3G/4G is needed.</string>
+    <string name="scanning_text">Scanning...</string>
+    <string name="add_sensor_manually">Add Device Manually</string>
+    <string name="refresh_title">Refresh</string>
+    <string name="select_network">Select Network</string>
+    <string name="select_network_note">Please select your home wifi network.
+        Remember that WIFI password is case-sensitive.
+
+        The WIFI name and password will be used by your device. </string>
+    <string name="waiting_for_approval">Waiting for approval</string>
+    <string name="approval">Approved</string>
+    <string name="authorized">Authorized</string>
+    <string name="disabled">Disabled</string>
+    
+    <string name="pending_approval_note">Please make sure that your Device is in Configuration Mode.</string>
+    <string name="approve_titme">Approve</string>
+    <string name="deny">Deny</string>
+    <string name="delete_title">Delete</string>
+    <string name="gas_level">Gas Level</string>
+    <string name="scan_qr">Scan QR code</string>
+    <string name="menual_setup">Manual Setup</string>
+    <string name="enter_network_network">Enter network password</string>
+    <string name="search_product">Products Search</string>
+    <string name="critical_level_percentage">Critical Level Percentage</string>
+    <string name="remove_sensor">Remove Sensor?</string>
+    <string name="sure_to_remove_sensor">Are you sure you want to remove this sensor?</string>
+    <string name="sensor_onboarding_desc">Please put your device in configuration mode by following the instruction provided in the manual.
+        
+Please confirm that sensor indicator is blinking</string>
+    <string name="confirm_blinking">I confirm sensor is blinking</string>
+    
+    <string name="point_checkout">Point Checkout</string>
+    <string name="paypal_title">Paypal</string>
+    <string name="applepay_title">Apple Pay</string>
+    <string name="guest_title">Guest</string>
+    <string name="no_order">No orders</string>
+    <string name="no_notification_string">You don't have any notification</string>
+    
+    <!--Store Screen-->
+    <string name="drive_to_store">Drive To Store</string>
+    <string name="buy_from">Buy</string>
+    <string name="store_name">Store Name:</string>
+    <string name="store_name_id">Store name or ID</string>
+    <string name="store_title">Store</string>
+    <string name="stores_title">Stores</string>
+    <string name="search_here_title">Search here</string>
+    <string name="you_buy_products_from">You are about to buy products from</string>
+    <string name="recurring_active_error">Sorry, you can have only one active recurring order.</string>
+    <string name="directions_title">Directions</string>
+    <string name="km_title">km</string>
+    <string name="closed_title">Closed</string>
+    <string name="overview_title">Overview</string>
+    <string name="open_in">Open at</string>
+    <string name="close_in">Close in</string>
+    <string name="open_store">Open</string>
+    
+    <!--Edit Order-->
+    <string name="edit_product">Edit Product</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="assigned_title">Assigned</string>
+    <string name="delete_product">Delete Product?</string>
+    <string name="sure_delete_product">Are you sure you want to remove this product?</string>
+    <string name="install_title">Install</string>
+    <string name="first_product_title">for the first product, the rest is FREE</string>
+    <!--My Cart-->
+    <string name="my_cart">My Cart</string>
+    
+    
+    <string name="qr_code">QR code</string>
+   
+    
+</resources>

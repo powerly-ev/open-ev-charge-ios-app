@@ -1,0 +1,23 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "HiP-u8-6Q3"; */
+"HiP-u8-6Q3.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "If you share it with someone, they can scan it with their Powerly App camera to start charging."; ObjectID = "XEg-Hs-qJt"; */
+"XEg-Hs-qJt.text" = "Si lo compartes con alguien, pueden escanearlo con la cámara de su aplicación Powerly para comenzar la carga.";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "aZ5-Hh-bA7"; */
+"aZ5-Hh-bA7.text" = "Descargar";
+
+/* Class = "UILabel"; text = "QR Code"; ObjectID = "g9g-iN-uje"; */
+"g9g-iN-uje.text" = "Código QR";
+
+/* Class = "UILabel"; text = "Scan & Go"; ObjectID = "gfV-Ny-dad"; */
+"gfV-Ny-dad.text" = "Escanear para Activar";
+
+/* Class = "UILabel"; text = "SCAN HERE"; ObjectID = "zrv-dm-Bv1"; */
+"zrv-dm-Bv1.text" = "ESCANEAR AQUÍ";
+
+"UOR-Sk-NTZ.text" = "Confirma tu inicio de sesión en el panel web";
+
+"SrC-dn-KIg.text" = "Confirmar";
+
+"vDz-TG-w1a.text" = "Denegar";
