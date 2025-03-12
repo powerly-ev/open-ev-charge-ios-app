@@ -83,4 +83,4 @@ This project is released under a [dual-license model](LICENSE):
 ## Support
 For issues or questions:
 - Open an issue on GitHub.
-- Contact the maintainers at jaydeep@powerly.app.
+- Contact the maintainers at dev@powerly.app.
