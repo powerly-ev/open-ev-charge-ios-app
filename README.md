@@ -21,7 +21,6 @@ cd <your-repo-name>
 
 ### 2. Install Dependencies
 Using CocoaPods:
-```bash
 pod install
 ```
 Open the `.xcworkspace` file in Xcode.
