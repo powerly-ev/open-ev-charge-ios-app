@@ -16,7 +16,7 @@ Welcome to the **EV Charging App**, an open-source iOS application built with UI
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/<your-username>/<your-repo-name>.git](https://github.com/powerly-ev/open-ev-charge-ios-app.git)
+git clone https://github.com/powerly-ev/open-ev-charge-ios-app.git
 cd <your-repo-name>
 
 ### 2. Install Dependencies
