@@ -226,3 +226,7 @@ Aplican términos y condiciones.";
 "no_problem_forgot_password" = "¡No hay problema! Enviaremos una contraseña de un solo uso (OTP) a \(email). Una vez que la recibas, puedes usar la OTP para iniciar sesión y restablecer tu contraseña.";
 
 "New" = "Nuevo";
+
+//Slider
+"all_set_to_go" = "Todo listo para salir";
+"all_set_to_go_desc" = "Encuentra un cargador, recarga energía y ponte en marcha.";

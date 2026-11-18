@@ -228,3 +228,7 @@ Des conditions s'appliquent.";
 "no_problem_forgot_password" = "Pas de problème ! Nous enverrons un mot de passe à usage unique (OTP) à \(email). Une fois que vous l'aurez reçu, vous pourrez utiliser l'OTP pour vous connecter et réinitialiser votre mot de passe.";
 
 "New" = "Nouveau";
+
+//Slider
+"all_set_to_go" = "Prêt à partir";
+"all_set_to_go_desc" = "Trouvez une borne, faites le plein d'énergie, et prenez la route.";

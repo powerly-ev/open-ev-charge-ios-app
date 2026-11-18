@@ -222,3 +222,7 @@
 "no_problem_forgot_password" = "No problem! We'll send a One-Time Password (OTP) to \(email). Once you receive it, you can use the OTP to log in and reset your password.";
 
 "New" = "New";
+
+//Slider
+"all_set_to_go" = "All Set to Go";
+"all_set_to_go_desc" = "Find a charger, power up, and hit the road.";

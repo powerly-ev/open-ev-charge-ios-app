@@ -1,16 +1,16 @@
 // Test.xcconfig
 // Server URL
-BASE_URL = https:/$()/api.powerly.app/api/v1/
+BASE_URL = https:/$()/test-api.powerly.app/api/v1/
 VERSION_LABEL = TEST
 
 //STRIPE
-STRIPE_PUBLISHED_KEY = //STRIPE PUBLISHED KEY
+STRIPE_PUBLISHED_KEY = pk_test_51PIt2B07uReUg76Vx7glB6UqP5TixkoW4Ntmg786jOGodCYEpVB0rSzvR1XLVpk5UEEqg86IzZ8iNkYulrCDZC5M00VfdteJRk//STRIPE PUBLISHED KEY
 
 //APIKEY
 //Replace your map api key here
-GMS_API_KEY = //GMS API KEY
+GMS_API_KEY = AIzaSyAivzB3R8BV5ekmh41lUOy4jLIBMY9yAbE //GMS API KEY
 //Find your api key from powerly dashboard
-OPEN_API_KEY = //OPEN SOURCE API KEY
+OPEN_API_KEY = 2716|qA9LHxX9erEufZohIqOFcSn692u9A7U34MEV01LH960ace5c
 GIDClientID =
 GIDReverseClientID =
 

@@ -161,7 +161,7 @@ extension UIViewController {
     }
     
     func supportRequest() {
-        let phoneNumber = "telprompt://" + supportNumber
+        let phoneNumber = "https://community.powerly.app"
         if let url = URL(string: phoneNumber) {
             UIApplication.shared.open(url, options: [:], completionHandler: nil)
         }

@@ -148,6 +148,15 @@ class HomeViewController: GuestCommonViewController {
             }
             .disposed(by: disposeBag)
         
+        viewModel.sliders
+            .asDriver(onErrorJustReturn: [])
+            .drive(onNext: { [weak self] sliders in
+                guard let self = self else { return }
+                self.pageControl.numberOfPages = sliders.count
+                self.pageControl.isHidden = sliders.count <= 1
+            })
+            .disposed(by: disposeBag)
+        
         viewModel.updateUserData.subscribe { userData in
             if userData {
                 self.initLoadData()

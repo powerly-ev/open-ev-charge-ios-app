@@ -35,12 +35,7 @@ class HomeViewModel {
     var markers = [GMSMarker]()
     
     func setUpSliderData() {
-        let referValue = CommonUtils.isUserLoggedIn() ? HomeSlider(type: .refer, title: NSLocalizedString("refer_and_earn", comment: ""), description: NSLocalizedString("refer_earn_desc", comment: ""), image: "club_electric", buttonName: NSLocalizedString("refer_now", comment: "")):
-        HomeSlider(type: .refer, title: NSLocalizedString("refer_and_earn_guest", comment: ""), description: NSLocalizedString("refer_earn_desc_guest", comment: ""), image: "club_electric", buttonName: NSLocalizedString("refer_now_guest", comment: ""))
-        let data = [HomeSlider(type: .club, title: NSLocalizedString("club_electric", comment: ""), description: NSLocalizedString("club_electric_desc", comment: ""), image: "share_earn", buttonName: NSLocalizedString("join_now", comment: "")),
-                    referValue,
-                    HomeSlider(type: .buyEV, title: NSLocalizedString("buy_ev_charger", comment: ""), description: NSLocalizedString("buy_ev_charger_desc", comment: ""), image: "buy_ev", buttonName: NSLocalizedString("buy_now", comment: ""))
-        ]
+        let data = [HomeSlider(type: .club, title: NSLocalizedString("all_set_to_go", comment: ""), description: NSLocalizedString("all_set_to_go_desc", comment: ""), image: "share_earn", buttonName: "")]
         self.sliders.onNext(data)
     }
     
