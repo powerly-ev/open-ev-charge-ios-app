@@ -35,7 +35,7 @@ class QRCodeViewController: UIViewController {
     func initData() {
         let attributed = NSMutableAttributedString()
         attributed.custom(NSLocalizedString("scan_1", comment: ""), font: .robotoRegular(ofSize: 12), color: UIColor(named: "222222") ?? .black)
-        attributed.custom("Powerly App ", font: .robotoBold(ofSize: 14), color: UIColor(named: "222222") ?? .black)
+        attributed.custom("LIT Charge ", font: .robotoBold(ofSize: 14), color: UIColor(named: "222222") ?? .black)
         attributed.custom(NSLocalizedString("scan_2", comment: ""), font: .robotoRegular(ofSize: 12), color: UIColor(named: "222222") ?? .black)
         descriptionLabel.attributedText = attributed
         

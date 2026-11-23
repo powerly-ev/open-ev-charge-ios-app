@@ -45,9 +45,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         if userDefault.object(forKey: UserDefaultKey.languageType.rawValue) == nil {
             let locale = Locale.current
             if let countryCode = locale.regionCode {
-                if (countryCode == "SA") || (countryCode == "JO") {
-                    userDefault.setValue("ar", forKey: UserDefaultKey.languageType.rawValue)
-                } else if countryCode == "EC" {
+                if LanguageSelectionViewController.spanishRegions.contains(countryCode) {
                     userDefault.setValue("es", forKey: UserDefaultKey.languageType.rawValue)
                 } else {
                     userDefault.setValue("en", forKey: UserDefaultKey.languageType.rawValue)

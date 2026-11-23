@@ -142,7 +142,7 @@
                                                                         <color key="textColor" name="7A7A7A"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
-                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Powerly Fees" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wWy-42-0hR">
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LIT Charge Fees" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wWy-42-0hR">
                                                                         <rect key="frame" x="0.0" y="21" width="232" height="21"/>
                                                                         <constraints>
                                                                             <constraint firstAttribute="height" constant="21" id="4CG-v1-XiA"/>
@@ -765,7 +765,7 @@
                                                                                                     <constraint firstAttribute="width" constant="22" id="xD5-eY-U2A"/>
                                                                                                 </constraints>
                                                                                             </imageView>
-                                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Notice: This service isn’t run or verified by Powerly. Ensure safety and always be cautious.." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hfi-50-cA1">
+                                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Notice: This service isn’t run or verified by LIT Charge. Ensure safety and always be cautious.." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hfi-50-cA1">
                                                                                                 <rect key="frame" x="38" y="0.0" width="296" height="55.5"/>
                                                                                                 <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="14"/>
                                                                                                 <color key="textColor" name="E6352B"/>

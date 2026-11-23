@@ -12,7 +12,7 @@ class SelectLanguageViewController: UIViewController {
     @IBOutlet weak var headerLabel: UILabel!
     @IBOutlet weak var objTableView: UITableView!
     @IBOutlet weak var tableViewHeight: NSLayoutConstraint!
-    var lanArray = ["English", "العربية", "Español", "Français"]
+    var lanArray = ["English", "Español"]
     var selectedIndex = 0
     var completionSelectedLanguage:((String) -> Void)?
     override func viewDidLoad() {
@@ -20,20 +20,10 @@ class SelectLanguageViewController: UIViewController {
         headerLabel.font = .robotoMedium(ofSize: 16)
         headerLabel.text = CommonUtils.getStringFromXML(name: "select_language")
         switch isLanguageType {
-            case "en":
-                self.selectedIndex = 0
-                
-            case "ar":
-                selectedIndex = 1
-                
             case "es":
-                selectedIndex = 2
-                
-            case "fr":
-                selectedIndex = 3
-            
-        default:
-            break
+                selectedIndex = 1
+            default:
+                self.selectedIndex = 0
         }
     }
     

@@ -8,7 +8,7 @@
 "club_electric" = "Club Eléctrico";
 "club_electric_desc" = "Comparte tu experiencia, haz preguntas sobre vehículos eléctricos, cargadores y todo lo relacionado con lo eléctrico.";
 "refer_and_earn" = "Referir y Ganar";
-"refer_earn_desc" = "Invita a tus amigos a unirse a Powerly y obtén una recompensa en efectivo de hasta $75.";
+"refer_earn_desc" = "Invita a tus amigos a unirse a LIT Charge y obtén una recompensa en efectivo de hasta $75.";
 "buy_ev_charger" = "Comprar un Cargador de VE";
 "buy_ev_charger_desc" = "Experimenta la conveniencia de tener tu propio punto de carga para vehículos eléctricos en casa.";
 "join_now" = "Únete Ahora";
@@ -54,7 +54,7 @@ Si ya te encuentras en la estación de carga y estás listo para activar el carg
 "open_24_hours" = "Abierto las 24 horas";
 "h" = "h";
 "min" = "min";
-"external_notice" = "Este servicio no está gestionado ni verificado por Powerly. Asegure su seguridad y siempre sea cauteloso.";
+"external_notice" = "Este servicio no está gestionado ni verificado por LIT Charge. Asegure su seguridad y siempre sea cauteloso.";
 "notice" = "Aviso: ";
 "booking_message" = "¡Genial! Has reservado tu punto de carga. Conduce con seguridad, identifícalo por su nombre y ID, escanea su código QR y ¡disfruta de la carga!";
 "got_it" = "Entendido";
@@ -159,10 +159,10 @@ Si ya te encuentras en la estación de carga y estás listo para activar el carg
 "configuration" = "Configurando";
 "Pending" = "Pendiente";
 "Total Time" = "Tiempo total";
-"share_message_ev" = "¡Hola! He listado mi cargador de vehículos eléctricos en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
-"share_message_plug" = "¡Hola! He listado mi enchufe inteligente en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
-"share_message_meter" = "¡Hola! He listado mi medidor inteligente en Powerly, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
-"share_earn" = "¡Hola! He estado usando la aplicación Powerly para cargar mi vehículo eléctrico y es increíble. ¡Deberías probarlo! Al unirte a través de mi referencia, ¡podrías ganar hasta $75 en recompensas! Aquí está el enlace para unirte: [Referral Link]
+"share_message_ev" = "¡Hola! He listado mi cargador de vehículos eléctricos en LIT Charge, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_message_plug" = "¡Hola! He listado mi enchufe inteligente en LIT Charge, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_message_meter" = "¡Hola! He listado mi medidor inteligente en LIT Charge, y ahora está accesible para uso público. Ambos obtenemos créditos de carga adicionales en tu primera carga. Instala la aplicación y podrás reservar y cargar tu vehículo eléctrico sin complicaciones. Pruébalo ahora";
+"share_earn" = "¡Hola! He estado usando la aplicación LIT Charge para cargar mi vehículo eléctrico y es increíble. ¡Deberías probarlo! Al unirte a través de mi referencia, ¡podrías ganar hasta $75 en recompensas! Aquí está el enlace para unirte: [Referral Link]
 Aplican términos y condiciones.";
 
 
@@ -198,7 +198,7 @@ Aplican términos y condiciones.";
 "Please enter password" = "Por favor, introduce una contraseña";
 "The password must be at least 8 characters." = "La contraseña debe tener al menos 8 caracteres.";
 "Password and confirm password should be same" = "La contraseña y la confirmación de la contraseña deben ser iguales";
-"Enter your powerly registered password for " = "Introduce tu contraseña registrada en Powerly para ";
+"Enter your powerly registered password for " = "Introduce tu contraseña registrada en LIT Charge para ";
 "Select country" = "Seleccionar país";
 "Sign in with Apple" = "Iniciar sesión con Apple";
 "Explore other Sign-in options" = "Explora otras opciones de inicio de sesión";

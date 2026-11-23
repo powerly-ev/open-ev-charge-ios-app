@@ -9,7 +9,7 @@
 "club_electric" = "Club Electric";
 "club_electric_desc" = "Share your experience, ask queries around EVs, chargers and all things electric.";
 "refer_and_earn" = "Refer and Earn";
-"refer_earn_desc" = "Invite your friends on Powerly and get a cash reward of up to $75.";
+"refer_earn_desc" = "Invite your friends on LIT Charge and get a cash reward of up to $75.";
 "buy_ev_charger" = "Buy an EV Charger";
 "buy_ev_charger_desc" = "Experience the convenience of having your own personal EV charging point at home.";
 "join_now" = "Join Now";
@@ -53,7 +53,7 @@
 "open_24_hours" = "Open 24 hours";
 "h" = "h";
 "min" = "min";
-"external_notice" = "This service isn’t run or verified by Powerly. Ensure safety and always be cautious.";
+"external_notice" = "This service isn’t run or verified by LIT Charge. Ensure safety and always be cautious.";
 "booking_message" = "Super! You’ve secured your charger spot. Safely drive over, identify it with its name and ID, scan its QR, and enjoy the charge!";
 "notice" = "Notice: ";
 "got_it" = "Got It";
@@ -159,10 +159,10 @@
 "configuration" = "Configuration";
 "Pending" = "Pending";
 "Total Time" = "Total Time";
-"share_message_ev" = "Hey there! I've listed my EV charger on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
-"share_message_plug" = "Hey there! I've listed my smart plug on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
-"share_message_meter" = "Hey there! I've listed my smart meter on Powerly, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
-"share_earn" = "Hey! I've been using the Powerly app for my electric vehicle charging and it's amazing! You should check it out. By joining through my referral, you could win up to $75 in rewards! Here’s the link to join: [Referral Link] Terms and conditions apply.";
+"share_message_ev" = "Hey there! I've listed my EV charger on LIT Charge, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_message_plug" = "Hey there! I've listed my smart plug on LIT Charge, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_message_meter" = "Hey there! I've listed my smart meter on LIT Charge, and it's now accessible for public use. We both get bonus charging credits on your first charge. Install the app and you can easily book and charge your EV hassle-free. Try it out now";
+"share_earn" = "Hey! I've been using the LIT Charge app for my electric vehicle charging and it's amazing! You should check it out. By joining through my referral, you could win up to $75 in rewards! Here’s the link to join: [Referral Link] Terms and conditions apply.";
 
 //Add vehicle
 "manufacturer" = "Manufacturer";
@@ -197,7 +197,7 @@
 "Please enter password" = "Please enter password";
 "The password must be at least 8 characters." = "The password must be at least 8 characters.";
 "Password and confirm password should be same" = "Password and confirm password should be same";
-"Enter your powerly registered password for " = "Enter your powerly registered password for ";
+"Enter your powerly registered password for " = "Enter your LIT Charge registered password for ";
 "Select country" = "Select country";
 "Sign in with Apple" = "Sign in with Apple";
 "Explore other Sign-in options" = "Explore other Sign-in options";

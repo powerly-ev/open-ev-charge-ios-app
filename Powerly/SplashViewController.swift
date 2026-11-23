@@ -5,32 +5,25 @@ class SplashViewController: UIViewController {
     var avPlayer:AVPlayer!
     var videoLayer:AVPlayerLayer!
     var isLoadAPI = true;
+    private let splashDuration: TimeInterval = 2.0
+    private var splashStarted = Date()
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     //@IBOutlet weak var versionLabel: UILabel!
     @IBOutlet weak var imageView: UIImageView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        do {
-            try AVAudioSession.sharedInstance().setCategory(.ambient)
-        } catch {
-        }
-        let filepath = Bundle.main.path(forResource: "NewSplashVideo1", ofType: "mp4")
-        let fileURL = URL(fileURLWithPath: filepath ?? "")
-        avPlayer = AVPlayer(url: fileURL)
-        avPlayer.actionAtItemEnd = .none
-        videoLayer = AVPlayerLayer(player: avPlayer)
-        videoLayer.frame = imageView.bounds
-        videoLayer.videoGravity = .resizeAspectFill
-        videoLayer.backgroundColor = UIColor.clear.cgColor
-        //view.layer.addSublayer(videoLayer)
-        self.view.layer.insertSublayer(self.videoLayer, at:0)
-        videoLayer.position = CGPointMake(view.layer.bounds.midX, view.layer.bounds.midY-50)
-        avPlayer.currentItem?.seek(to: CMTime(value: 1, timescale: 1),completionHandler: { _ in
-
-        })
-        self.avPlayer.play()
+        splashStarted = Date()
         navigationController?.isNavigationBarHidden = true
+        imageView.isHidden = false
+        imageView.image = UIImage(named: "gasable_logo")
+        imageView.contentMode = .scaleAspectFit
+        imageView.alpha = 0
+        imageView.transform = CGAffineTransform(scaleX: 0.72, y: 0.72)
+        UIView.animate(withDuration: 0.85, delay: 0.05, usingSpringWithDamping: 0.7, initialSpringVelocity: 0.45, options: [.curveEaseOut]) {
+            self.imageView.alpha = 1
+            self.imageView.transform = .identity
+        }
 //        self.versionLabel.isHidden = true
 //        let infoDict = Bundle.main.infoDictionary
 //        let appVersion = infoDict?["CFBundleShortVersionString"] as? String
@@ -43,11 +36,6 @@ class SplashViewController: UIViewController {
             }
 
         }*/
-        NotificationCenter.default.addObserver(
-            self,
-            selector: #selector(playerItemDidReachEnd(_:)),
-            name: .AVPlayerItemDidPlayToEndTime,
-            object: avPlayer.currentItem)
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -194,8 +182,6 @@ class SplashViewController: UIViewController {
     }
     
     @objc func playerItemDidReachEnd(_ notification: Notification?) {
-        avPlayer.pause()
-        videoLayer.removeFromSuperlayer()
         activityIndicator.startAnimating()
     }
     
@@ -207,21 +193,7 @@ class SplashViewController: UIViewController {
     }
     
     func getRemainingTime() -> Double {
-        guard let totalDuration = avPlayer.currentItem?.duration.seconds,
-              let currentTime = avPlayer.currentItem?.currentTime().seconds else {
-            return 0.0
-        }
-        let timeValue = totalDuration - currentTime
-        
-        if timeValue.isNaN || timeValue.isInfinite {
-            return 1.0
-        } else if timeValue > 1 {
-            return timeValue
-        } else if timeValue < 0 {
-            return 0.0
-        } else {
-            return timeValue + 0.1
-        }
+        max(0, splashDuration - Date().timeIntervalSince(splashStarted))
     }
 
     // Updated async/await usage

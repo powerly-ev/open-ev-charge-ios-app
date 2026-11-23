@@ -14,8 +14,8 @@
     <string name="a_short_break">Un corto descanso</string>
 
     <!--Language Selection-->
-    <string name="welcome_to_gasable">¡Hola! :)</string>
-    <string name="welcome_description">¡Bienvenido al futuro de la carga de vehículos eléctricos! Comencemos con la configuración, primero tu preferencia de idioma.</string>
+    <string name="welcome_to_gasable">LIT Charge</string>
+    <string name="welcome_description">Tu Conexión + Cerca. Utiliza tu espacio de estacionamiento como cargador de EV y genera un ingreso pasivo.</string>
     <string name="create_account">Crear cuenta</string>
     <string name="lets_get_started">Comenzamos</string>
     <string name="continue_as_guest">Continuar Como Invitado</string>
@@ -49,7 +49,7 @@
     <string name="first_name_title">Nombre</string>
     <string name="last_name_title">Apellido</string>
     <string name="agree_continue">Aceptar y Continuar</string>
-    <string name="privacy_policy_title">Al utilizar Powerly, aceptas nuestra política de privacidad y nuestros términos de servicio.</string>
+    <string name="privacy_policy_title">Al utilizar LIT Charge, aceptas nuestra política de privacidad y nuestros términos de servicio.</string>
     <string name="termsofservice">términos de servicio</string>
     <string name="privacypolicy">política de privacidad</string>
     <string name="verifying_number_title">Verificaremos su número de teléfono</string>

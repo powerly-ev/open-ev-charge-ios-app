@@ -428,7 +428,7 @@
                                                         <color key="textColor" name="222222"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="If you share it with someone, they can scan it with their Powerly App camera to start charging." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XEg-Hs-qJt">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="If you share it with someone, they can scan it with their LIT Charge App camera to start charging." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XEg-Hs-qJt">
                                                         <rect key="frame" x="24" y="57" width="297" height="29"/>
                                                         <fontDescription key="fontDescription" name="Exo2-Regular" family="Exo 2" pointSize="12"/>
                                                         <color key="textColor" name="222222"/>

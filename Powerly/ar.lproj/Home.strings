@@ -16,8 +16,8 @@
 /* Class = "UILabel"; text = "Refer and Earn"; ObjectID = "DVT-QE-Mbi"; */
 "DVT-QE-Mbi.text" = "أُرِسْل واربح";
 
-/* Class = "UILabel"; text = "Powerly"; ObjectID = "F6J-g4-cNs"; */
-"F6J-g4-cNs.text" = "Powerly";
+/* Class = "UILabel"; text = "LIT Charge"; ObjectID = "F6J-g4-cNs"; */
+"F6J-g4-cNs.text" = "LIT Charge";
 
 /* Class = "UILabel"; text = "• Pin it for yourself and others."; ObjectID = "G00-I8-6R6"; */
 "G00-I8-6R6.text" = "• ثبته لنفسك وللآخرين.";
@@ -37,8 +37,8 @@
 /* Class = "UILabel"; text = "View Nearby Stations"; ObjectID = "OBx-mE-iFT"; */
 "OBx-mE-iFT.text" = "عرض المحطات القريبة";
 
-/* Class = "UILabel"; text = "Sync Your Charger with Powerly"; ObjectID = "TMK-18-u3o"; */
-"TMK-18-u3o.text" = "مزامنة شاحنك مع باورلي";
+/* Class = "UILabel"; text = "Sync Your Charger with LIT Charge"; ObjectID = "TMK-18-u3o"; */
+"TMK-18-u3o.text" = "مزامنة شاحنك مع LIT Charge";
 
 /* Class = "UILabel"; text = "• One platform to control all your   chargers."; ObjectID = "TcA-oL-rSc"; */
 "TcA-oL-rSc.text" = "• منصة واحدة للتحكم في جميع شواحنك.";
@@ -49,8 +49,8 @@
 /* Class = "UILabel"; text = "Sign In"; ObjectID = "biM-2E-vQP"; */
 "biM-2E-vQP.text" = "تسجيل الدخول";
 
-/* Class = "UILabel"; text = "Invite your friends to Powerly and earn a cash reward"; ObjectID = "duA-wg-V48"; */
-"duA-wg-V48.text" = "ادعُ أصدقاءك إلى باورلي واحصل على مكافأة نقدية";
+/* Class = "UILabel"; text = "Invite your friends to LIT Charge and earn a cash reward"; ObjectID = "duA-wg-V48"; */
+"duA-wg-V48.text" = "ادعُ أصدقاءك إلى LIT Charge واحصل على مكافأة نقدية";
 
 /* Class = "UILabel"; text = "Report a New Charger"; ObjectID = "gGV-0D-gku"; */
 "gGV-0D-gku.text" = "الإبلاغ عن شاحن جديد";

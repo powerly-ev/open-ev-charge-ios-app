@@ -8,7 +8,7 @@
 "club_electric" = "Club Électrique";
 "club_electric_desc" = "Partagez votre expérience, posez des questions sur les véhicules électriques, les chargeurs et tout ce qui concerne l'électrique.";
 "refer_and_earn" = "Référez et Gagnez";
-"refer_earn_desc" = "Invitez vos amis sur Powerly et obtenez une récompense en espèces pouvant atteindre 75 $.";
+"refer_earn_desc" = "Invitez vos amis sur LIT Charge et obtenez une récompense en espèces pouvant atteindre 75 $.";
 "buy_ev_charger" = "Acheter un Chargeur de VÉ";
 "buy_ev_charger_desc" = "Découvrez la commodité d'avoir votre propre point de charge pour véhicules électriques à domicile.";
 "join_now" = "Rejoindre Maintenant";
@@ -55,7 +55,7 @@ Si vous êtes déjà à la station de charge et prêt à activer le chargeur, s�
 "open_24_hours" = "Ouvert 24 heures sur 24";
 "h" = "h";
 "min" = "min";
-"external_notice" = "Ce service n'est ni géré ni vérifié par Powerly. Assurez-vous de votre sécurité et soyez toujours prudent.";
+"external_notice" = "Ce service n'est ni géré ni vérifié par LIT Charge. Assurez-vous de votre sécurité et soyez toujours prudent.";
 "notice" = "Avis: ";
 "booking_message" = "Super ! Vous avez réservé votre place de recharge. Conduisez prudemment, repérez-la grâce à son nom et son ID, scannez son QR, et profitez de la recharge !";
 "got_it" = "Compris !";
@@ -160,10 +160,10 @@ Si vous êtes déjà à la station de charge et prêt à activer le chargeur, s�
 "configuration" = "Configuration";
 "Pending" = "En attente";
 "Total Time" = "Temps total";
-"share_message_ev" = "Salut ! J'ai listé mon chargeur pour véhicules électriques sur Powerly, et il est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
-"share_message_plug" = "Salut ! J'ai listé ma prise intelligente sur Powerly, et elle est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
-"share_message_meter" = "Salut ! J'ai listé mon compteur intelligent sur Powerly, et il est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
-"share_earn" = "Salut ! J'utilise l'application Powerly pour recharger mon véhicule électrique et c'est incroyable ! Tu devrais essayer. En rejoignant via mon parrainage, tu pourrais gagner jusqu'à 75 $ en récompenses ! Voici le lien pour rejoindre : [Referral Link]
+"share_message_ev" = "Salut ! J'ai listé mon chargeur pour véhicules électriques sur LIT Charge, et il est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
+"share_message_plug" = "Salut ! J'ai listé ma prise intelligente sur LIT Charge, et elle est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
+"share_message_meter" = "Salut ! J'ai listé mon compteur intelligent sur LIT Charge, et il est maintenant accessible au public. Nous obtenons tous les deux des crédits de recharge bonus lors de ta première recharge. Installe l'application et tu pourras facilement réserver et recharger ton véhicule électrique sans tracas. Essaie-le maintenant";
+"share_earn" = "Salut ! J'utilise l'application LIT Charge pour recharger mon véhicule électrique et c'est incroyable ! Tu devrais essayer. En rejoignant via mon parrainage, tu pourrais gagner jusqu'à 75 $ en récompenses ! Voici le lien pour rejoindre : [Referral Link]
 Des conditions s'appliquent.";
 
 
@@ -200,7 +200,7 @@ Des conditions s'appliquent.";
 "Please enter password" = "Veuillez entrer un mot de passe";
 "The password must be at least 8 characters." = "Le mot de passe doit contenir au moins 8 caractères.";
 "Password and confirm password should be same" = " Le mot de passe et la confirmation du mot de passe doivent être identiques";
-"Enter your powerly registered password for " = "Entrez votre mot de passe Powerly enregistré pour ";
+"Enter your powerly registered password for " = "Entrez votre mot de passe LIT Charge enregistré pour ";
 "Select country" = "Sélectionnez le pays";
 "Sign in with Apple" = "Connectez-vous avec Apple";
 "Explore other Sign-in options" = "Explorez d'autres options de connexion";

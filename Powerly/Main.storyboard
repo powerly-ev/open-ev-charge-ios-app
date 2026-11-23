@@ -136,7 +136,7 @@
                                         <color key="textColor" name="AAAAAA"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Powerly" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W89-LE-Ypi">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LIT Charge" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W89-LE-Ypi">
                                         <rect key="frame" x="0.0" y="17" width="161.5" height="24"/>
                                         <fontDescription key="fontDescription" name="Exo2-Bold" family="Exo 2" pointSize="20"/>
                                         <color key="textColor" name="222222"/>
@@ -144,19 +144,19 @@
                                     </label>
                                 </subviews>
                             </stackView>
-                            <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="nNX-Le-NE4">
-                                <rect key="frame" x="57" y="253" width="300" height="390"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gasable_logo" translatesAutoresizingMaskIntoConstraints="NO" id="nNX-Le-NE4">
+                                <rect key="frame" x="107" y="348" width="200" height="200"/>
                                 <color key="tintColor" name="WHITE"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="300" id="oiQ-EM-bva"/>
-                                    <constraint firstAttribute="height" constant="390" id="xIV-qa-rwJ"/>
+                                    <constraint firstAttribute="width" constant="200" id="oiQ-EM-bva"/>
+                                    <constraint firstAttribute="height" constant="200" id="xIV-qa-rwJ"/>
                                 </constraints>
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Km8-B0-JSy"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="TlB-8W-rLT" firstAttribute="centerY" secondItem="RzZ-0c-J8T" secondAttribute="centerY" constant="90" id="VAH-lt-8YJ"/>
+                            <constraint firstItem="TlB-8W-rLT" firstAttribute="top" secondItem="nNX-Le-NE4" secondAttribute="bottom" constant="24" id="VAH-lt-8YJ"/>
                             <constraint firstItem="nNX-Le-NE4" firstAttribute="centerY" secondItem="RzZ-0c-J8T" secondAttribute="centerY" id="a27-sE-20g"/>
                             <constraint firstItem="QHK-CV-NxV" firstAttribute="centerX" secondItem="RzZ-0c-J8T" secondAttribute="centerX" id="c05-8J-QK8"/>
                             <constraint firstItem="QHK-CV-NxV" firstAttribute="centerY" secondItem="RzZ-0c-J8T" secondAttribute="centerY" id="m2J-GY-eVZ"/>
@@ -575,6 +575,7 @@
     </scenes>
     <resources>
         <image name="arrow_back" width="24" height="24"/>
+        <image name="gasable_logo" width="512" height="512"/>
         <image name="balance_icon" width="32" height="32"/>
         <image name="rectangle.portrait.and.arrow.right" catalog="system" width="128" height="109"/>
         <image name="user_avtar" width="84" height="84"/>

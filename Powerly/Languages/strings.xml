@@ -14,8 +14,8 @@
     <string name="a_short_break">A Short Break</string>
     
     <!--Language Selection-->
-    <string name="welcome_to_gasable">Hello :)</string>
-    <string name="welcome_description">Welcome to the future of EV charging! Let’s get you set up, first your language preference.</string>
+    <string name="welcome_to_gasable">LIT Charge</string>
+    <string name="welcome_description">Your Closest Connection. Use your parking space as an EV charger and earn passive income.</string>
     <string name="create_account">Create account</string>
     <string name="lets_get_started">Let's Get Started</string>
     <string name="continue_as_guest">Continue As Guest</string>
@@ -50,7 +50,7 @@
     <string name="first_name_title">First name</string>
     <string name="last_name_title">Last name</string>
     <string name="agree_continue">Agree &amp; Continue</string>
-    <string name="privacy_policy_title">By using Powerly, you consent to our Privacy Policy and Terms of Service.</string>
+    <string name="privacy_policy_title">By using LIT Charge, you consent to our Privacy Policy and Terms of Service.</string>
     <string name="termsofservice">Terms of Service</string>
     <string name="privacypolicy">Privacy Policy</string>
     <string name="verifying_number_title">We will be verifying your phone number</string>

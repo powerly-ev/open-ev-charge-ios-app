@@ -11,6 +11,7 @@ import SwiftUI
 import UIKit
 
 class LanguageSelectionViewController: GuestCommonViewController {
+    static let spanishRegions: Set<String> = ["MX", "ES", "EC", "AR", "CO", "CL", "PE", "VE", "UY", "PY", "BO", "CR", "PA", "DO", "GT", "HN", "NI", "SV", "CU", "PR"]
     @IBOutlet weak var btnLanguage: UIButton!
     @IBOutlet weak var versionLabel: UILabel!
     @IBOutlet weak var headerLabel: UILabel!
@@ -29,9 +30,7 @@ class LanguageSelectionViewController: GuestCommonViewController {
         if userDefault.object(forKey: UserDefaultKey.languageType.rawValue) == nil {
             let locale = Locale.current
             if let countryCode = locale.regionCode {
-                if (countryCode == "SA") || (countryCode == "JO") {
-                    userDefault.setValue("ar", forKey: UserDefaultKey.languageType.rawValue)
-                } else if countryCode == "EC" {
+                if Self.spanishRegions.contains(countryCode) {
                     userDefault.setValue("es", forKey: UserDefaultKey.languageType.rawValue)
                 } else {
                     userDefault.setValue("en", forKey: UserDefaultKey.languageType.rawValue)
@@ -63,7 +62,7 @@ class LanguageSelectionViewController: GuestCommonViewController {
     func setupDefaultCountry() {
         if let country = UserManager.shared.countryList.first(where: { $0.iso == Locale.current.regionCode }) {
             UserManager.shared.country = country
-        } else if UserManager.shared.country == nil, let country = UserManager.shared.countryList.first(where: { $0.iso == "SA" }) {
+        } else if UserManager.shared.country == nil, let country = UserManager.shared.countryList.first(where: { $0.iso == "MX" }) {
             UserManager.shared.country = country
         }
     }
@@ -72,9 +71,29 @@ class LanguageSelectionViewController: GuestCommonViewController {
         guard let text = self.termsLabel.attributedText?.string else {
             return
         }
-        let countryId = UserManager.shared.country?.id
         let terms = CommonUtils.getStringFromXML(name: "termsofservice")
-        let privacy = CommonUtils.getStringFromXML(name: "privacypolicy")
+        if let range = text.range(of: terms),
+           tapGesture.didTapAttributedTextInLabel(label: self.termsLabel, inRange: NSRange(range, in: text)) {
+            let configured = CommonUtils.getStringFromPlist("TERMS_AND_CONDITIONS_URL")
+            if configured.isEmpty == false {
+                self.openLegalPage(title: CommonUtils.getStringFromXML(name: "terms_condition"), url: configured)
+            }
+        } else if let range = text.range(of: CommonUtils.getStringFromXML(name: "privacypolicy")),
+                  tapGesture.didTapAttributedTextInLabel(label: self.termsLabel, inRange: NSRange(range, in: text)) {
+            let configured = CommonUtils.getStringFromPlist("PRIVACY_POLICY_URL")
+            if configured.isEmpty == false {
+                self.openLegalPage(title: CommonUtils.getStringFromXML(name: "privacypolicy"), url: configured)
+            }
+        }
+    }
+
+    private func openLegalPage(title: String, url: String) {
+        guard let webVC = UIStoryboard(storyboard: .main).instantiateViewController(withIdentifier: WebViewController.className) as? WebViewController else {
+            return
+        }
+        webVC.headerString = title
+        webVC.loadURL = url
+        self.navigationController?.pushViewController(webVC, animated: true)
     }
     
     func initFont() {
@@ -113,20 +132,10 @@ class LanguageSelectionViewController: GuestCommonViewController {
                 language,
                 for: .normal)
             switch language {
-            case "English":
-                userDefault.setValue("en", forKey: UserDefaultKey.languageType.rawValue)
-            
-            case "العربية":
-                userDefault.setValue("ar", forKey: UserDefaultKey.languageType.rawValue)
-            
             case "Español":
                 userDefault.setValue("es", forKey: UserDefaultKey.languageType.rawValue)
-            
-            case "Français":
-                userDefault.setValue("fr", forKey: UserDefaultKey.languageType.rawValue)
-            
             default:
-                break
+                userDefault.setValue("en", forKey: UserDefaultKey.languageType.rawValue)
             }
             userDefault.synchronize()
             DELEGATE?.reloadLanguageStrings()
@@ -152,20 +161,10 @@ class LanguageSelectionViewController: GuestCommonViewController {
     func refreshViewsForNewLanguage() {
         let selectedLanguage = isLanguageType
         switch selectedLanguage {
-        case "en":
-            btnLanguage.setTitle("English", for: .normal)
-        
-        case "ar":
-            btnLanguage.setTitle("عربى", for: .normal)
-        
         case "es":
             btnLanguage.setTitle("Español", for: .normal)
-        
-        case "fr":
-            btnLanguage.setTitle("French", for: .normal)
-        
         default:
-            break
+            btnLanguage.setTitle("English", for: .normal)
         }
     }
 }

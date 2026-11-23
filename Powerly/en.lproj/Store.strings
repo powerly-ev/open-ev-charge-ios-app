@@ -203,8 +203,8 @@
 /* Class = "UILabel"; text = "SR"; ObjectID = "uMb-Jf-b6M"; */
 "uMb-Jf-b6M.text" = "SR";
 
-/* Class = "UILabel"; text = "Powerly Fees"; ObjectID = "wWy-42-0hR"; */
-"wWy-42-0hR.text" = "Powerly Fees";
+/* Class = "UILabel"; text = "LIT Charge Fees"; ObjectID = "wWy-42-0hR"; */
+"wWy-42-0hR.text" = "LIT Charge Fees";
 
 /* Class = "UILabel"; text = "Charged"; ObjectID = "wvy-gd-o4L"; */
 "wvy-gd-o4L.text" = "Charged";
@@ -218,8 +218,8 @@
 /* Class = "UILabel"; text = "Helpful"; ObjectID = "zdg-sS-VJy"; */
 "zdg-sS-VJy.text" = "Helpful";
 
-/* Class = "UILabel"; text = "Powerly"; ObjectID = "zl3-VJ-5lY"; */
-"zl3-VJ-5lY.text" = "Powerly";
+/* Class = "UILabel"; text = "LIT Charge"; ObjectID = "zl3-VJ-5lY"; */
+"zl3-VJ-5lY.text" = "LIT Charge";
 
 /* Class = "UILabel"; text = "0"; ObjectID = "zvz-5C-Low"; */
 "zvz-5C-Low.text" = "0";
