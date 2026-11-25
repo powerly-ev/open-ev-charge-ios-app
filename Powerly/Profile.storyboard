@@ -439,7 +439,7 @@
                                             </stackView>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="54Q-aa-tlF" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                                 <rect key="frame" x="16" y="698" width="288" height="55"/>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="SGk-Lh-zlA"/>
                                                 </constraints>
@@ -590,7 +590,7 @@
         <image name="eye.slash" catalog="system" width="128" height="97"/>
         <image name="lockIcon" width="1200" height="1200"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

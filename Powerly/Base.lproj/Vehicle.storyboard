@@ -1029,7 +1029,7 @@
                                                                                 </connections>
                                                                             </button>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" name="222222"/>
+                                                                        <color key="backgroundColor" name="008CE9"/>
                                                                         <constraints>
                                                                             <constraint firstAttribute="bottom" secondItem="ZnQ-bU-E3D" secondAttribute="bottom" id="IfN-nL-ZFh"/>
                                                                             <constraint firstAttribute="trailing" secondItem="ZnQ-bU-E3D" secondAttribute="trailing" id="MNb-tx-I9p"/>
@@ -2124,7 +2124,7 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="trailing" secondItem="Xdn-ul-b1U" secondAttribute="trailing" id="26a-Cj-7lX"/>
                                             <constraint firstItem="Xdn-ul-b1U" firstAttribute="leading" secondItem="k3v-nZ-YRB" secondAttribute="leading" id="3DI-jF-Pcc"/>
@@ -2342,7 +2342,7 @@
                                                                             </userDefinedRuntimeAttributes>
                                                                         </button>
                                                                     </subviews>
-                                                                    <color key="backgroundColor" name="222222"/>
+                                                                    <color key="backgroundColor" name="008CE9"/>
                                                                     <constraints>
                                                                         <constraint firstAttribute="trailing" secondItem="aUo-hH-EDe" secondAttribute="trailing" id="CO1-4q-XWB"/>
                                                                         <constraint firstItem="aUo-hH-EDe" firstAttribute="leading" secondItem="EzD-qW-6Ok" secondAttribute="leading" id="LHi-yj-XlW"/>
@@ -2585,7 +2585,7 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="D4s-jU-jaL" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="0.0" width="329" height="55"/>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="hde-Yg-55I"/>
                                                 </constraints>
@@ -2666,7 +2666,7 @@
         <image name="plus_white_icon" width="24" height="24"/>
         <image name="search_icon" width="24" height="24"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

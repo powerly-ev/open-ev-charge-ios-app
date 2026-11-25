@@ -40,7 +40,7 @@ class AddPlugTypeTableViewCell: UITableViewCell {
             addPlugLabel.textColor = UIColor(named: "AAAAAA")
             addPlugLabel.text = NSLocalizedString("added_to_stations", comment: "")
         } else {
-            addPlugButtonView.backgroundColor = UIColor(named: "222222")
+            addPlugButtonView.backgroundColor = UIColor(named: "008CE9")
             addPlusLeftImageView.image = UIImage(named: "plus_white_icon")
             addPlusLeftImageView.tintColor = .white
             addPlugLabel.textColor = UIColor.white

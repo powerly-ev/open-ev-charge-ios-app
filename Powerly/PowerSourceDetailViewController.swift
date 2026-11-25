@@ -316,21 +316,21 @@ class PowerSourceDetailViewController: UIViewController {
             self.distanceLabel.text = String(format: "%.1f %@ %@", kms, CommonUtils.getStringFromXML(name: "km_title"), NSLocalizedString("away", comment: ""))
             
             if kms > 0.1 {
-                self.driveToStationView.backgroundColor = UIColor(named: "222222")
+                self.driveToStationView.backgroundColor = UIColor(named: "008CE9")
                 self.driveToStationLabel.textColor = UIColor.white
                 self.driveToStationIconImageView.tintColor = UIColor.white
                 
                 self.startChargingView.backgroundColor = UIColor(named: "F3F3F3")
-                self.startChargingLabel.textColor = UIColor(named: "222222")
-                self.startChargingIconImageView.tintColor = UIColor(named: "222222")
+                self.startChargingLabel.textColor = UIColor(named: "008CE9")
+                self.startChargingIconImageView.tintColor = UIColor(named: "008CE9")
             } else {
-                self.startChargingView.backgroundColor = UIColor(named: "222222")
+                self.startChargingView.backgroundColor = UIColor(named: "008CE9")
                 self.startChargingLabel.textColor = UIColor.white
                 self.startChargingIconImageView.tintColor = UIColor.white
                 
                 self.driveToStationView.backgroundColor = UIColor(named: "F3F3F3")
-                self.driveToStationLabel.textColor = UIColor(named: "222222")
-                self.driveToStationIconImageView.tintColor = UIColor(named: "222222")
+                self.driveToStationLabel.textColor = UIColor(named: "008CE9")
+                self.driveToStationIconImageView.tintColor = UIColor(named: "008CE9")
             }
         }
         
@@ -357,13 +357,6 @@ class PowerSourceDetailViewController: UIViewController {
         if data.onlineStatus == 1 {
             bookInAdvanceView.isUserInteractionEnabled = true
             startChargingView.isUserInteractionEnabled = isOpen
-            self.startChargingView.backgroundColor = UIColor(named: "F3F3F3")
-            self.startChargingLabel.textColor = UIColor(named: "222222")
-            self.startChargingIconImageView.tintColor = UIColor(named: "222222")
-            
-            self.driveToStationView.backgroundColor = UIColor(named: "F3F3F3")
-            self.driveToStationLabel.textColor = UIColor(named: "222222")
-            self.driveToStationIconImageView.tintColor = UIColor(named: "222222")
         } else {
             bookInAdvanceView.isUserInteractionEnabled = false
             startChargingView.isUserInteractionEnabled = false

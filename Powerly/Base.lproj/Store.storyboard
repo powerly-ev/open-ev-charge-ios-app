@@ -471,7 +471,7 @@
                                                                                         <subviews>
                                                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="timeslot_grey_icon" translatesAutoresizingMaskIntoConstraints="NO" id="3eh-Io-ZIv">
                                                                                                 <rect key="frame" x="8" y="12" width="32" height="24"/>
-                                                                                                <color key="tintColor" name="222222"/>
+                                                                                                <color key="tintColor" name="008CE9"/>
                                                                                                 <constraints>
                                                                                                     <constraint firstAttribute="height" constant="24" id="Lfc-rV-dfY"/>
                                                                                                     <constraint firstAttribute="width" constant="32" id="N9l-2x-iID"/>
@@ -569,7 +569,7 @@
                                                                                         <subviews>
                                                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dollarsign" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="Oab-sL-ISR">
                                                                                                 <rect key="frame" x="8" y="11.5" width="32" height="25"/>
-                                                                                                <color key="tintColor" name="222222"/>
+                                                                                                <color key="tintColor" name="008CE9"/>
                                                                                                 <constraints>
                                                                                                     <constraint firstAttribute="width" constant="32" id="qk7-EN-dYi"/>
                                                                                                     <constraint firstAttribute="height" constant="24" id="yUR-mc-7od"/>
@@ -604,7 +604,7 @@
                                                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SR" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MV6-qH-Egb">
                                                                                                         <rect key="frame" x="42.5" y="8.5" width="20.5" height="20.5"/>
                                                                                                         <fontDescription key="fontDescription" name="Exo2-Medium" family="Exo 2" pointSize="17"/>
-                                                                                                        <color key="textColor" name="7A7A7A"/>
+                                                                                                        <color key="textColor" name="008CE9"/>
                                                                                                         <nil key="highlightedColor"/>
                                                                                                     </label>
                                                                                                 </subviews>
@@ -612,7 +612,7 @@
                                                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="550" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eyR-mU-utA">
                                                                                                 <rect key="frame" x="65" y="10.5" width="40.5" height="29"/>
                                                                                                 <fontDescription key="fontDescription" name="Exo2-Medium" family="Exo 2" pointSize="24"/>
-                                                                                                <color key="textColor" name="222222"/>
+                                                                                                <color key="textColor" name="008CE9"/>
                                                                                                 <nil key="highlightedColor"/>
                                                                                             </label>
                                                                                         </subviews>
@@ -1002,7 +1002,7 @@
                                                                                         </connections>
                                                                                     </button>
                                                                                 </subviews>
-                                                                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                                <color key="backgroundColor" name="008CE9"/>
                                                                                 <constraints>
                                                                                     <constraint firstItem="qX8-Ip-XcB" firstAttribute="centerX" secondItem="SJN-fS-Tcu" secondAttribute="centerX" id="2su-xJ-zK7"/>
                                                                                     <constraint firstAttribute="trailing" secondItem="jXT-4x-RLr" secondAttribute="trailing" id="PAz-h5-I7h"/>
@@ -1052,7 +1052,7 @@
                                                                                 </connections>
                                                                             </button>
                                                                         </subviews>
-                                                                        <color key="backgroundColor" name="222222"/>
+                                                                        <color key="backgroundColor" name="008CE9"/>
                                                                         <constraints>
                                                                             <constraint firstItem="Hh8-Pe-nCO" firstAttribute="top" secondItem="DTP-t6-JZ4" secondAttribute="top" constant="5" id="9O6-hG-ADu"/>
                                                                             <constraint firstAttribute="trailing" secondItem="Hh8-Pe-nCO" secondAttribute="trailing" constant="8" id="FcU-4p-mFh"/>
@@ -1099,7 +1099,7 @@
                                                                         <subviews>
                                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow.turn.up.right" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="0Ac-ml-gJI">
                                                                                 <rect key="frame" x="0.0" y="5" width="16" height="11.5"/>
-                                                                                <color key="tintColor" name="222222"/>
+                                                                                <color key="tintColor" name="008CE9"/>
                                                                                 <constraints>
                                                                                     <constraint firstAttribute="width" constant="16" id="Nt5-jK-36b"/>
                                                                                     <constraint firstAttribute="height" constant="16" id="zzj-kd-i7M"/>
@@ -1108,7 +1108,7 @@
                                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="50 KM away" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s5r-bZ-EWd">
                                                                                 <rect key="frame" x="24" y="3" width="66" height="16"/>
                                                                                 <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="12"/>
-                                                                                <color key="textColor" name="222222"/>
+                                                                                <color key="textColor" name="008CE9"/>
                                                                                 <nil key="highlightedColor"/>
                                                                             </label>
                                                                         </subviews>
@@ -1118,7 +1118,7 @@
                                                                         <subviews>
                                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bolt" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="W6U-It-ael">
                                                                                 <rect key="frame" x="0.0" y="-1" width="17" height="19.5"/>
-                                                                                <color key="tintColor" name="222222"/>
+                                                                                <color key="tintColor" name="008CE9"/>
                                                                                 <constraints>
                                                                                     <constraint firstAttribute="height" constant="18" id="4ne-on-Dlw"/>
                                                                                 </constraints>
@@ -2392,7 +2392,7 @@
                                         <subviews>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="magnifyingglass" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="qW7-xt-o6H">
                                                 <rect key="frame" x="12" y="12.5" width="24" height="22.5"/>
-                                                <color key="tintColor" name="222222"/>
+                                                <color key="tintColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="24" id="HdN-Vb-SmZ"/>
                                                     <constraint firstAttribute="height" constant="24" id="VI8-kE-nt7"/>
@@ -2464,7 +2464,7 @@
                                         <subviews>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="location-direction" translatesAutoresizingMaskIntoConstraints="NO" id="szT-b6-1Xk">
                                                 <rect key="frame" x="12" y="12" width="24" height="24"/>
-                                                <color key="tintColor" name="222222"/>
+                                                <color key="tintColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="24" id="EVQ-Tw-6HF"/>
                                                     <constraint firstAttribute="height" constant="24" id="rG1-Ep-NdX"/>
@@ -2592,7 +2592,7 @@
                             <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="zCr-CT-dUP">
                                 <rect key="frame" x="170" y="816" width="74" height="26"/>
                                 <color key="pageIndicatorTintColor" name="E5E5E5"/>
-                                <color key="currentPageIndicatorTintColor" name="222222"/>
+                                <color key="currentPageIndicatorTintColor" name="008CE9"/>
                             </pageControl>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="baP-Hq-SOr"/>
@@ -2634,7 +2634,7 @@
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Charger Activation" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="PG4-vr-rTH">
                                                 <rect key="frame" x="0.0" y="0.0" width="382" height="56"/>
                                                 <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="18"/>
-                                                <color key="textColor" name="222222"/>
+                                                <color key="textColor" name="008CE9"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0rW-ve-ufy">
@@ -2685,7 +2685,7 @@ If you're not currently near the charging station, the charging session will sti
 
 If you're already at the charging station and ready to activate the charger, choose your charging duration and tap 'Start Charging' to initiate.</string>
                                         <fontDescription key="fontDescription" name="Roboto-Regular" family="Roboto" pointSize="18"/>
-                                        <color key="textColor" name="222222"/>
+                                        <color key="textColor" name="008CE9"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="16" translatesAutoresizingMaskIntoConstraints="NO" id="MUg-7B-TYy">
@@ -2696,7 +2696,7 @@ If you're already at the charging station and ready to activate the charger, cho
                                                 <subviews>
                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dollarsign" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="79O-Oz-b68">
                                                         <rect key="frame" x="8" y="11.5" width="32" height="25"/>
-                                                        <color key="tintColor" name="222222"/>
+                                                        <color key="tintColor" name="008CE9"/>
                                                         <constraints>
                                                             <constraint firstAttribute="width" constant="32" id="885-hF-Fal"/>
                                                             <constraint firstAttribute="height" constant="24" id="ZJ2-Yd-MMK"/>
@@ -3016,7 +3016,7 @@ If you're already at the charging station and ready to activate the charger, cho
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstItem="llC-BT-flC" firstAttribute="leading" secondItem="hN8-aN-ceR" secondAttribute="leading" id="5Ux-wM-iOx"/>
                                             <constraint firstItem="rVM-XS-9QQ" firstAttribute="centerY" secondItem="hN8-aN-ceR" secondAttribute="centerY" id="D6z-nJ-OGQ"/>
@@ -3113,7 +3113,7 @@ If you're already at the charging station and ready to activate the charger, cho
         <image name="support_map_icon" width="24" height="24"/>
         <image name="timeslot_grey_icon" width="24" height="24"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="2183C4">
             <color red="0.1289999932050705" green="0.51399999856948853" blue="0.76899999380111694" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

@@ -182,7 +182,7 @@
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OiU-YN-KEf" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                 <rect key="frame" x="16" y="313.33333333333331" width="358" height="55"/>
-                                <color key="backgroundColor" name="222222"/>
+                                <color key="backgroundColor" name="008CE9"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="cEe-7H-saI"/>
                                 </constraints>
@@ -306,7 +306,7 @@
                                     </stackView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EQl-Vk-Hwo">
                                         <rect key="frame" x="16" y="261" width="358" height="55"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="55" id="6Hv-MY-fmf"/>
                                         </constraints>
@@ -591,7 +591,7 @@
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3nM-Pk-Ru0" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                 <rect key="frame" x="16" y="754" width="358" height="55"/>
-                                <color key="backgroundColor" name="222222"/>
+                                <color key="backgroundColor" name="008CE9"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="oki-kk-zr9"/>
                                 </constraints>
@@ -639,7 +639,7 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="20" id="1UY-Vy-s2C"/>
                                             <constraint firstItem="dQp-Uj-dFZ" firstAttribute="leading" secondItem="TXl-t5-bDH" secondAttribute="leading" constant="4" id="Dl0-q5-E6D"/>
@@ -805,7 +805,7 @@
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstItem="KhL-2D-gx1" firstAttribute="centerX" secondItem="ThO-ej-z81" secondAttribute="centerX" id="7b0-iK-acO"/>
                                                     <constraint firstItem="KhL-2D-gx1" firstAttribute="centerY" secondItem="ThO-ej-z81" secondAttribute="centerY" id="OGe-pl-VUb"/>
@@ -1071,7 +1071,7 @@
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstItem="bAq-L9-YSg" firstAttribute="leading" secondItem="HhI-ec-Gx1" secondAttribute="leading" id="30K-7a-pIy"/>
                                                     <constraint firstItem="kIj-bj-9Ss" firstAttribute="centerX" secondItem="HhI-ec-Gx1" secondAttribute="centerX" id="Gou-Te-pzU"/>
@@ -1459,7 +1459,7 @@
                                     </stackView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MRT-Me-aoi" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target" propertyAccessControl="localizable">
                                         <rect key="frame" x="16" y="230.66666666666669" width="358" height="56"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="56" id="hqj-ob-waP"/>
                                         </constraints>
@@ -2082,7 +2082,7 @@
                                     </view>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gAz-N9-fpt" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                         <rect key="frame" x="16" y="250.66666666666669" width="358" height="55"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="55" id="Qf7-nf-JcK"/>
                                         </constraints>
@@ -2297,7 +2297,7 @@
                                     </stackView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TXo-uf-ZzD" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                         <rect key="frame" x="16" y="160" width="358" height="55"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="55" id="xf4-5N-2Ox"/>
                                         </constraints>
@@ -2550,7 +2550,7 @@
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zRj-No-MDG" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                 <rect key="frame" x="16" y="754" width="358" height="55"/>
-                                <color key="backgroundColor" name="222222"/>
+                                <color key="backgroundColor" name="008CE9"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="lDZ-1Y-XVc"/>
                                 </constraints>
@@ -2598,7 +2598,7 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="bottom" secondItem="Otx-KC-E4e" secondAttribute="bottom" id="6A6-IY-ipp"/>
                                             <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="45" id="F6F-4h-bnu"/>
@@ -2809,7 +2809,7 @@
         <image name="google.png" width="18" height="18"/>
         <image name="powerly_logo" width="240" height="216"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

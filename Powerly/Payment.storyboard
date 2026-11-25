@@ -230,7 +230,7 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KRK-37-KGk" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="0.0" width="343" height="55"/>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="PUS-oq-mha"/>
                                                 </constraints>
@@ -791,7 +791,7 @@
                                         <subviews>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="M4l-ge-l0h" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                                 <rect key="frame" x="0.0" y="0.0" width="343" height="55"/>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="yjY-aa-ezC"/>
                                                 </constraints>
@@ -1008,7 +1008,7 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OkI-lz-eH2">
                                         <rect key="frame" x="0.0" y="0.0" width="343" height="48"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="48" id="4q5-cu-dQG"/>
                                         </constraints>
@@ -1124,7 +1124,7 @@
         <image name="radio_unfill_big" width="24" height="24"/>
         <image name="right_checkmark" width="24" height="24"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

@@ -52,7 +52,7 @@ class NearByCollectionViewCell: UICollectionViewCell {
             tags.append(Tag(icon: nil, tintColor: nil, title: maxConnector.name))
         }
         cp.amenities.forEach { amenity in
-            tags.append(Tag(icon: nil, tintColor: UIColor(named: "222222"), title: amenity.name))
+            tags.append(Tag(icon: nil, tintColor: UIColor(named: "008CE9"), title: amenity.name))
         }
         collectionView.reloadData()
     }
@@ -75,7 +75,7 @@ extension NearByCollectionViewCell: UICollectionViewDelegate, UICollectionViewDa
             if let tintColor = tag.tintColor {
                 cell.titleLabel.textColor = tintColor
             } else {
-                cell.titleLabel.textColor = UIColor(named: "222222")
+                cell.titleLabel.textColor = UIColor(named: "008CE9")
             }
         }
         return cell

@@ -255,7 +255,7 @@
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="bottom" secondItem="p2p-xb-4bu" secondAttribute="bottom" id="8Io-is-6o6"/>
                                                     <constraint firstItem="p2p-xb-4bu" firstAttribute="leading" secondItem="69k-8M-NIg" secondAttribute="leading" id="VUN-dU-xxt"/>
@@ -490,7 +490,7 @@
                                                                 </subviews>
                                                             </stackView>
                                                         </subviews>
-                                                        <color key="backgroundColor" name="222222"/>
+                                                        <color key="backgroundColor" name="008CE9"/>
                                                         <color key="tintColor" name="222222"/>
                                                         <constraints>
                                                             <constraint firstItem="HOu-2W-ROs" firstAttribute="centerY" secondItem="JHI-Zl-YmS" secondAttribute="centerY" id="8xi-vR-FAh"/>
@@ -566,7 +566,7 @@
                                                         </connections>
                                                     </button>
                                                 </subviews>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstItem="KtG-j7-btm" firstAttribute="top" secondItem="wBP-0R-mbE" secondAttribute="top" id="1wR-h4-qby"/>
                                                     <constraint firstItem="dwD-tX-TIO" firstAttribute="centerX" secondItem="wBP-0R-mbE" secondAttribute="centerX" id="91e-Dn-vaZ"/>
@@ -637,6 +637,9 @@
         </scene>
     </scenes>
     <resources>
+        <namedColor name="008CE9">
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <image name="appLogo" width="120" height="108"/>
         <image name="arrowTopHead" width="130" height="33"/>
         <image name="bottom-left" width="128" height="128"/>

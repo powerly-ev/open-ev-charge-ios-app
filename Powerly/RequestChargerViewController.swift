@@ -167,7 +167,7 @@ class RequestChargerViewController: UIViewController {
                 }
             }
         }
-        continueButton.backgroundColor = UIColor(named: "222222")
+        continueButton.backgroundColor = UIColor(named: "008CE9")
     }
      
     @IBAction func didTapOnContinueButton(_ sender: Any) {

@@ -73,7 +73,7 @@
                                                         </view>
                                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AvZ-V0-ZGI">
                                                             <rect key="frame" x="7" y="9" width="12" height="12"/>
-                                                            <color key="backgroundColor" name="222222"/>
+                                                            <color key="backgroundColor" name="008CE9"/>
                                                             <constraints>
                                                                 <constraint firstAttribute="height" constant="12" id="BqK-XN-mBV"/>
                                                                 <constraint firstAttribute="width" constant="12" id="XGz-YJ-AB2"/>
@@ -130,7 +130,7 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f7c-ww-hjc">
                                         <rect key="frame" x="0.0" y="0.0" width="396" height="48"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="48" id="M5w-Pv-Pnz"/>
                                         </constraints>
@@ -266,6 +266,9 @@
         </scene>
     </scenes>
     <resources>
+        <namedColor name="008CE9">
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <image name="tutorial_1" width="1029" height="688"/>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

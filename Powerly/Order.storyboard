@@ -389,7 +389,7 @@
                                     </stackView>
                                     <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7h7-8z-tqs" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                         <rect key="frame" x="16" y="268" width="382" height="55"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="55" id="fwV-uo-dw0"/>
                                         </constraints>
@@ -482,7 +482,7 @@
         <image name="three-star" width="33" height="32"/>
         <image name="two_star" width="33" height="32"/>
         <namedColor name="008CE9">
-            <color red="0.0" green="0.54900002479553223" blue="0.91399997472763062" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="222222">
             <color red="0.13300000131130219" green="0.13300000131130219" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

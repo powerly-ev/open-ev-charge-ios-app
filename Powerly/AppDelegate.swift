@@ -54,6 +54,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
         self.reloadLanguageStrings()
+        self.window?.tintColor = UIColor(named: "008CE9")
         self.window?.makeKeyAndVisible()
         Messaging.messaging().delegate = self
         if #available(iOS 10.0, *) {

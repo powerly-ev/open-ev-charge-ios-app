@@ -16,7 +16,7 @@ class TabViewController: UITabBarController {
         super.viewDidLoad()
         
         UITabBar.appearance().tintColor = UIColor(named: "008CE9")
-        UITabBar.appearance().unselectedItemTintColor = UIColor(named: "222222")
+        UITabBar.appearance().unselectedItemTintColor = UIColor(named: "008CE9")
         let appearance = UITabBarItem.appearance()
         let attributes = [NSAttributedString.Key.font: UIFont.robotoMedium(ofSize: 11)]
         appearance.setTitleTextAttributes(attributes, for: .normal)

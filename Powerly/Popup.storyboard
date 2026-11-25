@@ -357,7 +357,7 @@
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oJ5-D2-mBg">
                                 <rect key="frame" x="32" y="722" width="311" height="55"/>
-                                <color key="backgroundColor" name="222222"/>
+                                <color key="backgroundColor" name="008CE9"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="7UV-fq-IAE"/>
                                 </constraints>
@@ -467,7 +467,7 @@
                                     </stackView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wBz-Sd-78Y">
                                         <rect key="frame" x="16" y="192" width="343" height="55"/>
-                                        <color key="backgroundColor" name="222222"/>
+                                        <color key="backgroundColor" name="008CE9"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="55" id="vAe-c6-eRS"/>
                                         </constraints>
@@ -698,7 +698,7 @@
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pG4-Tc-HtS">
                                                 <rect key="frame" x="175.66666666666663" y="0.0" width="167.33333333333337" height="55"/>
-                                                <color key="backgroundColor" name="222222"/>
+                                                <color key="backgroundColor" name="008CE9"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="jxl-c6-F8f"/>
                                                 </constraints>
@@ -840,7 +840,7 @@
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OvE-uu-e9k" customClass="SpinnerButton" customModule="Powerly" customModuleProvider="target">
                                                         <rect key="frame" x="163.66666666666663" y="0.0" width="147.33333333333337" height="55"/>
-                                                        <color key="backgroundColor" name="222222"/>
+                                                        <color key="backgroundColor" name="008CE9"/>
                                                         <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="16"/>
                                                         <state key="normal" title="Yes">
                                                             <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -1136,6 +1136,9 @@
         </scene>
     </scenes>
     <resources>
+        <namedColor name="008CE9">
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <image name="alert_icon" width="168" height="168"/>
         <image name="call_icon" width="24" height="24"/>
         <image name="close_black" width="24" height="24"/>

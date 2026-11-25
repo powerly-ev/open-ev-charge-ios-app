@@ -106,7 +106,7 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bZa-VG-K6z">
                                 <rect key="frame" x="16" y="743" width="382" height="55"/>
-                                <color key="backgroundColor" name="222222"/>
+                                <color key="backgroundColor" name="008CE9"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="55" id="s5k-0h-U1g"/>
                                 </constraints>
@@ -167,6 +167,9 @@
         </scene>
     </scenes>
     <resources>
+        <namedColor name="008CE9">
+            <color red="0.98823529411764707" green="0.74901960784313726" blue="0.00392156862745098" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
         <image name="close_black" width="24" height="24"/>
         <image name="copy_code_icon" width="24" height="24"/>
         <image name="share_icon" width="24" height="24"/>

@@ -127,7 +127,7 @@ class VehicleDetailsViewController: UIViewController {
         if let fuelType = addVehicle.fuelType, fuelType == "Plug-In Hybrid" || fuelType == "Electric", addVehicle.connector == nil {
             return
         }
-        saveNextView.backgroundColor = UIColor(named: "222222")
+        saveNextView.backgroundColor = UIColor(named: "008CE9")
         saveNextLabel.textColor = UIColor(named: "WHITE")
         leftArrowImageView.tintColor = UIColor(named: "WHITE")
         rightArrowImageView.tintColor = UIColor(named: "WHITE")

@@ -86,7 +86,7 @@ class TransferBalanceViewController: UIViewController {
             return
         }
         self.addNewCardButton.isUserInteractionEnabled = true
-        self.addNewCardButton.backgroundColor = UIColor(named: "222222")
+        self.addNewCardButton.backgroundColor = UIColor(named: "008CE9")
     }
 
     @objc func handleTap(onLabel tapGesture: UITapGestureRecognizer) {
